@@ -19,4 +19,4 @@ for (i in 1:len) {
 pca.res <- prcomp(s)
 pca.res.sum <- summary(pca.res)
 df1 <- cbind(phthalate_compounds, pca.res$x[,1:2])
-write.csv(df1, "pca_res.csv", row.names = F, quote = F)
+write.csv(df1, "pca_res.csv", row.names = F, quote = T)
