@@ -4,11 +4,20 @@ phthalate_compounds <- read.csv("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compo
 if (!require(RCurl)) install.packages('RCurl')
 library(RCurl)
 
+load(url("https://github.com/barupal/dbexplore/raw/main/urine_cids.RData"))
+
 hex <- c("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f")
 bin <- c("0000", "0001", "0010", "0011", "0100", "0101", "0110", "0111", "1000", "1001", "1010", "1011", "1100", "1101", "1110", "1111")
 subkeys <- phthalate_compounds$Fingerprint2D
 m <- t(sapply(subkeys,function(x) { as.integer(strsplit(paste(sapply(strsplit(paste(base64Decode(x,"raw")[5:115],collapse=""),"")[[1]],function(x) {bin[which(hex==x)]}),collapse=""),"")[[1]][1:881] ) }))
 write.csv(m, "bitmat.csv", row.names = F, quote = T)
+
+urine_papers <- as.numeric(urine_cids[as.character(phthalate_compounds$CID)])
+urine_papers[is.na(urine_papers)] <- 0
+urine_coverage <- as.character(phthalate_compounds$CID)%in%names(urine_cids)
+phthalate_compounds$urine_papers <- urine_papers
+phthalate_compounds$urine_coverage <- urine_coverage
+
 mat <- m%*%t(m)
 len <- length(m[,1])
 s <- mat.or.vec(len,len)
