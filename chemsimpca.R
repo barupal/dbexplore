@@ -1,5 +1,5 @@
 # for Google Colab
-phthalate_compounds <- read.csv("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phthalate/property/Title,Fingerprint2D,MonoisotopicMass,XLogP/CSV?name_type=word", header = T, stringsAsFactors = F)
+phthalate_compounds <- read.csv("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phthalate/property/Title,Fingerprint2D,MonoisotopicMass,MolecularFormula,XLogP/CSV?name_type=word", header = T, stringsAsFactors = F)
 
 if (!require(RCurl)) install.packages('RCurl')
 library(RCurl)
