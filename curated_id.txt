@@ -1,7 +1,17 @@
+heptenedioate (c7:1-dc)	385
 imidazole lactate	793
+ffa(16:0)	985
+ffa(12:0)	3893
+ffa(18:0)	5281
 heptanoate (7:0)	8094
+ffa(22:0)	8215
+ffa(17:0)	10465
+ffa(20:0)	10467
+ffa(14:0)	11005
+ffa(24:0)	11197
 2-hydroxybutyrate/2-hydroxyisobutyrate	11266
 3-methylglutarate/2-methylglutarate	12284
+ffa(15:0)	13849
 4-acetamidobutanoate	18189
 guaiacol sulfate	22473
 3-methoxycatechol sulfate (1)	22473
@@ -21,6 +31,7 @@ cys-gly, oxidized	333293
 isoleucylglycine	342532
 4-hydroxyglutamate	439902
 homostachydrine	441447
+ffa(18:1)	445639
 aconitate [cis or trans]	643757
 n-formylphenylalanine	759256
 2-hydroxyheptanoate	2750949
@@ -29,6 +40,10 @@ catechol sulfate	3083879
 homostachydrine	4479243
 4-acetylphenol sulfate	4684006
 bilirubin (e,z or z,e)	5280352
+ffa(22:1)	5281116
+ffa(14:1)	5281119
+ffa(24:1)	5281120
+ffa(20:1)	5282768
 2-hydroxynervonate	5312783
 2-aminoheptanoate	5312965
 dodecenedioate (c12:1-dc)	5354373
@@ -50,22 +65,28 @@ pyroglutamylglutamine	11010621
 n-acetylcitrulline	11506771
 delta-cehc	11536125
 o-cresol sulfate	11615528
+ffa(16:1)	11680418
 pro-hydroxy-pro	11902892
 pyroglutamine	11984188
+hexadecenedioate (c16:1-dc)	12099230
 2-aminophenol sulfate	12196936
 4-methoxyphenol sulfate	14199589
 1h-indole-7-acetic acid	18356439
+octadecenedioate (c18:1-dc)	20444354
 16a-hydroxy dhea 3-sulfate	20848950
 16a-hydroxy dhea 3-sulfate	20848951
 2-aminooctanoate	20849100
 2-hydroxylaurate	21981466
 3-hydroxypyridine sulfate	22642043
 gamma-glutamylisoleucine	22885096
+octadecadienedioate (c18:2-dc)	25156710
 glycochenodeoxycholate sulfate	25245393
 hexanoylglutamine	28880746
 equol sulfate	29979373
 n-oleoylserine	44190514
 3-hydroxystachydrine	46173781
+n-linoleoyltaurine	52922081
+margaroylcarnitine (c17)	53477803
 cerotoylcarnitine (c26)	53477828
 arachidonoylcarnitine (c20:4)	53477832
 arachidoylcarnitine (c20)	53477833
@@ -83,11 +104,13 @@ equol glucuronide	71316395
 succinylcarnitine (c4-dc)	71464481
 cis-4-decenoylcarnitine (c10:1)	71464497
 suberoylcarnitine (c8-dc)	71464531
+palmitoleoylcarnitine (c16:1)	71464547
 behenoylcarnitine (c22)	71464577
 2-hydroxyarachidate	72715769
 2-methoxyacetaminophen sulfate	86290014
 androstenediol (3beta,17beta) disulfate (1)	87120982
 androstenediol (3beta,17beta) disulfate (2)	87120982
+myristoleoylcarnitine (c14:1)	90659872
 glycodeoxycholate sulfate	101602538
 alpha-cehc sulfate	118437350
 5alpha-pregnan-3beta,20alpha-diol disulfate	118703093
@@ -112,7 +135,10 @@ androstenediol (3beta,17beta) monosulfate (2)	129670631
 5-hydroxyindole sulfate	129817528
 4-methylcatechol sulfate	129848880
 3-methoxycatechol sulfate (2)	129892430
+linolenoylcarnitine (c18:3)	134812245
 carboxyibuprofen glucuronide	135390721
+phenylacetylcarnitine	140348918
+lignoceroylcarnitine (c24)	142470749
 adrenoylcarnitine (c22:4)	142470752
 glycocholenate sulfate	145453482
 taurocholenate sulfate	145453483
