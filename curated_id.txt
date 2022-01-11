@@ -1,18 +1,69 @@
+ 2,5-dihydroxypyrazine 	23368901
+ fatty acid (12:0) (lauric acid) 	3893
+ fatty acid (13:0) (tridecylic acid) 	12530
+ fatty acid (14:0) (myristic acid) 	11005
+ fatty acid (14:1) (physeteric acid) 	5312400
+ fatty acid (15:0) (pentadecylic acid) 	13849
+ fatty acid (15:1)  	6365140
+ fatty acid (16:1) (palmitoleic acid) 	445638
+ fatty acid (18:1) (oleic acid) 	445639
+ fatty acid (18:2) (linoleic acid) 	5282796
+ fatty acid (18:3) (linolenic acid) 	5280934
+ fatty acid (20:1) (eicosenoic acid) 	5282768
+ fatty acid (20:2) (eicosadienoic acid) 	6439848
+ fatty acid (20:3) (eicosatrienoic acid) 	5312529
+ fatty acid (20:3) (homo-gamma-linolenic acid) 	5280581
+ fatty acid (20:4) (arachidonic acid) 	444899
+ fatty acid (20:5) (eicosapentaenoic acid) 	446284
+ fatty acid (22:1) (erucic acid) 	5281116
+ fatty acid (22:2) (docosadienoic acid) 	5282807
+ fatty acid (22:6) (docosahexaenoic acid) 	445580
+ fatty acid (24:0) (lignoceric acid) 	11197
+ fatty acid (24:1) (nervonic acid) 	5281120
+ fatty acid (26:0) (cerotic acid) 	10469
+ fatty acid (8:0) (caprylic acid) 	379
+(-)-Ephedrine	9294
+(-)-Pseudoephedrine	62946
+(3-Carboxypropyl)trimethylammonium	134
+(R)-3-Hydroxybutyric acid	92135
+(R)-3-Hydroxyisobutyric acid	11217234
+(R)-Butyrylcarnitine	213144
+(R)-Salsolinol	54456
+(S)-3,4-Dihydroxybutyric acid	150929
+(S)-3-Hydroxybutyric acid	94318
+(S)-3-Hydroxyisobutyric acid	440873
+(S)-b-aminoisobutyric acid	439434
 (r)-salsolinol	7157331
 1,11-undecanedicarboxylate	10458
+1,2,3,6-Tetrahydrobenzylalcohol	15512
 1,2,3-benzenetriol sulfate	54110629
 1,2,3-benzenetriol sulfate (2)	54110629
+1,2,4-benzenetriol	10787
+1,2-Dihexadecanoyl-sn-glycero-3-phosphate	446066
+1,2-Dilinoleoyl-glycero-3-phosphoethanolamine	91746202
+1,2-Dioleoyl-3-trimethylammoniumpropane cation	6437371
+1,2-anhydro-myo-inositol 	119054
 1,2-dilinoleoyl-gpc (18:2/18:2)	5288075
+1,2-dioleoyl-sn-glycero-3-phosphatidylcholine	10350317
 1,2-dipalmitoyl-gpc (16:0/16:0)	452110
 1,2-dipalmitoylglycerol	3081382
 1,2-propanediol	1030
 1,3,7-trimethylurate	79437
+1,3-Diaminopropane	428
 1,3-diaminopropane	428
 1,3-dihydroxyacetone	670
 1,3-dimethylurate	70346
 1,3-dipalmitoylglycerol	3081382
+1,4-Cyclohexanedicarboxylic acid	14106
+1,4-Cyclohexanedione	12511
+1,4-Dichlorobenzene	4685
+1,5-Anhydrosorbitol	64960
+1,5-Pentanediamine	273
+1,5-anhydroglucitol	64960
 1,5-anhydroglucitol (1,5-ag)	64960
 1,6-anhydroglucose	2724705
+1,7-Dimethyluric acid	91611
+1,7-Dimethylxanthine	4687
 1,7-dimethylurate	91611
 1-(1-enyl-palmitoyl)-2-arachidonoyl-gpc (p-16:0/20:4)	24779388
 1-(1-enyl-palmitoyl)-2-arachidonoyl-gpe (p-16:0/20:4)	122198210
@@ -33,7 +84,67 @@
 1-(1-enyl-stearoyl)-2-oleoyl-gpe (p-18:0/18:1)	86289530
 1-(1-enyl-stearoyl)-gpc (p-18:0)	24779527
 1-(1-enyl-stearoyl)-gpe (p-18:0)	121596233
+1-(1Z-Octadecenyl)-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-glycero-3-phosphocholine	24779390
+1-(1Z-Octadecenyl)-2-(9Z-octadecenoyl)-glycero-3-phosphocholine	42607428
+1-(1Z-Octadecenyl)-glycero-3-phosphocholine	24779527
 1-(3-aminopropyl)-2-pyrrolidone	82111
+1-(alpha-Methyl-4-(2-methylpropyl)benzeneacetate)-beta-D-Glucopyranuronic acid	163959
+1-2-Dihexadecanoyl sn glycero-3-phosphate	452110
+1-Acetylimidazole	17174
+1-Aminocyclohexanecarboxylic acid	1366
+1-Butanol	263
+1-Cycloheptyl-4-piperidinamine	4778241
+1-Ethyl-3-piperidinamine	98094
+1-Heptadecanoyl-glycero-3-phosphocholine	24779463
+1-Heptanamine	8127
+1-Hexadecanoyl-2-octadecadienoyl-glycero-3-phosphocholine	5287971
+1-Hexadecanoyl-sn-glycero-3-phosphocholine	460602
+1-Hexadecyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-glycero-3-phosphocholine	14389476
+1-Hexadecyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine	24779266
+1-Hexadecyl-glycero-3-phosphocholine	162126
+1-Hexadecylamine	8926
+1-Hexadecylpyridinium cation	2683
+1-Hydroxy-2-naphthoic acid	6844
+1-Kestose	440080
+1-Methyl-L-histidine	352019
+1-Methyl-L-histidine	92105
+1-Methyladenosine	27476
+1-Methyladenosine B	27476
+1-Methylguanosine	96373
+1-Methylhistamine	3614
+1-Methylhistidine	5186528
+1-Methylhistidine	92105
+1-Methylinosine	65095
+1-Methylnicotinamide	457
+1-Myristoyl-glycero-3-phosphocholine	460604
+1-O-Hexadecyl-2-O-acetyl-glyceryl-3-phosphorylcholine	108156
+1-Oleoyl-2-hydroxy-glycero-3-phospho-(1'-rac-glycerol)	86583378
+1-Oleoyl-2-myristoyl-glycero-3-phosphocholine	24778931
+1-Oleoyl-glycero-3-phosphoethanolamine	58177709
+1-Oleoyl-sn-glycero-3-phosphocholine	16081932
+1-Oleoyl-sn-glycero-3-phosphocholine	57369594
+1-Palmitoyl-2-arachidonoyl-glycero-3-phosphoserine	24779544
+1-Palmitoyl-2-azelaoylphosphatidylcholine	46907870
+1-Palmitoyl-2-docosahexaenoyl-glycero-3-phosphocholine	6441886
+1-Palmitoyl-2-glutaryl phosphatidylcholine	11365502
+1-Palmitoyl-2-linoleoyl-sn-glycero-3-phosphocholine A	5287971
+1-Palmitoyl-2-linoleoyl-sn-glycero-3-phosphocholine B	5287971
+1-Palmitoyl-glycero-3-phosphocholine	460602
+1-Palmitoyl-sn-glycero-3-phosphocholine	460602
+1-Palmitoyl-sn-glycero-3-phosphocholine	460603
+1-Pentadecanoyl-glycero-3-phosphocholine	24779458
+1-Phenylethylamine	7408
+1-Phenylurea-3-hexanoic acid	4137915
+1-Propanol 2-amino-2-methyl	11807
+1-Propanol, 2-amino-2-methyl-	11807
+1-Stearoyl-2-arachidonoyl-glycero-3-phospho-(1'-myo-inositol)	71581204
+1-Stearoyl-2-arachidonoyl-glycero-3-phosphoserine	24779545
+1-Stearoyl-2-arachidonyl-glycero-3-phosphocholine	24778859
+1-Stearoyl-2-docosahexaenoyl-glycero-3-phosphocholine	24778876
+1-Stearoyl-2-hydroxy-glycero-3-phosphocholine	497299
+1-Stearoyl-2-myristoyl-glycero-3-phosphocholine	3082163
+1-Stearoyl-2-myristoyl-sn-glycero-3-phosphocholine A	3082163
+1-Stearoyl-2-myristoyl-sn-glycero-3-phosphocholine B	3082163
 1-adrenoyl-gpc (22:4)	52924039
 1-arachidonoyl lpa	42607498
 1-arachidonoyl-gpa (20:4)	71728371
@@ -76,6 +187,8 @@
 1-methyl-beta-carboline-3-carboxylic acid	5406157
 1-methyladenine	78821
 1-methyladenosine	27476
+1-methylgalactose 	2108
+1-methylgalactose NIST	2108
 1-methylguanidine	10111
 1-methylguanosine	250902
 1-methylhistamine	3614
@@ -84,6 +197,10 @@
 1-methylnicotinamide	457
 1-methylurate	69726
 1-methylxanthine	80220
+1-monoheptadecanoyl glyceride NIST	107036
+1-monoolein	5283468
+1-monopalmitin	14900
+1-monostearin	24699
 1-myristoyl-2-palmitoyl-gpc (14:0/16:0)	129657
 1-myristoyl-gpc (14:0)	460604
 1-myristoylglycerol (14:0)	79050
@@ -156,34 +273,213 @@
 1-stearoylglycerophosphoinositol	42607495
 1-stearoylglycerophosphoserine	131770411
 1-stearyl-gpc (o-18:0)	2733532
+10-Methylundecanoic acid	75942
+10-Nitrolinoleate	5282259
+10-Nitrolinoleic acid	5282259
+10-Nitrooleate	24836820
 10-gingerol	168115
 10-heptadecenoate (17:1n7)	5312435
 10-hydroxydecanoic acid	74300
+10-nitrolinoleic acid	5282259
+10-nitrooleic acid	24836820
 10-nonadecenoate (19:1n9)	5312513
 10-shogaol	6442612
+11(12)-EpETE	16061087
+11(12)-epoxy-5,8,14,17- eicosatetraenoic acid	16061087
+11(R)-HETE	5283168
+11,12-DiHETrE	5283146
+11,12-Dihydroxyicosa-5,8,14-trienoic acid	5283146
+11,12-EpETrE	5283204
+11,12-EpETrE	53480479
+11,12-Epoxyeicosa-5,8,14-trienoic acid	5283204
+11,15-Dioxo-9S-hydroxy-5Z-prostenoic acid	5283036
+11-Dehydro-thromboxane B2	5280891
+11-HETE	5312981
+11-Hydroxy-14,15-epoxyeicosatrienoic acid	5283205
+11-Hydroxy-arachidonic acid	5312981
 11-dehydrocorticosterone	5311364
+11-trans-Leukotriene C4	5283134
+1112-EpETE	16061087
+1112-epoxy-5,8,14,17- eicosatetraenoic acid	16061087
+11H-14,15-EETA	11954058
+11Z-Octadecenylcarnitine	53481695
+11b-Hydroxyprogesterone	101788
+11b-PGF2a	5280886
+12(13)-EpOME	5356421
+12(13)-epoxy-9,15-octadecadienoic acid	16061061
+12(13)Ep-9-KODE	5283007
+12(S)-HETE-d8	6914100
+12(S)-HPETE	5280892
+12, 13-Epoxyoctadec-9Z-enoic acid	5356421
+12,13-DHOME	10236635
+12,13-DiHODE	16061067
+12,13-EpOME	5356421
 12,13-dihome	10236635
+12,13-dihydroxyoctadec-9-enoic acid	10236635
+12,13-dihydroxyoctadeca-9,15-dienoic acid	16061067
+12,13-epoxy-9,15-octadecadienoic acid	16061061
+12,13-epoxy-9-octadecenoic acid	5356421
 12,13-hydroxyoctadec-9(z)-enoate	10236635
+12-(cyclohexylcarbamoylamino)dodecanoic acid	22978774
+12-HEPE	10041593
+12-HETE	5283155
+12-HpETE	5280892
+12-Hydroxy-5,8,10,14 eicosatetraenoic acid	5280892
+12-Hydroxy-5,8,10,14,17 eicosapentaenoic acid	5283191
+12-Hydroxy-5,8,10,14,17-eicosapentaenoic acid	5283191
+12-Hydroxy-5,8,10,14-eicosatetraenoic acid	5283155
+12-cyclohexylcarbamoylaminododecanoic acid	22978774
 12-dehydrocholate	94235
 12-hepe	10041593
 12-hete	5312983
+12-hydroperoxyicosa-5,8,10,14-tetraenoic acid	5280892
 12-methyltridecanoic acid	520298
+1213-EpOME	5356421
+1213-epoxy-9,15-octadecadienoic acid	16061061
 1213-hydroxyoctadec-9(z)-enoate	10236635
+1213Ep-9-KODE	5283007
+12S-HEPE	5283191
+12S-HETE	5283155
+12S-HETE-d8	6914100
+12S-HHT	5283141
+12_13-DiHOME	10236635
+13,14-Dihydro PGE1	161273
+13,14-Dihydro-15-keto PGF2a	5283039
+13,14-Dihydro-15-keto-PGE2	5280711
+13-HOTE	10469728
+13-HpODE	5280720
+13-Hydroxyoctadecadienoic acid	6443013
+13-KODE	6446027
+13-L-Hydroperoxylinoleic acid	5280720
+13-OxoODE	6446027
+13-cis-Retinoic acid	5282379
 13-hode	6443013
 13-hode + 9-hode	6443013
+13-hydroperoxyoctadeca-9,11-dienoic acid	5280720
+13-hydroxyoctadeca-9,11,15-trienoic acid	10469728
+13-ketooctadeca-9,11-dienoic acid	6446027
 13-methylmyristate	151014
 13-methylmyristic acid	151014
+13S-HODE	6443013
+13S-hydroxyoctadecadienoic acid	6443013
+14(15)-EpETE	16061088
+14(15)-epoxy-5,8,11,17-eicosatetraenoic acid	16061088
+14,15-DiHETE	16061119
+14,15-DiHETrE	5283147
+14,15-EpETE	16061088
+14,15-EpETrE	5283205
+14,15-Epoxy-5,8,11-eicosatrienoic acid	5353279
+14,15-dihydroxyeicosa-5,8,11,17-tetraenoic acid	16061119
+14,15-dihydroxyeicosa-5,8,11-trienoic acid	5283147
+14,15-dihydroxyeicosa-5.8.11.17-tetraenoic acid	16061119
+14-HDoHE	11566378
+14-hydroxydocosa-4,7,10,12,16,19-hexaenoic acid	11566378
+14-hydroxydocosa-4.7.10.12.16.19-hexaenoic acid	11566378
+1415-EpETE	16061088
+1415-epoxy-5,8,11,17-eicosatetraenoic acid	16061088
+14R,15S-EpETrE	5283201
+15(16)-EpODE	16061062
+15(16)-epoxy-9,12-octadecadienoic acid	16061062
+15(S)-HETE	5280724
+15(S)-HPETE	5280893
+15(S)-Hydroxyeicosatrienoic acid	5283145
+15,16 epoxy-9,12-octadecadienoic acid	16061062
+15,16-DiHODE	16061068
+15,16-EpODE	16061062
+15,16-dihydroxyoctadeca-9,12-dienoic acid	16061068
+15-Deoxy-d-12,14-PGJ2	5311211
+15-Deoxy-delta-12,14 Prostaglandin J2	5311211
+15-Deoxy-delta-12,14-Prostaglandin J2	5311211
+15-HEPE	16061131
+15-HEPE	53480357
+15-HETE	5280724
+15-HpETE	5280893
+15-KETE	5280701
+15-Keto PGE2	5280719
+15-Keto-13,14-dihydroprostaglandin A2	5283042
+15-Keto-prostaglandin E2	5280719
+15-Keto-prostaglandin F2a	5280887
+15-Ketoprostaglandin E1	5280710
 15-anhydroglucitol (15-ag)	64960
+15-deoxy PGJ2	5311211
 15-hete	5280724
+15-hydroperoxyeicosa-5,8,11,13-tetraenoic acid	5280893
+15-hydroxyeicosa-5,8,11,13,17-pentaenoic acid	16061131
+15-hydroxyeicosa-5,8,11,13-tetraenoic acid	5280724
+15-ketoeicosa-5,8,11,13-tetraenoic acid	5280701
 15-methylpalmitate	17903417
+1516-epoxy-9,12-octadecadienoic acid	16061062
+16(17)-EpDPE	14392758
+16(17)-epoxy-4,7,10,13,19-docosapentaenoic acid	14392758
+16(R)-HETE	9548884
+16,16-Dimethylprostaglandin A2	10384061
 16-hydroxypalmitate	7058075
+1617-EpDPE	14392758
+1617-epoxy-4,7,10,13,19-docosapentaenoic acid	14392758
+16a-Hydroxyestrone	115116
 16a-hydroxy dhea 3-sulfate	20848950
 16a-hydroxy dhea 3-sulfate	20848951
+17(18)-EpETE	16061089
+17,18-DiHETE	16061120
+17,18-EpETE	16061089
+17,18-Epoxy-5,8,11,14-eicosatetraenoic acid	16061089
+17,18-dihydroxyeicosa-5,8,11,14-tetraenoic acid	16061120
+17-Epioxandrolone	13728274
+17-HDoHE	6439179
+17-HETE	6442740
+17-beta-estradiol-3-glucuronide	13783824
+17-hydroxy-4,7,10,13,15,19-docosahexaenoic acid	6439179
 17-methylstearate	102828
+1718-EpETE	16061089
+17a-Estradiol	68570
+17a-Ethynylestradiol	5991
+17a-Hydroxypregnenolone	91451
 17alpha-hydroxypregnenolone 3-sulfate	644042
 17alpha-hydroxypregnenolone sulfate	152971
+18-(3-ethyloxiran-2-yl)octadeca-4,7,10,13,16-pentaenoic acid	11631565
+18-3-ethyloxiran-2-yloctadeca-4,7,10,13,16-pentaenoic acid	11631565
+18-Hydroxyarachidonic acid	6442778
+18-Hydroxycortisol	123655
+18-Oxocortisol	123712
+18R-HEPE	53481496
+19(20)-EpDPE	11631565
+19,20-DiHDPA	16061148
+19,20-DiHDPE	16061148
+19,20-dihydroxydocosa-4,7,10,13,16-pentaenoic acid	16061148
+19-Norandrosterone	128251
+1920-EpDPE	11631565
+1H-Indole-3-carboxylic acid, 1-pentyl-	17381723
+1_CE(22:1) iSTD 	53480460
+1_CUDA iSTD	22978774
+1_CUDA iSTD 	22978774
+1_Cer(d18:1/17:0) iSTD 	44584335
+1_Ceramide (d18:1/17:0) iSTD	44584335
+1_Cholesterol d7 iSTD 	5314029
+1_DG(12:0/12:0/0:0) iSTD 	151838
+1_DG(18:1/2:0/0:0) iSTD 	6437055
+1_FA (16:0)-d3 iSTD	12358530
+1_LPC (17:0) iSTD	24779463
+1_LPC(17:0) iSTD 	24779463
+1_LPE (17:1) iSTD	42607464
+1_LPE(17:1) iSTD 	42607464
+1_MAG (17:0/0:0/0:0) iSTD	107036
+1_MG(17:0/0:0/0:0) iSTD 	107036
+1_PC (12:0/13:0) iSTD	24778516
+1_PC(12:0/13:0) iSTD 	24778516
+1_PE (17:0/17:0) iSTD	46891874
+1_PE(17:0/17:0) iSTD 	46891874
+1_PG (17:0/17:0) iSTD	52927160
+1_SM(d18:1/17:0) iSTD 	46891763
+1_Sphingosine(d17:1) iSTD 	5283557
+1_TG d5(17:0/17:1/17:0) iSTD 	5283479
 1h-indole-7-acetic acid	18356439
 1h-quinolin-2-one	6038
+2',4'-Dimethoxychalcone	5837330
+2'-Deoxycytidine	13711
+2'-Deoxyguanosine	187790
+2'-Deoxyinosine	65058
+2'-Hydroxy-beta-naphthoflavone	676304
+2'-O-Methyl-5-methyluridine	191372
 2'-deoxyadenosine	13730
 2'-deoxyadenosine 3'-monophosphate	167350
 2'-deoxyadenosine 5'-monophosphate	12599
@@ -192,19 +488,64 @@
 2'-deoxyguanosine	187790
 2'-deoxyinosine	65058
 2'-deoxyuridine	13712
+2'-o-Methylguanosine	188959
 2'-o-methylcytidine	150971
+2,2',2''-Nitrilotriethanol	7618
+2,2-Dimethylsuccinic acid	11701
+2,3-Butanediol	225936
+2,3-Dinor-6-keto-prostaglandin F1 a	53477747
 2,3-butanediol	262
 2,3-dihydroxy-2-methylbutyrate	301941
 2,3-dihydroxybenzoate	54675818
 2,3-dihydroxyisovalerate	440279
 2,4,6-trihydroxybenzoate	54707511
+2,4-Dihydroxybenzoic acid	1491
+2,4-Dihydroxybutanoic acid	192742
 2,4-diaminobutyrate	470
+2,6-Dimethoxybenzoic acid	15109
+2,6-dihydroxybenzoic acid	9338
 2,8-quinolinediol	97250
 2-(4-hydroxyphenyl)propionate	10394
+2-(5-Oxovaleryl)phosphatidylcholine	23557187
+2-(N-Ethyl-perfluorooctane sulfonamido) acetic acid	18134
+2-Acetylpyrazine	30914
+2-Amino-1-phenylethanol	1000
+2-Amino-2-methyl-1,3-propanediol	1531
+2-Amino-3-methoxybenzoic acid	255720
+2-Aminobenzoic acid	227
+2-Aminoisobutyric acid	6119
+2-Aminothiazol-4-ylacetic acid	34665
+2-Arachidonylglycerol	5282280
+2-Docosahexaenoyl-1-palmitoyl-glycero-3-phosphoethanolamine	86289492
+2-Docosahexaenoyl-1-stearoyl-glycero-3-phosphoethanolamine	86289497
+2-Hydroxy-3-methylbutyric acid	99823
+2-Hydroxy-6-aminopurine	76900
+2-Hydroxybutyric acid	440864
+2-Hydroxychalcone	5367146
+2-Hydroxyestrone	440623
+2-Hydroxyisobutyric acid	11671
+2-Hydroxyphenethylamine	1000
+2-Imino-4-methylpiperidine	3268009
+2-Ketobutyric acid	96
+2-Methoxybenzoic acid	7052
+2-Methoxyestradiol	66414
+2-Methylbutyryl-L-carnitine	9881339
+2-Methylcitric acid	439681
+2-Methylglutaric acid	12046
+2-Octenoylcarnitine	53481667
+2-Oleoyl-1-palmitoyl-glycero-3-phosphoserine	5283499
+2-Oleoyl-1-palmitoyl-sn-glycero-3-phosphocholine A	5313178
+2-Oleoyl-1-palmitoyl-sn-glycero-3-phosphocholine B	5313178
+2-Oleoyl-1-stearoyl-glycero-3-phosphoserine	59720717
+2-Oxoarginine	558
+2-Oxovaleric acid	74563
+2-Pyrocatechuic acid	19
+2-Pyrrolidinone	12025
 2-acetamidophenol sulfate	181671
 2-amino-2-methyl-1-propanol	11807
 2-aminoadipate	92136
 2-aminobutyrate	80283
+2-aminobutyric acid	6657
 2-aminoheptanoate	227939
 2-aminoheptanoate	5312965
 2-aminoheptanoate	59943034
@@ -218,8 +559,12 @@
 2-arachidonoylglycerol (20:4)	5282280
 2-arachidonoylglycerophosphocholine	24779476
 2-arachidonoylglycerophosphoinositol	42607497
+2-deoxyerythritol	18302
 2-deoxyinosine	65058
+2-deoxyisotetronic acid NIST	192742
+2-deoxypentitol NIST	249377
 2-deoxyribose	5460005
+2-deoxytetronic acid	150929
 2-docosahexaenoylglycerophosphocholine	10415542
 2-docosahexaenoylglycerophosphoethanolamine	52925132
 2-docosapentaenoylglycerophosphoethanolamine	52925146
@@ -231,11 +576,13 @@
 2-hydroxyacetaminophen sulfate	45750
 2-hydroxyadipate	193530
 2-hydroxyarachidate	72715769
+2-hydroxybutanoic acid	440864
 2-hydroxybutyrate (ahb)	11266
 2-hydroxybutyrate/2-hydroxyisobutyrate	11266
 2-hydroxydecanoate	21488
 2-hydroxydecanoic acid	21488
 2-hydroxyglutarate	43
+2-hydroxyglutaric acid	43
 2-hydroxyheptanoate	2750949
 2-hydroxyhippurate (salicylurate)	10253
 2-hydroxyibuprofen	10443535
@@ -245,11 +592,16 @@
 2-hydroxynervonate	5312783
 2-hydroxyoctanoate	94180
 2-hydroxypalmitate	22485761
+2-hydroxypentanoic acid 	98009
 2-hydroxyphenylacetate	127
+2-hydroxyquinoline	6038
 2-hydroxystearate	21145041
+2-hydroxyvaleric acid	98009
 2-isopropylmalate	5280523
 2-keto-3-deoxy-gluconate	161227
+2-ketoadipic acid 	71
 2-ketogulonate	3035456
+2-ketoisocaproic acid	70
 2-linoleoylglycerol (18:2)	5365676
 2-linoleoylglycerol (2-monolinolein)	6436630
 2-linoleoylglycerophosphocholine	24779470
@@ -265,6 +617,8 @@
 2-methylmalonyl carnitine	121596220
 2-methylpentanedioic acid	12046
 2-methylserine	94309
+2-monoolein	5319879
+2-monostearin 	79075
 2-myristoylglycerol (14:0)	137938
 2-myristoylglycerophosphocholine	5459377
 2-o-methylguanosine	97217
@@ -295,29 +649,116 @@
 2-stearoylglycerophosphocholine	497299
 2-stearoylglycerophosphoglycerol	45479454
 2-stearoylglycerophosphoinositol	131770413
+20-HETE	123803
+20-HETE ethanolamide	35027640
+20-HETE-d6	16061123
+20-Hydroxyarachidonic acid	123803
+20-Hydroxyarachidonic acid	5283157
+20-Hydroxyeicosatetraenoic acid	5283157
 20-hete	5283157
 20-hydroxyecdysone	5459840
+20a-Dihydroprogesterone	92747
+21-Deoxycortisol	440709
 21-hydroxypregnenolone disulfate	644042
 23-dihydroxyisovalerate	440279
+24,25-Dihydroxyvitamin D	6434253
+24-Hydroxycholesterol	121948
+25,26-dihydroxyvitamin D	53477727
+25-Hydroxyvitamin D2	22833566
+27-Hydroxycholesterol	99470
+2S-Amino-4E-octadecene-1,3S-diol	11130338
 3'-dephosphocoenzyme a	444485
+3'-o-Methylcytidine	18651938
+3'-o-Methylinosine	91827843
+3,4-Dihydroxybenzeneacetic acid	547
+3,4-Dihydroxyhydrocinnamic acid	348154
+3,4-Dihydroxymandelic acid	85782
+3,4-Dihydroxyphenylglycol	91528
+3,4-Dimethylbenzaldehyde	22278
+3,4-Methylenedioxymethamphetamine	1615
+3,4-O-Dimethylgallic acid	74709
 3,4-dihydroxybenzoate	54675866
+3,4-dihydroxybenzoic acid	72
+3,4-dihydroxycinnamic acid	689043
 3,4-dihydroxyphenylacetate	5460350
 3,4-dimethoxy-hydrocinnamic acid	75019
 3,4-dimethoxycinnamic acid	717531
+3,5-Dihydroxybenzoic acid	7424
+3,5-Diiodo-L-tyrosine	9305
+3,5-Diiodothyronine	7155252
 3,5-dihydroxybenzoic acid	7424
+3,6-anhydro-galactose	16069996
+3,6-anhydro-glucose 	16069993
 3,7-dihydroxy-5-cholestenoic acid	3081084
 3,7-dimethylurate	83126
+3-(1-Pyrazolyl)-alanine	151491
+3-(1-pyrazolyl)-L-alanine	151491
 3-(2-hydroxyphenyl)propionate	6930705
+3-(3,4,5-Trimethoxyphenyl)propanoic acid	64860
+3-(3,4-Dihydroxyphenyl)lactic acid	439435
+3-(3,4-Dimethoxyphenyl)-2-propenoic acid	16848
+3-(3-Hydroxyphenyl)propanoic acid	91
 3-(3-hydroxyphenyl)propionate	91
 3-(3-hydroxyphenyl)propionate sulfate	187488
+3-(4-Hydroxyphenyl)lactic acid	9378
 3-(4-hydroxyphenyl)lactate	9378
 3-(4-hydroxyphenyl)propionate	5460080
 3-(cystein-s-yl)acetaminophen	171264
+3-1-pyrazolyl-L-alanine	151491
 3-3-hydroxyphenyl-propionate	91
+3-Acetoxypyridine	87289
+3-Amino-3-(4-fluorophenyl)propionic acid	4257182
+3-Amino-3-(4-hydroxyphenyl)propionic acid	440311
+3-Aminoisobutanoic acid	64956
+3-Aminoquinoline	11375
+3-Buten-1-ol 3-methyl	12988
+3-Buten-1-ol, 3-methyl-	12988
+3-Chlorotyrosine	110992
+3-Cyclohexyl-1,1-dimethylurea	4594662
+3-Cysteinylacetaminophen	171264
+3-Dehydrocarnitine	6991982
+3-Guanidinopropionic acid	67701
+3-Hydroxyanthranilic acid	86
+3-Hydroxybenzoic acid	7420
+3-Hydroxybutyric acid	441
+3-Hydroxybutyrylcarnitine	71464477
+3-Hydroxybutyrylcarnitine	90659885
+3-Hydroxydodecanoic acid	94216
+3-Hydroxyglutaric acid	181976
+3-Hydroxyhexadecanoylcarnitine	126456228
+3-Hydroxyhexadecanoylcarnitine	71464553
+3-Hydroxyisovaleric acid	69362
+3-Hydroxyisovaleroylcarnitine	57357187
+3-Hydroxyoctadecanoic Acid	5282907
+3-Hydroxyoleylcarnitine	131668118
+3-Hydroxyphenylacetic acid	12122
+3-Hydroxypyridine	7971
+3-Hydroxyvaleric acid	107802
+3-Indoleacetic acid	802
+3-Indoleacrylic acid	5375048
+3-Indolepropionic acid	3744
+3-Methoxy-4-Hydroxyphenylglycol sulfate	3035420
+3-Methoxybenzoic acid	11461
+3-Methoxytyramine	1669
+3-Methoxytyrosine	9307
+3-Methyl-2-oxovaleric acid	47
+3-Methylhistamine	69520
+3-Methylhistidine	64969
+3-Methylsulfinylpropyl isothiocyanate	10455
+3-Nitrotyrosine	65124
+3-Oxo-1,8-octanedicarboxylic acid	1755
+3-Phosphoglyceric acid	439168
+3-Phosphonopropionic acid	1682
+3-Pyridylacetic acid	108
+3-Pyridylacetic acid	4615299
+3-Sulfinoalanine	1549098
+3-Ureidopropionic acid	111
 3-[3-(sulfooxy)phenyl]propanoic acid	187488
 3-acetylphenol sulfate	4684006
+3-alpha-Galactobiose	448925
 3-aminobutyrate	22234706
 3-aminoisobutyrate	64956
+3-aminoisobutyric acid	64956
 3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)	64505
 3-dehydrocarnitine	439773
 3-dehydrocholate	46926187
@@ -330,6 +771,8 @@
 3-hydroxyanthranilate	86
 3-hydroxybenzoate	7420
 3-hydroxybutyrate (bhba)	441
+3-hydroxybutyric acid	441
+3-hydroxybutyric acid	92135
 3-hydroxybutyrylcarnitine	71464477
 3-hydroxybutyrylcarnitine (1)	53481617
 3-hydroxybutyrylcarnitine (2)	71464477
@@ -349,6 +792,7 @@
 3-hydroxyphenylacetate	12122
 3-hydroxyproline	150779
 3-hydroxypropanoate	5459847
+3-hydroxypropionic acid	68152
 3-hydroxypyridine	7971
 3-hydroxypyridine sulfate	22642043
 3-hydroxyquinine	157225
@@ -371,6 +815,7 @@
 3-methyl catechol sulfate (2)	122164827
 3-methyl-2-oxobutyrate	49
 3-methyl-2-oxovalerate	439286
+3-methyl-L-histidine	64969
 3-methyladipate	12292
 3-methylcrotonylglycine	169485
 3-methylcytidine	159649
@@ -390,20 +835,68 @@
 3-phosphoglycerate	724
 3-phosphoserine	106
 3-sialyllactose	123914
+3-trans,5-cis-Octadienoyl-CoA	22833586
 3-ureidopropionate	111
 34-dihydroxyphenylacetate	547
 35-dihydroxybenzoic acid	7424
+3a-Hydroxy-5b-pregnane-20-one	24779614
+3alpha,4beta,3alpha-Galactotetraose	46878602
+3alpha-Galactobiose	16219440
+3alpha-Mannobiose	11013287
+3b,17b-Dihydroxyetiocholane	53477687
 3b-hydroxy-5-cholenoic acid	92997
 3beta,7alpha-dihydroxy-5-cholestenoate	3081084
 3beta-hydroxy-5-cholestenoate	165511
+4',5-dihydroxy-7-glucosyloxyflavanone	92794
+4,5,7-Trihydroxyisoflavone	5280961
+4-(1-Pyrrolidinyl)piperidine	78703
+4-(2-Hydroxyethyl)piperazine-1-ethanesulfonic acid	23831
+4-Acetamidobutanoic acid	18189
+4-Acetamidobutyric acid	18189
+4-Aminohippuric acid	2148
+4-Aminophenol	403
+4-Ethylbenzoic acid	12086
+4-Ethylphenol	31242
+4-Fluorophenethyl alcohol	82068
+4-Guanidinobutanoic acid	500
+4-Guanidinobutyric acid	25200642
+4-Guanidinobutyric acid	500
+4-HDoHE	14429109
+4-Heptanone	31246
+4-Hydroxy-4-methyl-2-pentanone  	31256
+4-Hydroxy-N-methyl-N-isopropyltryptamine	10082683
+4-Hydroxybenzoic acid	135
+4-Hydroxybutyric acid	3037032
+4-Hydroxydebrisoquine	107669
+4-Hydroxyhippuric acid	151012
+4-Hydroxyphenyl-2-propionic acid	102526
+4-Hydroxyphenylpyruvic acid	979
+4-Hydroxyvalsartan	9911647
+4-Imidazoleacetic acid	96215
+4-Imidazoleacrylic acid	736715
+4-Methoxycinnamic acid	699414
+4-Methoxyphenylacetic acid	7690
+4-Methyl-1H-pyrazole	3406
+4-Methyl-3-nitrobenzoic acid	7319
+4-Methyl-5-thiazoleethanol	1136
+4-Morpholinopropanesulfonic acid	70807
+4-Nitrobenzylamine	29147
+4-O-Methylgallic acid	78016
+4-Pyridoxic acid	6723
+4-Trimethylammoniobutanoic acid	134
 4-acetamidobutanoate	18189
 4-acetamidobutanoate	6991994
+4-acetamidobutyric acid	18189
 4-acetamidophenol	1983
 4-acetaminophen sulfate	83939
 4-acetylphenol sulfate	4684006
 4-acetylphenyl sulfate	16218917
 4-allylphenol sulfate	66633409
 4-amino-2-hydroxybutyrate	26062
+4-aminobutyric acid	119
+4-aminobutyric acid 	119
+4-aminophenol	403
+4-aminophenol B	403
 4-androsten-3beta,17beta-diol disulfate (1)	10634
 4-androsten-3beta,17beta-diol disulfate (2)	10634
 4-androsten-3beta,17beta-diol disulfate 1	44135378
@@ -417,15 +910,19 @@
 4-hydroxybenzoate	135
 4-hydroxybenzyl alcohol	125
 4-hydroxybutyrate (ghb)	10413
+4-hydroxybutyric acid	10413
 4-hydroxychlorothalonil	34217
 4-hydroxycinnamate	322
+4-hydroxycinnamic acid	637542
 4-hydroxycoumarin	54682930
 4-hydroxycyclohexylcarboxylic acid	151138
+4-hydroxydocosa-5,7,10,13,16,19-hexaenoic acid	14429109
 4-hydroxyglutamate	439902
 4-hydroxyhippurate	151012
 4-hydroxyisoleucine	2773624
 4-hydroxymandelate	5460030
 4-hydroxyphenylacetate	127
+4-hydroxyphenylacetic acid	127
 4-hydroxyphenylacetylglutamine	440731
 4-hydroxyphenylpyruvate	979
 4-hydroxyproline betaine	164642
@@ -433,6 +930,7 @@
 4-methoxycinnamic acid	699414
 4-methoxyphenol sulfate	14199589
 4-methyl-2-oxopentanoate	70
+4-methylbenzenesulfonamide	6269
 4-methylbenzenesulfonate	85570
 4-methylcatechol	9958
 4-methylcatechol sulfate	129848880
@@ -440,10 +938,54 @@
 4-octenedioate	84313
 4-vinylguaiacol sulfate	53803570
 4-vinylphenol sulfate	6426766
+4H-3,1-Benzoxazin-4-one, 6-methyl-2-[(4-methylphenyl)amino]-	848487
+4a-Carbinolamine tetrahydrobiopterin	133246
+5'-Methyl-5'-thioadenosine	439176
+5'-Methylthioadenosine	439176
+5'-S-Methyl-5'-thioadenosine	439176
+5'-deoxy-5'-methylthioadenosine	439176
+5'-o-Methylthymidine	14483474
+5(S)-HETE-d8	5283153
+5,10-Methylene-THF	9548565
+5,15-DiHETE	5283158
+5,15-dihydroxyeicosa-6,8,11,13-tetraenoic acid	5283158
+5,2',3'-Trimethoxyflavanone	45933925
+5,6,15-trihydroxyeicosa-7,9,11,13-tetraenoic acid	5280914
+5,6-DHET	5283142
+5,6-DiHETrE	5283142
+5,6-Dimethylbenzimidazole	675
+5,6-Dimethylbenzimidazole  	675
+5,6-Epoxy-8,11,14-eicosatrienoic acid	5283202
 5,6-dihydrothymine	93556
 5,6-dihydrouracil	649
+5,6-dihydroxyeicosa-8,11,14-trienoic acid	5283142
+5,8,11-Eicosatrienoic acid 	4028
+5-(2-Hydroxyethyl)-4-methylthiazole	1136
 5-(2-hydroxyethyl)-4-methylthiazole	1136
+5-(Galactosylhydroxy)-L-lysine	66995551
 5-(galactosylhydroxy)-l-lysine	66995551
+5-Amino-1-beta-D-ribofuranosyl-1H-imidazole-4-carboxamide	17513
+5-Aminovaleric acid	138
+5-Cholesten-3-beta-7-alpha-diol  	107722
+5-HEPE	6439678
+5-HETE	5280733
+5-HpETE	5280778
+5-Hydroxy-6,8,11,14,17-eicosapentaenoic acid	5283193
+5-Hydroxy-6,8,11,14-eicosatetraenoic acid	5280733
+5-Hydroxy-6.8.11.14.17-eicosapentaenoic acid	5283193
+5-Hydroxy-L-tryptophan	439280
+5-Hydroxyindoleacetic acid	1826
+5-Hydroxylysine	3032849
+5-Hydroxytryptophan	144
+5-Hydroxytryptophol	9061
+5-KETE	5283159
+5-Methoxydimethyltryptamine	1832
+5-Methoxytryptophol	12835
+5-Methylcytidine	92918
+5-Methyltetrahydrofolic acid	439234
+5-Methylthioadenosine	439176
+5-Oxo-1-propyl-2-pyrrolidineacetic acid	71751384
+5-Tetradecenoic acid	5312400
 5-acetylamino-6-amino-3-methyluracil	88299
 5-acetylamino-6-formylamino-3-methyluracil	108214
 5-aminovalerate	138
@@ -451,35 +993,55 @@
 5-dodecenoate (12:1n7)	5312377
 5-hepe	6439678
 5-hete	5280733
+5-hydroperoxyeicosa-6,8,11,14-tetraenoic acid	5280778
 5-hydroxyhexanoate	642771
 5-hydroxyindole sulfate	129817528
 5-hydroxyindoleacetate	1826
 5-hydroxylysine	1029
 5-hydroxymethyl-2-furoic acid	80642
 5-kete	5353355
+5-ketoeicosa-6,8,11,14-tetraenoic acid	5283159
 5-ketogluconate	157
 5-methoxysalicylic acid	75787
+5-methoxytryptamine	1833
 5-methyl-2'-deoxycytidine	13279
 5-methylcytidine	92918
 5-methylcytosine	65040
 5-methyltetrahydrofolate (5methf)	439234
 5-methylthioadenosine (mta)	149
+5-methyluridine 	445408
 5-methyluridine (ribothymidine)	445408
 5-oxoete	5283159
 5-oxoproline	7405
 56-dihydrouracil	649
+5S,15R-diHETE	5283158
+5S-HEPE	5283193
+5S-HETE-d8	5283153
+5a-Androstane-3b,17b-diol	242332
+5a-Pregnane-3,20-dione	92810
+5alpha-Cholest-7-en-3beta-ol	65728
 5alpha-androstan-3alpha,17beta-diol disulfate	56639109
 5alpha-androstan-3beta,17beta-diol disulfate	242332
 5alpha-pregnan-3(alpha or beta),20beta-diol disulfate	5127902
 5alpha-pregnan-3beta,20alpha-diol disulfate	118703093
 5alpha-pregnan-3beta,20alpha-diol disulfate	5748360
 6'-sialyllactose	643987
+6-Aminocaproic acid	517030
+6-Hydroxycaproic acid	14490
+6-Hydroxycoumarin	99477
+6-Hydroxyflavone	72279
+6-Hydroxymelatonin	1864
+6-Keto-prostaglandin F1a	5280888
+6-Ketoprostaglandin F1 alpha	5280888
 6-aminopenicillanate	11082
 6-beta-hydroxylithocholate	21158657
+6-deoxyglucose	441480
 6-gingerol	442793
 6-hydroxyindole sulfate	122198196
 6-hydroxynicotinate	72924
+6-keto Prostaglandin F1α-d4	5283044
 6-keto prostaglandin f1alpha	5280888
+6-keto-PGF1alpha	5280888
 6-oxolithocholate	20763
 6-oxopiperidine-2-carboxylate	3014237
 6-oxopiperidine-2-carboxylic acid	3014237
@@ -487,9 +1049,19 @@
 6-phosphogluconate	91493
 6-shogaol	5281794
 6-sialyl-n-acetyllactosamine	16212424
+6-trans-12-epi-Leukotriene B4	5283129
+6-trans-LTB4	5283128
+6-trans-Leukotriene B4	5283128
 7,12-diketolithocholate	129626819
 7,8-dihydrofolate	98792
 7,8-dihydroneopterin	65074
+7-Aminoclonazepam	188298
+7-Dehydrocholesterol	439423
+7-Keto-8-aminopelargonic acid	448124
+7-Ketocholesterol	91474
+7-Methyladenine	71593
+7-Methylguanine	11361
+7-Methylguanosine [M]+	445404
 7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)	3081085
 7-alpha-hydroxycholesterol	405
 7-beta-hydroxycholesterol	473141
@@ -504,27 +1076,4025 @@
 7-methylguanosine	445404
 7-methylurate	69160
 7-methylxanthine	68374
+7a-Hydroxycholesterol	53477732
+7alpha-Hydroxy-3-oxo-4-cholestenoic acid	91746147
+7b-Hydroxycholesterol	473141
+8(9)-EpETrE	5283203
+8,11,14-Eicosatrienoic acid	5280581
+8,15-DiHETE	53480358
+8,15-dihydroxyeicosa-5,9,11,13-tetraenoic acid	53480358
+8,9-DiHETrE	5283144
+8,9-Epoxyeicosa-5,11,14-trienoic acid	5283203
+8,9-Epoxyeicosatrienoic acid	5283203
+8,9-dihydroxyeicosa-5,11,14-trienoic acid	5283144
+8-Dehydrocholesterol	129846
+8-HETE	5283154
+8-Hydroxyguanine	119315
+8-Hydroxyguanosine	65131
+8-Isoprostaglandin F2a	5282263
+8-Isoprostane	107873
 8-aminocaprylate	66085
 8-gingerol	168114
+8-hydroxyeicosa-5,9,11,14-tetraenoic acid	5283154
+8-hydroxyeicosa-5.9.11.14-tetraenoic acid	5283154
 8-hydroxyguanine	65154
 8-hydroxyoctanoate	167627
 8-iso-13,14-dihydro-15-keto-prostaglandin f2 alpha	1427
+89-EpETrE	5283203
+8S-HETE	5283154
+9(10)-EpODE	16061060
+9(10)-EpOME	6246154
+9(10)-epoxy-12,15-octadecadienoic acid	16061060
+9(10)-epoxy-12Z-octadecenoic acid	6246154
+9(S)-HODE-d4	16061038
+9(S)-HPODE	9548877
+9,10,13-TriHOME	5282965
+9,10-DHOME	9966640
+9,10-DiHODE	16061066
+9,10-DiHOME	9966640
+9,10-EpO	15868
+9,10-Epoxyoctadecenoic acid	6246154
+9,10-Epoxystearic acid	15868
 9,10-dihome	9966640
+9,10-dihydroxyoctadec-12-enoic acid	9966640
+9,10-dihydroxyoctadeca-12,15-dienoic acid	16061066
+9,10-e-DiHO	441460
+9,10-epoxy-12,15-octadecadienoic acid	16061060
+9,10-epoxy-12Z-octadecenoic acid	6246154
 9,10-epoxystearate	19746553
+9,10-epoxystearic acid	15868
 9,10-hydroxyoctadec-12(z)-enoic acid	9966640
+9,11,15-trihydroxy-5,13,1Z-prostatrienoic acid	5280940
+9,12,13-TriHOME	9858729
+9,12,13-trihydroxyoctadec-10-enoic acid	9858729
+9,12-Hexadecadienoylcarnitine	53481687
+9-Decenoylcarnitine	53481651
+9-HEPE	16061129
+9-HETE	14123398
+9-HETE	5312978
+9-HODE	5282944
+9-HODE	5312830
+9-HOTE	53480359
+9-Hexadecenoylcarnitine	53481653
+9-HpODE	6439847
+9-Hydroxy-5,7,11,14,17 icosapentaenoic acid	16061129
+9-Hydroxy-5,7,11,14,17-icosapentaenoic acid	16061129
+9-Hydroxylinoleic acid	5282944
+9-KODE	9839084
+9-Nitrooleate	11645581
+9-Oxo-10(E),12(E)-octadecadienoic acid	5283011
+9-OxoODE	9839084
+9-cis-Retinoic acid	449171
 9-hode	5282944
+9-hydroperoxyoctadeca-10,12-dienoic acid	6439847
+9-hydroxyeicosa-5,7,11,14-tetraenoic acid	14123398
+9-hydroxyeicosa-5.7.11.14-tetraenoic acid	14123398
+9-hydroxyoctadeca-10,12,15-trienoic acid	53480359
 9-hydroxystearate	90657899
+9-ketooctadeca-10,12-dienoic acid	9839084
 9-methyluric acid	108714
+9-nitrooleic acid	11645581
+910-EpOME	6246154
+910-epoxy-12,15-octadecadienoic acid	16061060
+910-epoxy-12Z-octadecenoic acid	6246154
 910-hydroxyoctadec-12(z)-enoic acid	9966640
+9E,11E-Octadecadienoic acid	5282796
+9S,10R-dihydroxy-stearic acid 	441460
+9S-10R-dihydroxy-stearic acid	441460
+9S-HODE-d4	16061038
+A-12(13)-EpODE	16061061
+ADP	6022
+AMP	6083
+APGPR Enterostatin	3082883
+Acetaldehyde	177
+Acetaminophen	1983
+Acetaminophen glucuronide	83944
+Acetaminophen sulfate	83939
+Acetic acid	176
+Acetoacetic acid	6971017
+Acetoin	447765
+Acetominophen	1983
+Acetyl-DL-carnitine	1
+Acetyl-N-formyl-5-methoxykynurenamine	171161
+Acetylcarnitine	1
+Acetylcarnitine	439756
+Acetylcholine cation	187
+Acetylcysteine	12035
+Acetylglycine	10972
+Acrylic acid	6581
+Acylcarnitine (C11:1)	3072516
+Acylcarnitine (C9:1)	53481660
+Acylcarnitine C10:0	10245190
+Acylcarnitine C10:0 	10245190
+Acylcarnitine C10:1	53481651
+Acylcarnitine C10:1 	53481651
+Acylcarnitine C11:1	3072516
+Acylcarnitine C12:0	168381
+Acylcarnitine C12:0 	168381
+Acylcarnitine C14:2	53481681
+Acylcarnitine C14:2 	53481681
+Acylcarnitine C16:0	11953816
+Acylcarnitine C16:0 	11953816
+Acylcarnitine C18:0	6426855
+Acylcarnitine C18:0 	6426855
+Acylcarnitine C18:1	53477830
+Acylcarnitine C18:1 	53477830
+Acylcarnitine C18:2	6450015
+Acylcarnitine C18:2 	6450015
+Acylcarnitine C18:3	53477821
+Acylcarnitine C18:3 	53477821
+Acylcarnitine C2:0	18230
+Acylcarnitine C3:0	107738
+Acylcarnitine C4:0	439829
+Acylcarnitine C5:0	53481619
+Acylcarnitine C6:0	6426853
+Acylcarnitine C8:0	11953814
+Acylcarnitine C8:0 	11953814
+Acylcarnitine C8:1	53481667
+Acylcarnitine C8:1 	53481667
+Acylcarnitine C9:1	53481660
+Adenine	190
+Adenine	750
+Adenosine	60961
+Adenosine  	60961
+Adenosine 2',3'-cyclic phosphate	2024
+Adenosine 5'-diphosphoribose	192
+Adenosine 5'-diphosphoribose	33576
+Adenosine 5'-diphosphoribose	91746164
+Adenosine monophosphate	6083
+Adenosine triphosphate	5957
+Adipic acid	196
+Adipoyl-L-carnitine	91826562
+Adrenic acid	5497181
+Adrenoyl ethanolamide	5282273
+Aflatoxin B1	186907
+Agmatine	199
+Ala-Ala	5460362
+Ala-Ala	5484352
+Ala-Arg	9964828
+Ala-Gln	123935
+Ala-Ile	7408078
+Ala-Leu	259583
+Ala-Leu	96801
+Alanine	5950
+Aldosterone	5839
+Allantoin	204
+Alloepipregnanolone	92787
+Allopregnanolone	440700
+Allopurinol	2094
+Allopurinol riboside	456569
+Allothreonine	6995276
+Allyl isothiocyanate	5971
+Alpha-9(10)-EpODE	16061060
+Alpha-910-EpODE	16061060
+Alpha-CEHC	9943542
+Alpha-Carotene	4369188
+Alpha-D-Glucose 1,6-bisphosphate	82400
+Alpha-Hydroxyisobutyric acid	11671
+Alpha-Linolenic acid	5280934
+Alpha-Linolenoyl ethanolamide	5283449
+Alpha-N-Phenylacetyl-L-glutamine	92258
+Alpha-Tocopherol	14985
+Alpha-Tocotrienol	5282347
+Alpha-dimorphecolic acid	5282945
+Alpha-ketoisovaleric acid	49
+Alprazolam	2118
+Aluminum	104727
+Aminoacetone	215
+Aminoadipic acid	469
+Aminocaproic acid	564
+Aminolevulinic acid	137
+Ammonia	222
+Amphetamine	5826
+Anabasine	2181
+Anandamide	5281969
+Androstanedione	440114
+Androstenedione	6128
+Androsterone	5879
+Androsterone  	5879
+Androsterone glucuronide	443078
+Androsterone sulfate	159663
+Aniline	6115
+Anisatin	115121
+Anserine	112072
+Antimony	5354495
+Apigenin	5280960
+Aquacobalamin	6449885
+Arachidic acid	10467
+Arachidonic acid	444899
+Arachidonyl dopamine	5282105
+Arachidonyl dopamine	6483059
+Arachidonyldopamine	5282105
+Arginine	28782
+Arginine	6322
+Argininic acid	160437
+Arsenic	104734
+Ascorbic acid	54670067
+Asp-Glu	151403
+Asp-Glu	4130574
+Asparagine	6267
+Aspartic acid	5960
+Aspirin	2244
+Astaxanthin	5368397
+Atenolol	2249
+Atorvastatin	60823
+Avenasterol	12795736
+Azelaic acid	2266
+BDE100	154083
+BDE153	155166
+BDE47	95170
+BDE99	36159
+Barium	5355457
+Behenic acid	8215
+Benzene	241
+Benzene-1,2,4-triol	10787
+Benzenemethanol, alpha-[1-(ethylamino)ethyl]-	44480
+Benzoic acid	243
+Benzothiazole	7222
+Benzyl alcohol	244
+Benzyldimethylstearylammonium cation	31205
+Benzyldimethyltetradecylammonium cation	8756
+Berberine	2353
+Beryllium	107649
+Beta-Alanine	239
+Beta-Carotene	5280489
+Beta-Cryptoxanthin	5281235
+Beta-Leucine	439734
+Beta-Sitosterol	222284
+Beta-tocopherol	8989
+Betaine	247
+Betaine 	247
+Betaine 	2473
+Betaine aldehyde cation	249
+Bethanechol cation	2370
+Bilirubin	5280352
+Biliverdin	5280353
+Biliverdin	5315455
+Biliverdin	5353439
+Biliverdin	6183357
+Biliverdin	66588766
+Biopterin	12646210
+Biotin	171548
+Bis(2-ethylhexyl) adipate	7641
+Bisnorbiotin	86492
+Bovinic acid	5280644
+Brassicasterol	5283660
+Bromodichloromethane	6359
+Brompheniramine	6834
+Butylisopropylamine	123480
+Butyric acid	264
+Butyrylcarnitine	213144
+Butyrylcarnitine	439829
+C18 Sphingomyelin	6453725
+CDP	6132
+CE (16:1)	22833543
+CE (16:1) 	22833543
+CE (18:1)	5283632
+CE (18:1) 	5283632
+CE (18:2)	5287939
+CE (18:2) 	5287939
+CE (18:3)	6436907
+CE (18:3) 	6436907
+CE (20:3)	53477892
+CE (20:3) 	53477892
+CE (20:4)	6479222
+CE (20:4) 	6479222
+CE (20:5)	53477889
+CE (20:5) 	53477889
+CE (22:6)	14274978
+CE (22:6) 	14274978
+CE 16:1	22833543
+CE 18:1	5283632
+CE 18:1 	5283632
+CE 18:2	5287939
+CE 18:2 	5287939
+CE 18:3	6436907
+CE 18:3 	6436907
+CE 20:3	53477892
+CE 20:3 	53477892
+CE 20:4	6479222
+CE 20:5	53477889
+CE 22:6	14274978
+CE 22:6 	14274978
+CE(14:0)	99486
+CE(14:1(9Z))	53480456
+CE(16:0)	246520
+CE(16:1(9Z))	22833543
+CE(18:0)	118246
+CE(18:1(11Z))	53477793
+CE(18:1(9Z))	5283632
+CE(18:2(9Z,12Z))	5287939
+CE(18:2)	5287939
+CE(18:2) 	5287939
+CE(18:3(6Z,9Z,12Z))	53480458
+CE(18:3(9Z,12Z,15Z))	6436907
+CE(20:0)	16061336
+CE(20:1(11Z))	53477794
+CE(20:2(6Z,9Z))	53477891
+CE(20:3(5Z,8Z,11Z))	53480461
+CE(20:3(8Z,11Z,14Z))	53477892
+CE(20:4(5Z,8Z,11Z,14Z)	6479222
+CE(20:4(8Z,11Z,14Z,17Z))	53480459
+CE(20:4)	6479222
+CE(20:4) 	6479222
+CE(20:5(5Z,8Z,11Z,14Z,17Z)	53477889
+CE(22:0)	16061339
+CE(22:1(13Z))	53480460
+CE(22:2(13Z,16Z))	53477893
+CE(22:5(4Z,7Z,10Z,13Z,16Z))	53480462
+CE(22:5(7Z,10Z,13Z,16Z,19Z))	53480463
+CE(22:6(4Z,7Z,10Z,13Z,16Z,19Z))	53477890
+CE(24:0)	53480464
+CMP	6131
+CUDA	22978774
+Cadaverine	273
+Cadmium	31193
+Caffeic acid	689043
+Caffeine	2519
+Calcidiol	5283731
+Calcitriol	5280453
+Calcium	271
+Campestanol	23724579
+Campesterol	173183
+Canthaxanthin	5281227
+Capric acid	2969
+Caproic acid	8892
+Caprylic acid	119389
+Carbamazepine	2554
+Carbamic acid, N-(2,2-diphenylacetyl)-, ethyl ester	9903898
+Carbon monoxide	712
+Carnitine	10917
+Carnosine	439224
+Castanospermine	361923
+Catechin	9064
+Cefazolin	656510
+Celecoxib	2662
+Cellotetraose	439626
+Cer(d40:1) 	5283567
+Cer(d41:1) 	52931115
+Cer(d42:1) 	5283571
+Cer(d42:2) A 	5283568
+Ceramide (d18:1/23:0)	52931115
+Ceramide (d18:1/23:0) 	52931115
+Ceramide (d18:1/9Z-18:1)	5283563
+Ceramide (d32:1)	5282310
+Ceramide (d32:1) 	5282310
+Ceramide (d33:1)	52931112
+Ceramide (d33:1) 	52931112
+Ceramide (d34:0)	5283572
+Ceramide (d34:0) 	5283572
+Ceramide (d34:1)	5283564
+Ceramide (d34:1) 	118797946
+Ceramide (d34:1) 	5283564
+Ceramide (d34:2)	52931118
+Ceramide (d34:2) 	52931118
+Ceramide (d36:1)	6442676
+Ceramide (d36:1) 	6442676
+Ceramide (d38:1)	5283566
+Ceramide (d38:1) 	5283566
+Ceramide (d38:1) 	70680364
+Ceramide (d39:1)	11273482
+Ceramide (d39:1) 	11273482
+Ceramide (d40:0)	5283575
+Ceramide (d40:0) 	5283575
+Ceramide (d40:1)	5283567
+Ceramide (d40:1) 	5283567
+Ceramide (d40:2)	52931123
+Ceramide (d40:2) 	52931123
+Ceramide (d41:1)	52931115
+Ceramide (d41:1) 	52931115
+Ceramide (d42:0)	5283577
+Ceramide (d42:0) 	5283577
+Ceramide (d42:1)	5283571
+Ceramide (d42:1) 	5283571
+Ceramide (d42:2)	5283568
+Ceramide (d42:2) 	5283568
+Ceramide (d42:2) A	5283568
+Ceramide (d42:2) A 	5283568
+Ceramide (d42:2) B	5283568
+Ceramide (d42:2) B 	5283568
+Ceramide (d43:1)	9547202
+Ceramide (d43:1) 	9547202
+Ceramide (d44:1)	5283570
+Ceramide (d44:1) 	5283570
+Ceramide d18:1 23:0	52931115
+Ceramide d18:1/23:0	52931115
+Ceramide d18:1/23:0 	52931115
+Ceramide d32:1	5282310
+Ceramide d33:1	52931112
+Ceramide d34:0	5283572
+Ceramide d34:1	5283564
+Ceramide d34:2	52931118
+Ceramide d36:1	6442676
+Ceramide d38:1	5283566
+Ceramide d39:1	11273482
+Ceramide d40:0	5283575
+Ceramide d40:1	5283567
+Ceramide d40:1 	5283567
+Ceramide d40:2	52931123
+Ceramide d41:1	52931115
+Ceramide d42:0	5283577
+Ceramide d42:1	5283571
+Ceramide d42:1 	5283571
+Ceramide d42:2	5283568
+Ceramide d42:2 	5283568
+Ceramide d42:2 A	5283568
+Ceramide d42:2 B	5283568
+Ceramide d43:1	9547202
+Ceramide d44:1	5283570
+Ceramide(d18:0/12:0)	53481046
+Ceramide(d18:1/22:1(13Z))	53481052
+Cervonoyl ethanolamide	53245830
+Chenodeoxycholic acid	10133
+Chenodeoxycholic acid 3-sulfate	21252312
+Chenodeoxycholic acid glycine conjugate	12544
+Chlordiazepoxide	2712
+Chlorogenic acid	1794427
+Cholesterol	5997
+Cholesterol 	5997
+Cholesterol 3-sulfate	65076
+Cholesterol sulfate	65076
+Cholic acid	221493
+Choline	305
+Chondroitin sulfate	24766
+Chromium	27668
+Cinnamic acid	444539
+Cis-8,11,14,17-Eicosatetraenoic acid	11722594
+Citalopram	2771
+Citral	638011
+Citric acid	311
+Citrulline	6992098
+Citrulline	9750
+Clindamycin	446598
+Cob(I)alamin	46173708
+Cobalamin	5460183
+Cobalt	104730
+CocamidopropylBetaine	20280
+Coenzyme Q10	9962735
+Coniferyl alcohol	1549095
+Coniferylaldehyde	5280536
+Copper	23978
+Coproporphyrin I	68271
+Coproporphyrin III	321
+Coproporphyrinogen I	440776
+Cordycepin	6303
+Corey PG-lactone diol	12895810
+Cortexolone	440707
+Corticosterone	5753
+Cortisol	5754
+Cortisone	222786
+Cotinine	854019
+Cotinine N-beta-D-glucuronide	178540
+Cotinine N-oxide	9815514
+Coumaric acid	323
+Coumesterol	5281707
+Creatine	586
+Creatine phosphate	587
+Creatine phosphate	9548602
+Creatinine	588
+Crotetamide	5368010
+Curcumin	969516
+Cyanate	540
+Cyanide	768
+Cyanidin	68247
+Cyanocobalamin	4289526
+Cyclic AMP	6076
+Cyclic GMP	24316
+Cyclic adenosine diphosphate ribose	123847
+Cyclobenzaprine	2895
+Cyclohexanamine	7965
+Cystathionine	439258
+Cysteinylglycine	439498
+Cystine	595
+Cystine	67678
+Cytidine	6175
+Cytidine 5'-diphosphocholine	11583971
+Cytidine 5'-diphosphocholine	13804
+Cytidine 5'-diphosphocholine	291
+Cytidine-5'-monophosphate	6131
+Cytosine	597
+Cytosine	764
+D-2-Hydroxyglutaric acid	439391
+D-Aspartic acid	83887
+D-Fructose	439163
+D-Fructose	5984
+D-Galactose	439357
+D-Glucosamine	439213
+D-Glucose	79025
+D-Glucuronic acid	94715
+D-Glyceraldehyde 3-phosphate	24794350
+D-Lactic acid	61503
+D-Limonene	440917
+D-Mannose	18950
+D-Ornithine	71082
+D-Pipecolic acid	736316
+D-Pyroglutamic acid	439685
+D-Ribose	5779
+D-Ribose 5-phosphate	77982
+D-Ribulose 5-phosphate	439184
+D-Sedoheptulose 7-phosphate	165007
+D-Serine	71077
+D-Xylitol	6912
+D-Xylose	644160
+D-alpha-Cyclohexylglycine	40637803
+D-erythro-Sphingosine-1-phosphate	10883396
+D-erythro-sphingosine	5280335
+D-myo-Inositol-4-phosphate	440043
+D-panthenol	131204
+DDE	3035
+DG (32:1)	14275341
+DG (32:1) 	14275341
+DG (34:1)	5282283
+DG (34:1) 	5282283
+DG (34:1); DG(16:0/18:1); 	5282283
+DG (34:2)	9543695
+DG (34:2) 	102427902
+DG (34:2) 	9543695
+DG (34:3)	9543699
+DG (34:3) 	9543699
+DG (34:3); DG(16:1/18:2); 	9543703
+DG (36:1)	6443547
+DG (36:1) 	6443547
+DG (36:2)	9543716
+DG (36:2) 	9543716
+DG (36:2); DG(18:1/18:1); 	9543716
+DG (36:3)	9543722
+DG (36:3) 	9543722
+DG (36:3); DG(18:1/18:2); 	9543722
+DG (36:4)	9543729
+DG (36:4) 	9543729
+DG (36:5)	9543737
+DG (36:5) 	9543737
+DG (36:5); DG(18:2/18:3); 	9543737
+DG (38:0)	53478362
+DG (38:0) 	53478362
+DG (38:3)	9543766
+DG (38:3) 	9543766
+DG (38:5)	9543784
+DG (38:5) 	9543784
+DG (38:6)	9543795
+DG (38:6) 	9543795
+DG 32:1	14275341
+DG 34:1	5282283
+DG 34:1 	5282283
+DG 34:1; DG(16:0/18:1/0:0); [M+NH4]+	5282283
+DG 34:2	102427902
+DG 34:2	9543695
+DG 34:2 	102427902
+DG 34:2; DG(16:0/18:2/0:0); [M+NH4]+	9543695
+DG 34:3	9543699
+DG 34:3; DG(18:2/16:1/0:0); [M+NH4]+	9543699
+DG 34:4; DG(16:2/18:2/0:0); [M+NH4]+	9543703
+DG 36:1	6443547
+DG 36:2	9543716
+DG 36:2 	9543716
+DG 36:2; DG(18:0/18:2/0:0); [M+NH4]+	6441562
+DG 36:3	9543722
+DG 36:3 	9543722
+DG 36:3; DG(18:1/18:2/0:0); [M+NH4]+	9543722
+DG 36:4	9543729
+DG 36:4; DG(18:2/18:2/0:0); [M+NH4]+	9543729
+DG 36:5	9543737
+DG 36:5; DG(18:2/18:3/0:0); [M+NH4]+	9543744
+DG 36:6; DG(18:3/18:3/0:0); [M+NH4]+	9543745
+DG 38:0	53478362
+DG 38:3	9543766
+DG 38:5	9543784
+DG 38:5 	9543784
+DG 38:6	9543795
+DG(14:0/16:0/0:0)	13734178
+DG(14:0/16:1(9Z)/0:0)	53477950
+DG(14:0/18:0/0:0)	53477951
+DG(14:0/18:1(11Z)/0:0)	53477952
+DG(14:0/18:2(9Z,12Z)/0:0)	14275352
+DG(14:0/18:3(6Z,9Z,12Z)/0:0)	53477953
+DG(14:0/20:0/0:0)	53477955
+DG(14:0/20:1(11Z)/0:0)	53477956
+DG(14:0/20:2(11Z,14Z)/0:0)	53477957
+DG(14:0/20:3(5Z,8Z,11Z)/0:0)	53477958
+DG(14:0/20:4(5Z,8Z,11Z,14Z)/0:0)	53477960
+DG(14:0/22:0/0:0)	53477963
+DG(14:0/22:1(13Z)/0:0)	53477964
+DG(14:0/22:2(13Z,16Z)/0:0)	53477965
+DG(14:0/22:4(7Z,10Z,13Z,16Z)/0:0)	53477966
+DG(14:0/22:5(4Z,7Z,10Z,13Z,16Z)/0:0)	53477967
+DG(14:0/24:0/0:0)	53477970
+DG(14:0/24:1(15Z)/0:0)	53477971
+DG(14:1(9Z)/16:0/0:0)	53477975
+DG(14:1(9Z)/16:1(9Z)/0:0)	53477976
+DG(14:1(9Z)/18:0/0:0)	53477977
+DG(14:1(9Z)/18:1(11Z)/0:0)	53477978
+DG(14:1(9Z)/18:2(9Z,12Z)/0:0)	53477980
+DG(14:1(9Z)/20:0/0:0)	53477984
+DG(14:1(9Z)/20:1(11Z)/0:0)	53477985
+DG(14:1(9Z)/20:2(11Z,14Z)/0:0)	53477986
+DG(14:1(9Z)/20:3(5Z,8Z,11Z)/0:0)	53477987
+DG(14:1(9Z)/22:0/0:0)	53477992
+DG(14:1(9Z)/22:1(13Z)/0:0)	53477993
+DG(14:1(9Z)/22:2(13Z,16Z)/0:0)	53477994
+DG(14:1(9Z)/22:4(7Z,10Z,13Z,16Z)/0:0)	53477995
+DG(14:1(9Z)/24:0/0:0)	53477999
+DG(14:1(9Z)/24:1(15Z)/0:0)	53478000
+DG(15:0/15:0/0:0)	18642216
+DG(16:0/14:0/0:0)	53478024
+DG(16:0/14:1(9Z)/0:0)	53478025
+DG(16:0/16:0/0:0)	644078
+DG(16:0/16:1(9Z)/0:0)	9543678
+DG(16:0/18:0/0:0)	9543688
+DG(16:0/18:1(11Z)/0:0)	9543972
+DG(16:0/18:2(9Z,12Z)/0:0)	9543695
+DG(16:0/18:3(6Z,9Z,12Z)/0:0)	14275390
+DG(16:0/18:4(6Z,9Z,12Z,15Z)/0:0)	53478027
+DG(16:0/20:0/0:0)	9543710
+DG(16:0/20:1(11Z)/0:0)	9543715
+DG(16:0/20:2(11Z,14Z)/0:0)	9543721
+DG(16:0/20:3(5Z,8Z,11Z)/0:0)	53478028
+DG(16:0/20:4(5Z,8Z,11Z,14Z)/0:0)	9543736
+DG(16:0/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)	9543744
+DG(16:0/22:0/0:0)	9543762
+DG(16:0/22:1(13Z)/0:0)	9543772
+DG(16:0/22:2(13Z,16Z)/0:0)	9543792
+DG(16:0/22:4(7Z,10Z,13Z,16Z)/0:0)	9543803
+DG(16:0/22:5(4Z,7Z,10Z,13Z,16Z)/0:0)	53478030
+DG(16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)	9543827
+DG(16:1(9Z)/14:0/0:0)	53478033
+DG(16:1(9Z)/14:1(9Z)/0:0)	53478034
+DG(16:1(9Z)/16:0/0:0)	53478036
+DG(16:1(9Z)/16:1(9Z)/0:0)	9543679
+DG(16:1(9Z)/18:0/0:0)	9543691
+DG(16:1(9Z)/18:1(11Z)/0:0)	53478037
+DG(16:1(9Z)/18:2(9Z,12Z)/0:0)	9543699
+DG(16:1(9Z)/18:3(6Z,9Z,12Z)/0:0)	53478038
+DG(16:1(9Z)/20:0/0:0)	9543714
+DG(16:1(9Z)/20:1(11Z)/0:0)	9543720
+DG(16:1(9Z)/20:2(11Z,14Z)/0:0)	9543727
+DG(16:1(9Z)/20:3(5Z,8Z,11Z)/0:0)	53478040
+DG(16:1(9Z)/20:4(5Z,8Z,11Z,14Z)/0:0)	9543743
+DG(16:1(9Z)/22:0/0:0)	9543771
+DG(16:1(9Z)/22:1(13Z)/0:0)	9543780
+DG(16:1(9Z)/22:2(13Z,16Z)/0:0)	9543802
+DG(16:1(9Z)/22:4(7Z,10Z,13Z,16Z)/0:0)	9543814
+DG(16:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z)/0:0)	53478042
+DG(18:0/14:0/0:0)	53478045
+DG(18:0/14:1(9Z)/0:0)	53478046
+DG(18:0/16:0/0:0)	3246945
+DG(18:0/16:1(9Z)/0:0)	53478048
+DG(18:0/18:0/0:0)	9543705
+DG(18:0/18:1(11Z)/0:0)	53478049
+DG(18:0/18:2(9Z,12Z)/0:0)	6441562
+DG(18:0/18:3(6Z,9Z,12Z)/0:0)	53478050
+DG(18:0/18:4(6Z,9Z,12Z,15Z)/0:0)	53478051
+DG(18:0/20:0/0:0)	9543739
+DG(18:0/20:1(11Z)/0:0)	9543748
+DG(18:0/20:2(11Z,14Z)/0:0)	9543757
+DG(18:0/20:3(5Z,8Z,11Z)/0:0)	53478052
+DG(18:0/20:4(5Z,8Z,11Z,14Z)/0:0)	6438587
+DG(18:0/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)	9543787
+DG(18:0/22:4(7Z,10Z,13Z,16Z)/0:0)	9543859
+DG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)	9543881
+DG(18:1(11Z)/14:0/0:0)	53478057
+DG(18:1(11Z)/14:1(9Z)/0:0)	53478058
+DG(18:1(11Z)/16:0/0:0)	53478060
+DG(18:1(11Z)/16:1(9Z)/0:0)	53478061
+DG(18:1(11Z)/18:0/0:0)	53478062
+DG(18:1(11Z)/18:1(11Z)/0:0)	53478063
+DG(18:1(11Z)/18:2(9Z,12Z)/0:0)	53478065
+DG(18:1(11Z)/18:3(6Z,9Z,12Z)/0:0)	53478066
+DG(18:1(11Z)/18:4(6Z,9Z,12Z,15Z)/0:0)	53478068
+DG(18:1(11Z)/20:0/0:0)	53478069
+DG(18:1(11Z)/20:1(11Z)/0:0)	53478070
+DG(18:1(11Z)/20:2(11Z,14Z)/0:0)	53478071
+DG(18:1(11Z)/20:3(5Z,8Z,11Z)/0:0)	53478072
+DG(18:1(11Z)/20:4(5Z,8Z,11Z,14Z)/0:0)	53478074
+DG(18:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)	53478076
+DG(18:1(11Z)/22:5(4Z,7Z,10Z,13Z,16Z)/0:0)	53478081
+DG(18:1(11Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)	53478083
+DG(18:2(9Z,12Z)/14:0/0:0)	53478098
+DG(18:2(9Z,12Z)/14:1(9Z)/0:0)	53478099
+DG(18:2(9Z,12Z)/16:0/0:0)	53478101
+DG(18:2(9Z,12Z)/16:1(9Z)/0:0)	53478102
+DG(18:2(9Z,12Z)/18:0/0:0)	53478103
+DG(18:2(9Z,12Z)/18:1(11Z)/0:0)	53478104
+DG(18:2(9Z,12Z)/18:2(9Z,12Z)/0:0)	9543729
+DG(18:2(9Z,12Z)/18:3(6Z,9Z,12Z)/0:0)	14275409
+DG(18:2(9Z,12Z)/20:0/0:0)	9543755
+DG(18:2(9Z,12Z)/20:1(11Z)/0:0)	9543765
+DG(18:2(9Z,12Z)/20:2(11Z,14Z)/0:0)	9543775
+DG(18:2(9Z,12Z)/20:3(5Z,8Z,11Z)/0:0)	53478107
+DG(18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z)/0:0)	9543796
+DG(18:2(9Z,12Z)/22:2(13Z,16Z)/0:0)	9543868
+DG(18:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z)/0:0)	9543879
+DG(18:2(9Z,12Z)/22:5(4Z,7Z,10Z,13Z,16Z)/0:0)	53478109
+DG(18:3(6Z,9Z,12Z)/14:0/0:0)	53478112
+DG(18:3(6Z,9Z,12Z)/16:0/0:0)	53478115
+DG(18:3(6Z,9Z,12Z)/16:1(9Z)/0:0)	53478116
+DG(18:3(6Z,9Z,12Z)/18:0/0:0)	53478117
+DG(18:3(6Z,9Z,12Z)/18:1(11Z)/0:0)	53478118
+DG(18:3(6Z,9Z,12Z)/18:2(9Z,12Z)/0:0)	53478120
+DG(18:3(6Z,9Z,12Z)/20:0/0:0)	53478123
+DG(18:3(6Z,9Z,12Z)/20:1(11Z)/0:0)	53478124
+DG(18:3(6Z,9Z,12Z)/20:2(11Z,14Z)/0:0)	53478125
+DG(18:3(6Z,9Z,12Z)/20:3(5Z,8Z,11Z)/0:0)	53478126
+DG(18:3(6Z,9Z,12Z)/22:1(13Z)/0:0)	53478132
+DG(18:3(6Z,9Z,12Z)/22:4(7Z,10Z,13Z,16Z)/0:0)	53478134
+DG(18:3(9Z,12Z,15Z)/14:0/0:0)	53478140
+DG(18:4(6Z,9Z,12Z,15Z)/16:0/0:0)	53478159
+DG(18:4(6Z,9Z,12Z,15Z)/18:0/0:0)	53478161
+DG(18:4(6Z,9Z,12Z,15Z)/18:1(11Z)/0:0)	53478162
+DG(18:4(6Z,9Z,12Z,15Z)/20:0/0:0)	53478168
+DG(18:4(6Z,9Z,12Z,15Z)/20:1(11Z)/0:0)	53478169
+DG(18:4(6Z,9Z,12Z,15Z)/20:2(11Z,14Z)/0:0)	53478170
+DG(18:4(6Z,9Z,12Z,15Z)/22:0/0:0)	53478176
+DG(18:4(6Z,9Z,12Z,15Z)/22:2(13Z,16Z)/0:0)	53478178
+DG(20:0/14:0/0:0)	53478185
+DG(20:0/14:1(9Z)/0:0)	53478186
+DG(20:0/16:0/0:0)	53478188
+DG(20:0/16:1(9Z)/0:0)	53478189
+DG(20:0/18:0/0:0)	3246949
+DG(20:0/18:1(11Z)/0:0)	53478190
+DG(20:0/18:2(9Z,12Z)/0:0)	53478192
+DG(20:0/18:3(6Z,9Z,12Z)/0:0)	53478193
+DG(20:0/18:4(6Z,9Z,12Z,15Z)/0:0)	53478195
+DG(20:0/20:4(5Z,8Z,11Z,14Z)/0:0)	9543830
+DG(20:1(11Z)/14:0/0:0)	53478201
+DG(20:1(11Z)/14:1(9Z)/0:0)	53478202
+DG(20:1(11Z)/16:0/0:0)	53478204
+DG(20:1(11Z)/16:1(9Z)/0:0)	53478205
+DG(20:1(11Z)/18:0/0:0)	53478206
+DG(20:1(11Z)/18:1(11Z)/0:0)	53478207
+DG(20:1(11Z)/18:2(9Z,12Z)/0:0)	53478209
+DG(20:1(11Z)/18:3(6Z,9Z,12Z)/0:0)	53478210
+DG(20:1(11Z)/18:4(6Z,9Z,12Z,15Z)/0:0)	53478212
+DG(20:1(11Z)/20:3(5Z,8Z,11Z)/0:0)	53478214
+DG(20:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)	9543853
+DG(20:2(11Z,14Z)/14:0/0:0)	53478219
+DG(20:2(11Z,14Z)/14:1(9Z)/0:0)	53478220
+DG(20:2(11Z,14Z)/16:0/0:0)	53478222
+DG(20:2(11Z,14Z)/16:1(9Z)/0:0)	53478223
+DG(20:2(11Z,14Z)/18:0/0:0)	53478224
+DG(20:2(11Z,14Z)/18:1(11Z)/0:0)	53478225
+DG(20:2(11Z,14Z)/18:2(9Z,12Z)/0:0)	53478227
+DG(20:2(11Z,14Z)/18:3(6Z,9Z,12Z)/0:0)	53478228
+DG(20:2(11Z,14Z)/18:4(6Z,9Z,12Z,15Z)/0:0)	53478230
+DG(20:2(11Z,14Z)/20:2(11Z,14Z)/0:0)	9543828
+DG(20:2(11Z,14Z)/20:4(5Z,8Z,11Z,14Z)/0:0)	9543852
+DG(20:2(11Z,14Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)	9543863
+DG(20:3(5Z,8Z,11Z)/14:0/0:0)	53478238
+DG(20:3(5Z,8Z,11Z)/14:1(9Z)/0:0)	53478239
+DG(20:3(5Z,8Z,11Z)/16:0/0:0)	53478241
+DG(20:3(5Z,8Z,11Z)/16:1(9Z)/0:0)	53478242
+DG(20:3(5Z,8Z,11Z)/18:0/0:0)	53478243
+DG(20:3(5Z,8Z,11Z)/18:1(11Z)/0:0)	53478244
+DG(20:3(5Z,8Z,11Z)/18:2(9Z,12Z)/0:0)	53478246
+DG(20:3(5Z,8Z,11Z)/18:3(6Z,9Z,12Z)/0:0)	53478247
+DG(20:3(5Z,8Z,11Z)/20:1(11Z)/0:0)	53478251
+DG(20:3(5Z,8Z,11Z)/20:3(5Z,8Z,11Z)/0:0)	53478253
+DG(20:3(5Z,8Z,11Z)/20:4(5Z,8Z,11Z,14Z)/0:0)	53478255
+DG(20:3(8Z,11Z,14Z)/20:1(11Z)/0:0)	53478280
+DG(20:4(5Z,8Z,11Z,14Z)/14:0/0:0)	53478287
+DG(20:4(5Z,8Z,11Z,14Z)/16:0/0:0)	53478290
+DG(20:4(5Z,8Z,11Z,14Z)/16:1(9Z)/0:0)	53478291
+DG(20:4(5Z,8Z,11Z,14Z)/18:0/0:0)	53478292
+DG(20:4(5Z,8Z,11Z,14Z)/18:1(11Z)/0:0)	53478293
+DG(20:4(5Z,8Z,11Z,14Z)/18:2(9Z,12Z)/0:0)	53478295
+DG(20:4(5Z,8Z,11Z,14Z)/20:0/0:0)	53478299
+DG(20:4(5Z,8Z,11Z,14Z)/20:2(11Z,14Z)/0:0)	53478301
+DG(20:4(5Z,8Z,11Z,14Z)/20:3(5Z,8Z,11Z)/0:0)	53478302
+DG(20:5(5Z,8Z,11Z,14Z,17Z)/16:0/0:0)	53478340
+DG(20:5(5Z,8Z,11Z,14Z,17Z)/18:0/0:0)	53478342
+DG(20:5(5Z,8Z,11Z,14Z,17Z)/18:1(11Z)/0:0)	53478343
+DG(20:5(5Z,8Z,11Z,14Z,17Z)/20:1(11Z)/0:0)	53478350
+DG(20:5(5Z,8Z,11Z,14Z,17Z)/20:2(11Z,14Z)/0:0)	53478351
+DG(22:0/14:0/0:0)	53478359
+DG(22:0/14:1(9Z)/0:0)	53478360
+DG(22:0/16:0/0:0)	53478362
+DG(22:0/16:1(9Z)/0:0)	53478363
+DG(22:0/18:4(6Z,9Z,12Z,15Z)/0:0)	53478370
+DG(22:1(13Z)/14:0/0:0)	53478382
+DG(22:1(13Z)/14:1(9Z)/0:0)	53478383
+DG(22:1(13Z)/16:0/0:0)	53478385
+DG(22:1(13Z)/16:1(9Z)/0:0)	53478386
+DG(22:1(13Z)/18:3(6Z,9Z,12Z)/0:0)	53478391
+DG(22:2(13Z,16Z)/14:0/0:0)	53478406
+DG(22:2(13Z,16Z)/14:1(9Z)/0:0)	53478407
+DG(22:2(13Z,16Z)/16:0/0:0)	53478409
+DG(22:2(13Z,16Z)/16:1(9Z)/0:0)	53478410
+DG(22:2(13Z,16Z)/18:2(9Z,12Z)/0:0)	53478414
+DG(22:2(13Z,16Z)/18:4(6Z,9Z,12Z,15Z)/0:0)	53478417
+DG(22:4(7Z,10Z,13Z,16Z)/14:0/0:0)	53478431
+DG(22:4(7Z,10Z,13Z,16Z)/14:1(9Z)/0:0)	53478432
+DG(22:4(7Z,10Z,13Z,16Z)/16:0/0:0)	53478434
+DG(22:4(7Z,10Z,13Z,16Z)/16:1(9Z)/0:0)	53478435
+DG(22:4(7Z,10Z,13Z,16Z)/18:0/0:0)	53478436
+DG(22:4(7Z,10Z,13Z,16Z)/18:2(9Z,12Z)/0:0)	53478439
+DG(22:4(7Z,10Z,13Z,16Z)/18:3(6Z,9Z,12Z)/0:0)	53478440
+DG(22:5(4Z,7Z,10Z,13Z,16Z)/14:0/0:0)	53478457
+DG(22:5(4Z,7Z,10Z,13Z,16Z)/16:0/0:0)	53478460
+DG(22:5(4Z,7Z,10Z,13Z,16Z)/16:1(9Z)/0:0)	53478461
+DG(22:5(4Z,7Z,10Z,13Z,16Z)/18:1(11Z)/0:0)	53478463
+DG(22:5(4Z,7Z,10Z,13Z,16Z)/18:2(9Z,12Z)/0:0)	53478465
+DG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/16:0/0:0)	53478516
+DG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:0/0:0)	53478518
+DG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:1(11Z)/0:0)	53478519
+DG(24:0/14:0/0:0)	53478541
+DG(24:0/14:1(9Z)/0:0)	53478542
+DG(24:1(15Z)/14:0/0:0)	53478570
+DG(24:1(15Z)/14:1(9Z)/0:0)	53478571
+DG(34:1) 	5282283
+DG(34:2) 	9543695
+DG(34:3) 	9543699
+DG(36:1) 	6443547
+DG(36:2) 	9543716
+DG(36:3) 	9543722
+DG(36:4) A 	9543729
+DG(36:5) 	9543737
+DG(38:5)  	9543784
+DG(38:6)  	9543795
+DGDG 34:2; DGDG(16:0/18:2(2E,4E)); [M+NH4]+	90658818
+DGDG 36:4; DGDG(18:2(2E,4E)/18:2(2E,4E)); [M+NH4]+	90657438
+DGDG 36:5; DGDG(18:2(2E,4E)/18:3(6Z,9Z,12Z)); [M+NH4]+	90658674
+DGDG 36:6; DGDG(18:3(6Z,9Z,12Z)/18:3(6Z,9Z,12Z)); [M+NH4]+	91820238
+DHEA sulfate	12594
+DL-2-Aminocaprylic acid	25200752
+DL-2-Methylglutamic acid	95440
+DL-Homocystine	10010
+DL-Indole-3-lactic acid	92904
+DL-Laudanosine	15548
+Daidzein	5281708
+Debrisoquine	2966
+Decanoyl-L-carnitine	11953821
+Decanoylcarnitine	10245190
+Decenoylcarnitine	53481651
+Dehydroascorbic acid	835
+Dehydroepiandrosterone	5881
+Delta-Tocopherol	92094
+Deoxycholic acid	222528
+Deoxycorticosterone	6166
+Deoxycytidine	13711
+Deoxypyridinoline	53477703
+Deoxyuridine	13712
+Desalkylebastine	3017584
+Desaminotyrosine	10394
+Desmethylcitalopram	162180
+Desmosterol	439577
+Dexpanthenol	131204
+Di(2,6-dimethyl-4-heptyl) phthalate	57003681
+Di(3,7-dimethyl-1-octyl) phthalate	21340069
+Diatrizoic acid	2140
+Diaveridine	21453
+Diazepam	3016
+Dibromochloromethane	31296
+Dibutyl phthalate	3026
+Dicyclohexylamine	7582
+Didodecyl 3,3'-thiodipropionate	31250
+Diethanolamine	8113
+Diethylene glycol	8117
+Diethylene glycol monoethyl ether	8146
+Digoxin	2724385
+Dihomo-gamma-Linolenoyl ethanolamide	5282272
+Dihydroandrosterone	15818
+Dihydrobiopterin	5460203
+Dihydrocapsaicin	107982
+Dihydrocoumarin	660
+Dihydrodaidzein	176907
+Dihydrofolic acid	98792
+Dihydrosphingosine B	3126
+Dihydrotestosterone	10635
+Dihydrouracil	649
+Dihydroxyacetone phosphate	668
+Dihydroxyoctadecadienoic acid	5460412
+Diisodecyl phthalate	33599
+Diisopropylethylamine	81531
+Dimethocaine	7177
+Dimethyl sulfone	6213
+Dimethyl sulfoxide	679
+Dimethyl-L-arginine	123831
+Dimethylamine	674
+Dimethyldioctadecylammonium cation	7880
+Dimethylglycine	673
+Dioctyl Phthalate	8346
+Diphenhydramine	3100
+Docosahexaenoic acid	445580
+Docosapentaenoic acid	5497182
+Docosapentaenoic-6 acid (22:5n-6)	6441454
+Docosatrienoic acid	5312557
+Dodecanedioic acid	5283028
+Dodecanoic acid	102182
+Dodecanoylcarnitine	168381
+Dolichol-20	6433320
+Dopamine	681
+Dopamine 3-O-sulfate	122136
+Dopamine 4-sulfate	123932
+Ecgonine	91460
+Ecgonine methyl ester	443844
+Eicosadienoic acid	6439848
+Eicosapentaenoic acid	446284
+Eicosenoic acid	5282768
+Elaidic acid	637517
+Ellagic acid	5281855
+Enkephalin L	461776
+Epiandrosterone	11055399
+Epicatechin	182232
+Epietiocholanolone	247732
+Epinephrine	5816
+Epinephrine sulfate	3035453
+Epipregnanolone	228491
+Equol	91469
+Ergocalciferol	5280793
+Ergosterol	444679
+Ergothioneine	5351619
+Erucamide	5365371
+Erucic acid	5281116
+Erythritol	222285
+Erythromycin	12560
+Erythronic acid	2781043
+Estradiol	5757
+Estriol	5756
+Estriol-3-glucuronide	160638
+Estrone	5870
+Estrone sulfate	3001028
+Ethanol	702
+Ethanolamine	700
+Ethanolamine; [M+H]+; HCD (NCE 20-30-40%)	700
+Ethiolat	18055
+Ethyl benzene	7500
+Ethyl glucuronide	18392195
+Ethyl hydrogen sulfate	6004
+Ethyl imidazole-2-carboxylate	549404
+Ethyldiethanolamine	13418631
+Ethylenediaminetetraacetic acid	5232305
+Ethylhexadecyldimethylammonium cation	31281
+Ethylphosphonic acid	204482
+Etiocholanediol	134494
+Etiocholanolone	5880
+Eugenol	3314
+FA (10:0) (capric acid)	2969
+FA (11:0)	8180
+FA (11:0) 	8180
+FA (12:0) (lauric acid)	3893
+FA (13:0)	12530
+FA (13:0) 	12530
+FA (14:0)	11005
+FA (14:0) 	11005
+FA (14:0)  (myristic acid)	11005
+FA (14:0) (myristic acid)	11005
+FA (14:0) (myristicacid) 	11005
+FA (14:1)	5312400
+FA (14:1) 	5312400
+FA (14:1) (physetericacid) 	5312400
+FA (15:0)	13849
+FA (15:0) 	13849
+FA (15:0)  (pentadecylic acid)	13849
+FA (15:0) (pentadecylic acid)	13849
+FA (15:0) (pentadecylicacid) 	13849
+FA (15:1)	6365140
+FA (15:1) 	6365140
+FA (15:1)  	6365140
+FA (16:0)	985
+FA (16:0) 	985
+FA (16:0)  (palmitic acid)	985
+FA (16:0) (palmitic acid)	985
+FA (16:0) (palmiticacid) 	985
+FA (16:1)	445638
+FA (16:1) 	445638
+FA (16:1)  (palmitoleic acid)	445638
+FA (16:1) (palmitoleic acid)	445638
+FA (16:1) (palmitoleicacid) 	445638
+FA (16:2); 	5282787
+FA (17:0)	10465
+FA (17:0) 	10465
+FA (17:0)  (margaric acid)	10465
+FA (17:0) (margaric acid)	10465
+FA (17:0) (margaricacid) 	10465
+FA (17:1)	5312440
+FA (17:1) 	5312440
+FA (17:1)  (heptadecenoic acid)	5312440
+FA (17:1) (heptadecenoic acid)	5312440
+FA (17:1) (heptadecenoicacid) 	5312440
+FA (18:0)	5281
+FA (18:0) 	5281
+FA (18:0)  (stearic acid)	5281
+FA (18:0) (stearic acid)	5281
+FA (18:1)	445639
+FA (18:1) 	445639
+FA (18:1)  (oleic acid)	445639
+FA (18:1) (oleic acid)	445639
+FA (18:1) (oleicacid) 	445639
+FA (18:2)	5282796
+FA (18:2) 	5282796
+FA (18:2)  (linoleic acid)	5282796
+FA (18:2) (linoleic acid)	5282796
+FA (18:2) (linoleicacid) 	5282796
+FA (18:3)	5280934
+FA (18:3) 	5280934
+FA (18:3)  (linolenic acid)	5280934
+FA (18:3) (linolenic acid)	5280934
+FA (18:3) (linolenicacid) 	5280934
+FA (18:4); 	5320416
+FA (20:0)	10467
+FA (20:0) 	10467
+FA (20:0)  (arachidic acid)	10467
+FA (20:0) (arachidic acid)	10467
+FA (20:0) (arachidicacid) 	10467
+FA (20:1)	5282768
+FA (20:1) 	5282768
+FA (20:1)  (eicosenoic acid)	5282768
+FA (20:1) (eicosenoic acid)	5282768
+FA (20:1) (eicosenoicacid) 	5282768
+FA (20:2)	6439848
+FA (20:2) 	6439848
+FA (20:2)  (eicosadienoic acid)	6439848
+FA (20:2) (eicosadienoic acid)	6439848
+FA (20:2) (eicosadienoicacid) 	6439848
+FA (20:3)	5280581
+FA (20:3)	5312529
+FA (20:3) 	5280581
+FA (20:3) 	5312529
+FA (20:3)  (eicosatrienoic acid)	5312529
+FA (20:3)  (homo-gamma-linolenic acid)	5280581
+FA (20:3) (eicosatrienoic acid)	5312529
+FA (20:3) (eicosatrienoicacid) 	5312529
+FA (20:3) (homo-gamma-linolenic acid)	5280581
+FA (20:3) (homo-gamma-linolenicacid) 	5280581
+FA (20:3) (homo-gamma-linolenicacid) 	5312529
+FA (20:4)	444899
+FA (20:4) 	444899
+FA (20:4)  (arachidonic acid)	444899
+FA (20:4) (arachidonic acid)	444899
+FA (20:4) (arachidonicacid) 	444899
+FA (20:5)	446284
+FA (20:5) 	446284
+FA (20:5)  (eicosapentaenoic acid)	446284
+FA (20:5) (eicosapentaenoic acid)	446284
+FA (20:5) (eicosapentaenoicacid) 	446284
+FA (22:0)  (behenic acid)	8215
+FA (22:0) (behenic acid)	8215
+FA (22:0) (behenicacid) 	8215
+FA (22:1)	5281116
+FA (22:1) 	5281116
+FA (22:1)  (erucic acid)	5281116
+FA (22:1) (erucic acid)	5281116
+FA (22:2)	5282807
+FA (22:2) 	5282807
+FA (22:2) (docosadienoicacid) 	5282807
+FA (22:5); 	5282850
+FA (22:6)	445580
+FA (22:6) 	445580
+FA (22:6)  (docosahexaenoic acid)	445580
+FA (22:6) (docosahexaenoic acid)	445580
+FA (22:6) (docosahexaenoicacid) 	445580
+FA (24:0)	11197
+FA (24:0) 	11197
+FA (24:0)  (lignoceric acid)	11197
+FA (24:0) (lignoceric acid)	11197
+FA (24:0) (lignocericacid) 	11197
+FA (24:1)	5281120
+FA (24:1) 	5281120
+FA (24:1) (nervonic acid)	5281120
+FA (24:1) (nervonicacid) 	5281120
+FA (26:0)	10469
+FA (26:0) 	10469
+FA (26:0)  (cerotic acid)	10469
+FA (26:0) (cerotic acid)	10469
+FA (26:0) (ceroticacid) 	10469
+FA (28:0)	10470
+FA (28:0) 	10470
+FA (28:0)  (montanic acid)	10470
+FA (28:0) (montanic acid)	10470
+FA (8:0) (caprylicacid) 	379
+FA 11:0	8180
+FA 12:0 lauric acid	3893
+FA 12:0 lauric acid 	3893
+FA 13:0	12530
+FA 14:0	11005
+FA 14:1	5312400
+FA 15:0	13849
+FA 15:1	6365140
+FA 16:0	985
+FA 16:1	445638
+FA 16:1 palmitoleic acid	445638
+FA 17:0	10465
+FA 17:1	5312440
+FA 17:1 heptadecenoic acid	5312440
+FA 17:1 heptadecenoic acid 	5312440
+FA 18:0	5281
+FA 18:1	445639
+FA 18:1 oleic acid	445639
+FA 18:2	5282796
+FA 18:2 linoleic acid	5282796
+FA 18:2; [M-H]-	5282801
+FA 18:3	5280934
+FA 18:3 linolenic acid	5280934
+FA 18:3 linolenic acid 	5280934
+FA 20:0	10467
+FA 20:1	5282768
+FA 20:1 eicosenoic acid	5282768
+FA 20:2	6439848
+FA 20:2 eicosadienoic acid	6439848
+FA 20:3	5280581
+FA 20:3	5312529
+FA 20:3 eicosatrienoic acid	5312529
+FA 20:3 eicosatrienoic acid 	5312529
+FA 20:3 homo gamma linolenic acid	5280581
+FA 20:3 homo-gamma-linolenic acid	5280581
+FA 20:4	444899
+FA 20:4 arachidonic acid	444899
+FA 20:4 arachidonic acid 	444899
+FA 20:5	446284
+FA 20:5 eicosapentaenoic acid	446284
+FA 22:1	5281116
+FA 22:2	5282807
+FA 22:6	445580
+FA 22:6 docosahexaenoic acid	445580
+FA 22:6 docosahexaenoic acid 	445580
+FA 24:0	11197
+FA 24:1	5281120
+FA 24:1 nervonic acid	5281120
+FA 24:1 nervonic acid 	5281120
+FA 26:0	10469
+FA 28:0	10470
+FAD	643975
+Famotidine	3325
+Farnesol	445070
+Farnesyl pyrophosphate	445713
+Fenuron	7560
+Flavin Mononucleotide	643976
+Folic acid	6037
+Formic acid	284
+Fosamine	33257
+Fructosamine	20484
+Fructose	5984
+Fructose 1,6-bisphosphate	10267
+Fructose 6-phosphate	69507
+Fumaric acid	444972
+GMP	6804
+Gabapentin	3446
+Gabapentin related compound A	47457
+Gal-Gal-Cer(d18:1/16:0) or Lactosylceramide(d18:1/16:0)	53477895
+Gal-Gal-Cer(d18:1/16:0) or Lactosylceramide(d18:1/16:0) 	102398792
+Gal-Gal-Cer(d18:1/16:0) or Lactosylceramide(d18:1/16:0) 	53477895
+Gal-Gal-Cerd18:1/16:0 or Lactosylceramided18:1/16:0	102398792
+Gal-Gal-Cerd18:1/16:0 or Lactosylceramided18:1/16:0	53477895
+Gal-Gal-Cerd18:1/16:0 or Lactosylceramided18:1/16:0 	102398792
+Gal:Gal:Cer:d18:1:16:0 or Lactosylceramide:d18:1:16:0	53477895
+Galactitol	11850
+Galacto-N-biose	441248
+Galactonic acid	128869
+Galactosamine	24154
+Galactose	439357
+Galactosylhydroxylysine	123986
+Gallic acid	370
+Gamma-Aminobutyric acid	119
+Gamma-Butyrolactone	7302
+Gamma-CEHC	15887183
+Gamma-Glutamylcysteine	123938
+Gamma-Linolenic acid	5280933
+Gamma-Tocopherol	92729
+Ganglioside GM3 (d18:1/16:0)	20057285
+Ganglioside GM3 (d18:1/26:1(17Z)))	20057290
+Genistein	5280961
+Gentian violet cation	3468
+Gentisic acid	3469
+Gestrinone	27812
+GlcCer (d38:1)	20057356
+GlcCer (d38:1) 	20057356
+GlcCer (d40:1)	6321359
+GlcCer (d40:1)	70699232
+GlcCer (d40:1) 	6321359
+GlcCer (d40:1) 	70699232
+GlcCer (d41:1)	52931253
+GlcCer (d41:1) 	52931253
+GlcCer (d42:1)	6321361
+GlcCer (d42:1)	6321367
+GlcCer (d42:1) 	6321361
+GlcCer (d42:1) 	6321367
+GlcCer (d42:2)	6321360
+GlcCer (d42:2) 	6321360
+GlcCer d14:1:4E 20:0:2OH	70699246
+GlcCer d38:1	20057356
+GlcCer d40:1	6321359
+GlcCer d40:1	70699232
+GlcCer d41:1	52931253
+GlcCer d41:1 	52931253
+GlcCer d42:1	6321361
+GlcCer d42:1	6321367
+GlcCer d42:1 	6321367
+GlcCer d42:2	6321360
+GlcCer(d14:1(4E)/20:0(2OH))	70699246
+GlcCer(d14:1(4E)/20:0(2OH)) 	70699246
+GlcCerd14:14E/20:02OH	70699246
+Glu-Gln	19922802
+Glu-Gly-Arg	9798970
+Glu-Ser	6995653
+Glu-Thr	6998031
+Gluconic acid	6857417
+Glucosamine	439213
+Glucose 6-phosphate	5958
+Glucose-1-phosphate	65533
+Glucose-6-phosphate	5958
+Glucosylceramide	6475228
+Glucosylceramide (d18:1/12:0)	20057354
+Glucuronic acid	94715
+Glufosinate	4794
+Glutaconylcarnitine	53481620
+Glutamic acid	33032
+Glutamine	5961
+Glutaric acid	743
+Glutathione	124886
+Glutathione (oxidized)	65359
+Glutathione (reduced)	124886
+Glutathione (reduced)	462696
+Glutathione oxidized	65359
+Glutathione, oxidized	11215652
+Glyceraldehyde	751
+Glyceric acid	439194
+Glyceric acid	752
+Glycerol	753
+Glycerol 3-phosphate	439162
+Glycerol-2-phosphate	2526
+Glycerophosphocholine	439285
+Glycerophosphocholine	657272
+Glycine	5257127
+Glycine	750
+Glycitein	5317750
+Glycocholic acid	10140
+Glycodeoxycholic acid	3493
+Glycogen	439177
+Glycolic acid	757
+Glycoursodeoxycholic acid	12310288
+Glycyltyrosine	92829
+Glycyrrhetinic acid 	10114
+Glyoxylic acid	760
+Gold	23985
+Guaiacol	460
+Guanidine	3520
+Guanidinosuccinic acid	439918
+Guanidinosuccinic acid	97856
+Guanidoacetic acid	763
+Guanine	764
+Guanosine	6802
+Guanosine diphosphate	8977
+Guanosine monophosphate	6804
+Guanosine triphosphate	6830
+Gulonolactone	165105
+H-Pro-Hyp-OH A	11778669
+Heparan sulfate	53477714
+Hepoxilin A3	5283211
+Heptadecanoic acid	10465
+Heptadecasphing-4-enine	91746221
+Heptadecasphinganine	3247037
+Heptaglutamyl folic acid	53477856
+Hesperetin	72281
+Hexachlorobenzene	8370
+Hexacosanoic acid	10469
+Hexadecanoylcarnitine	11953816
+Hexadecyltrimethylammonium cation	2681
+Hexaethylene glycol	17472
+Hexanoyl-L-carnitine	3246938
+Hexanoylcarnitine	6426853
+Hexylamine	8102
+Hippuric acid	464
+His-Ala	101180
+Histamine	774
+Histatin 5	16132417
+Histidine	6274
+Histidinol	776
+Histidylproline diketopiperazine	65137
+Homo-L-arginine	9085
+Homoarginine	9085
+Homocysteine	778
+Homocysteine thiolactone	107712
+Homogentisic acid	780
+Homovanillic acid	1738
+Homoveratric acid	7139
+HpCDD	37270
+HpCDF	38199
+HxCDD	29575
+Hyaluronan	24759
+Hydrochlorothiazide	3639
+Hydrocinnamic acid	107
+Hydrogen carbonate	769
+Hydrogen peroxide	784
+Hydrogen sulfide	402
+Hydroxybutyrylcarnitine	53481617
+Hydroxycotinine	414
+Hydroxykynurenine	89
+Hydroxyphenyllactic acid	9378
+Hydroxyproline	69248
+Hydroxypropionic acid	68152
+Hydroxytyrosol	82755
+Hypotaurine	107812
+Hypoxanthine	790
+Ibuprofen	3672
+Ile-Lys	44298547
+Ile-Pro-Lys	18221875
+Imazamethabenz methyl	54744
+Imazamethabenz-methyl	54744
+Imidazole	795
+Imidazoleacetic acid	96215
+Imidazolone	504
+Indigotin	5318432
+Indole-2-carboxylic acid	72899
+Indole-3-acetamide	397
+Indole-3-carboxaldehyde	10256
+Indole-3-propionic acid	3744
+Indole-6-carboxaldehyde	2773435
+Indoleacetic acid	802
+Indolelactic acid	92904
+Indoxyl sulfate	10258
+Inosine	6021
+Inosine 5'-monophosphate	8582
+Inosine-5'-monophosphate	176158
+Inosine-5-monophosphate	8582
+Inosinic acid	8582
+Iodotyrosine	439744
+Iso-Valeraldehyde	11552
+Isobutyric acid	6590
+Isobutyryl-L-carnitine	168379
+Isocitric acid	1198
+Isoferulic acid	736186
+Isoleucine	6306
+Isoleucine	791
+Isopropyl alcohol	3776
+Isoproturon-desmethyl	185831
+Isorhamnetin	5281654
+Isouron	41648
+Isovaleric acid	1001
+Isovaleryl-L-carnitine	169235
+Isovalerylcarnitine	6426851
+Kaempferol	5280863
+Keratan	446715
+Ketamine	3821
+Ketoleucine	70
+Kynurenic acid	3845
+Kynurenine	161166
+Kynurenine	846
+L(-)-Nicotine pestanal	89594
+L-2-Hydroxyglutaric acid	439939
+L-Acetylcarnitine	18230
+L-Alanine	5950
+L-Alloisoleucine	99288
+L-Alpha-aminobutyric acid	80283
+L-Arabinose	439195
+L-Arabitol	439255
+L-Arachidonoylcarnitine	53477833
+L-Arginine	6322
+L-Asparagine	6267
+L-Aspartic acid	5960
+L-Aspartyl-L-phenylalanine	93078
+L-Carnitine	10917
+L-Cystathionine	439258
+L-Cysteine	5862
+L-Cysteinylglycine disulfide	22833544
+L-Cystine	67678
+L-Dopa	6047
+L-Glutamic acid	33032
+L-Glutamine	6992086
+L-Glyceric acid	6326776
+L-Hexanoylcarnitine	3246938
+L-Histidine	6274
+L-Homoserine	12647
+L-Isoleucine	6306
+L-Kynurenine	161166
+L-Lactic acid	612
+L-Leucine	6106
+L-Leucyl-L Alanine	81721
+L-Leucyl-L- Alanine	81721
+L-Lysine	5962
+L-Malic acid	222656
+L-Methionine	6137
+L-NG-Monomethylarginine	132862
+L-Octanoylcarnitine	11953814
+L-Palmitoylcarnitine	16902
+L-Phenylalanine	6140
+L-Proline	145742
+L-Pyroglutamic acid	7405
+L-Rhamnulose	14461866
+L-Serine	5951
+L-Threo-2-pentulose	22253
+L-Threonine	6288
+L-Thyronine	5461103
+L-Tryptophan	6305
+L-Tyrosine	6057
+L-Valine	6287
+L-alanine	5950
+L-beta-Homoleucine	2761525
+L-beta-Homolysine	7021949
+L-carnitine	10917
+L-glutamic-acid	611
+L-isoleucine	6306
+L-methionine	6137
+L-methionine sulfoxide	158980
+L-proline	145742
+LPC (14:0)	460604
+LPC (14:0) 	460604
+LPC (14:0); 	460604
+LPC (15:0)	24779458
+LPC (15:0) 	24779458
+LPC (16:0)	460602
+LPC (16:0) 	460602
+LPC (16:1)	24779461
+LPC (16:1) 	24779461
+LPC (16:1) [M+HAc-H]-	24779461
+LPC (17:1)	24779451
+LPC (17:1) 	24779451
+LPC (18:0)	497299
+LPC (18:0) 	497299
+LPC (18:0) A	497299
+LPC (18:0) A 	497299
+LPC (18:0) B	497299
+LPC (18:0) B 	497299
+LPC (18:1)	16081932
+LPC (18:1) 	16081932
+LPC (18:2)	11005824
+LPC (18:2) 	11005824
+LPC (18:3)	24779469
+LPC (18:3) 	24779469
+LPC (20:0)	24779473
+LPC (20:0) 	24779473
+LPC (20:1)	24779475
+LPC (20:1) 	24779475
+LPC (20:2)	52924053
+LPC (20:2) 	52924053
+LPC (20:3)	52924055
+LPC (20:3) 	52924055
+LPC (20:4)	53480469
+LPC (20:4) 	53480469
+LPC (20:5)	11757087
+LPC (20:5) 	11757087
+LPC (22:4)	52924039
+LPC (22:4) 	52924039
+LPC (22:4); 	52924039
+LPC (22:5)	53480473
+LPC (22:5) 	53480473
+LPC (22:6)	10415542
+LPC (22:6) 	10415542
+LPC (o-16:0)	10480367
+LPC (o-16:0) 	10480367
+LPC (p-16:0) or LPC (o-16:1)	10917802
+LPC (p-16:0) or LPC (o-16:1) 	10917802
+LPC (p-18:0) or LPC (o-18:1)	24779527
+LPC (p-18:0) or LPC (o-18:1) 	24779527
+LPC 14:0	460604
+LPC 14:0 	460604
+LPC 15:0	24779458
+LPC 15:0 	24779458
+LPC 16:0	460602
+LPC 16:0 	460602
+LPC 16:1	24779461
+LPC 16:1 	24779461
+LPC 17:1	24779451
+LPC 18:0	497299
+LPC 18:0 	497299
+LPC 18:0 A	497299
+LPC 18:0 B	497299
+LPC 18:1	16081932
+LPC 18:1 	16081932
+LPC 18:2	11005824
+LPC 18:2 	11005824
+LPC 18:3	24779469
+LPC 18:3 	24779469
+LPC 20:0	24779473
+LPC 20:1	24779475
+LPC 20:1 	24779475
+LPC 20:2	52924053
+LPC 20:2 	52924053
+LPC 20:3	52924055
+LPC 20:3 	52924055
+LPC 20:4	53480469
+LPC 20:4 	53480469
+LPC 20:5	11757087
+LPC 20:5 	11757087
+LPC 22:4	52924039
+LPC 22:5	53480473
+LPC 22:5 	53480473
+LPC 22:6	10415542
+LPC 22:6 	10415542
+LPC o-16:0	10480367
+LPC o-16:0 	10480367
+LPC o16:0	460602
+LPC p-16:0 or LPC o-16:1	10917802
+LPC p-16:0 or LPC o-16:1 	10917802
+LPC p-18:0 or LPC o-18:1	24779527
+LPC p16:0 or LPC o16:1	460602
+LPC p18:0 or LPC o18:1	497299
+LPC(16:0)	460602
+LPC(16:0)  	460602
+LPC(16:1)	24779461
+LPC(18:0)  	497299
+LPC(18:1)  	16081932
+LPC(18:2)  	11005824
+LPC(20:4)	24779476
+LPC(20:4)  	53480469
+LPC(20:5)  	11757087
+LPC16:1	24779461
+LPC20:4	24779476
+LPE (16:0)	53480922
+LPE (16:0) 	53480922
+LPE (18:0)	24779491
+LPE (18:2)	52925130
+LPE (18:2) 	52925130
+LPE (20:4)	53480952
+LPE (20:4) 	53480952
+LPE (22:6)	52925132
+LPE (22:6) 	52925132
+LPE 16:0	53480922
+LPE 18:2	52925130
+LPE 20:4	53480952
+LPE 22:6	52925132
+LPE(18:0)  	53480667
+LPE(20:4)	42607465
+LPG (18:1)	53480465
+LPS core	53481794
+LPS with O-antigen	53481793
+LTB4	5280492
+LTB5	5283125
+Lactic acid	612
+Lactitol	157355
+Lactose	294
+Lactose	439186
+Lactose	440995
+Lactose	6134
+Lactose	69301022
+Lactose	84571
+Lactose B	6134
+Lactosylceramide (d18:1/12:0)	20057304
+Lactosylceramide (d18:1/24:1(15Z))	20057309
+Lactosylceramide (d18:1/24:1(15Z)) 	20057309
+Lactosylceramide d18:1/24:115Z	20057309
+Lactulose	11333
+Lamotrigine	3878
+Lathosterol	65728
+Lauric acid diethanolamide	8430
+Lauroyl L-carnitine	168381
+Lauroyl-L-carnitine	168381
+Lead	5352425
+Leucine	6106
+Leukotriene B4	5280492
+Leukotriene B4-d4	16061113
+Leukotriene B5	5283125
+Leukotriene C4	5280493
+Leukotriene D4	5280878
+Leukotriene E4	5280879
+Leukotriene F4	5280938
+Levofloxacin	149096
+Lidocaine	3676
+Lindane	727
+Linoleic acid	5280450
+Linoleoyl ethanolamide	5283446
+Linoleoylcarnitine	6450015
+Linoleyl carnitine	6450015
+Lipoic acid	864
+Lipoxin A4	5280914
+Lisdexamfetamine	11597698
+Lithium	28486
+Lithocholic acid	9903
+Lithocholic acid glycine conjugate	115245
+Lithocholyltaurine	53477716
+Loperamide	3955
+Loratadine	3957
+Lorazepam	3958
+Lumichrome	5326566
+Lutein	5281243
+Lycopene	446925
+Lys-Arg-Lys	18222353
+Lys-Ile	7010499
+Lys-Val	6992341
+Lysine	5962
+LysoPC (18:2); 	11005824
+LysoPC (19:0); 	24779472
+LysoPC (20:4); 	53480469
+LysoPC (22:6); 	10415542
+LysoPC(14:0)	460604
+LysoPC(14:1(9Z))	24779456
+LysoPC(15:0)	24779458
+LysoPC(16:0)	10917802
+LysoPC(16:1(9Z))	24779461
+LysoPC(17:0)	24779463
+LysoPC(18:0)	24779527
+LysoPC(18:1(11Z))	53480465
+LysoPC(18:1(9Z))	16081932
+LysoPC(18:2(9Z,12Z))	11005824
+LysoPC(18:3(6Z,9Z,12Z))	52924045
+LysoPC(18:3(9Z,12Z,15Z))	24779469
+LysoPC(18:4(6Z,9Z,12Z,15Z))	52924047
+LysoPC(20:0)	24779473
+LysoPC(20:1(11Z))	52924051
+LysoPC(20:2(11Z,14Z))	52924053
+LysoPC(20:3(5Z,8Z,11Z))	53480467
+LysoPC(20:3(8Z,11Z,14Z))	52924055
+LysoPC(20:4(5Z,8Z,11Z,14Z))	24779476
+LysoPC(20:4(8Z,11Z,14Z,17Z))	53480469
+LysoPC(20:5(5Z,8Z,11Z,14Z,17Z))	11757087
+LysoPC(22:0)	24779479
+LysoPC(22:1(13Z))	53480471
+LysoPC(22:2(13Z,16Z))	52924059
+LysoPC(22:4(7Z,10Z,13Z,16Z))	52924039
+LysoPC(22:5(4Z,7Z,10Z,13Z,16Z))	53480473
+LysoPC(22:5(7Z,10Z,13Z,16Z,19Z))	53480475
+LysoPC(22:6(4Z,7Z,10Z,13Z,16Z,19Z))	10415542
+LysoPC(24:0)	24779481
+LysoPC(24:1(15Z))	53480477
+LysoPC(P-18:1(9Z))	24779513
+MG(0:0/18:1(9Z)/0:0)	5319879
+MG(0:0/18:2(9Z,12Z)/0:0)	5365676
+MG(18:1(9Z)/0:0/0:0)	12178130
+MG(18:2(9Z,12Z)/0:0/0:0)	6436630
+MG(20:4(5Z,8Z,11Z,14Z)/0:0/0:0)	16019980
+MGDG 36:5; MGDG(18:2(2E,4E)/18:3(6Z,9Z,12Z)); [M+NH4]+	52922102
+MGDG 36:6; MGDG(18:3(6Z,9Z,12Z)/18:3(6Z,9Z,12Z)); [M+FA-H]-	52922097
+Magnesium	888
+Maleic anhydride	7923
+Malic acid	525
+Malondialdehyde	10964
+Malonic acid	867
+Malonyl-L-carnitine	22833583
+Malonyl-L-carnitine	91825606
+Maltose A	6255
+Maltotetraose	11115032
+Maltotriose	92146
+Manganese	23930
+Mannitol	6251
+Mefenamic acid	4044
+Melamine	7955
+Melanin	6325610
+Melatonin	896
+Melezitose	92817
+Memantine	4054
+Menthol	16666
+Meprobamate	4064
+Mercury	26623
+Metanephrine	688084
+Metformin	4091
+Methacholine cation	1993
+Methanethiol	878
+Methanol	887
+Methionine	6137
+Methionine sulfoxide	158980
+Methioninesulfoxide	847
+Methyl cinnamate	637520
+Methyl jasmonate	5281929
+Methyl-t-butyl ether	15413
+Methylamine	6329
+Methylcysteine	24417
+Methylglycinate	69221
+Methylguanidine	10111
+Methylimidazoleacetic acid	75810
+Methyljasmonate	5281929
+Methylmalonic acid	487
+Methyprylon	4162
+Metoclopramide	4168
+Metoprolol	4171
+Metoprolol acid	62936
+Mevalonic acid	439230
+Minocycline	54675783
+Minoxidil	4201
+Mirex	16945
+Molybdenum	185498
+Mono-2-ethylhexyl phthalate	20393
+Monoelaidin	5364833
+Monoethyl phthalate	75318
+Monoisobutyl phthalate	92272
+Monoisobutyl phthalic acid	92272
+Monoolein	5283468
+Muramic acid	441038
+Myo-inositol hexakisphosphate	890
+Myoinositol	892
+Myosmine	442649
+Myricetin	5281672
+Myristic acid	11005
+Myristoleic acid	5281119
+Myristoyl-L-carnitine	53477791
+Myristyl sulfate	5248
+N(6)-Methyllysine	164795
+N,N-Diethyl-2-aminoethanol	7497
+N,N-Dimethylarginine	123831
+N,N-Dimethylarginine	17801140
+N,N-dimethylarginine	123831
+N-(2,4-Dinitrophenyl)-DL-threonine	262558
+N-(3-(Aminomethyl)benzyl)acetamidine	1433
+N-(4-Piperidinyl)acetamide	1445156
+N-(Octadecanoyl)sphing-4-enine-1-phosphocholine	5353953
+N-(Octadecanoyl)sphing-4-enine-1-phosphocholine	6453725
+N-(tert-Butyl)benzenesulfonamide	314059
+N-3-Aminomethyl benzyl acetamidine	1433
+N-3-Aminomethylbenzylacetamidine	1433
+N-Acetyl putrescine	122356
+N-Acetyl-5-hydroxytryptamine	903
+N-Acetyl-D-galactosamine	35717
+N-Acetyl-D-glucosamine	82313
+N-Acetyl-D-lactosamine	119547
+N-Acetyl-D-lactosamine	129653443
+N-Acetyl-D-lactosamine	245
+N-Acetyl-D-lactosamine	439271
+N-Acetyl-D-lactosamine	9800166
+N-Acetyl-D-norleucine	6995106
+N-Acetyl-L-alanine	88064
+N-Acetyl-L-carnosine	9903482
+N-Acetyl-L-glutamine	182230
+N-Acetyl-L-tyrosine	68310
+N-Acetyl-S-geranylgeranyl-L-cysteine	5353394
+N-Acetyl-leucine	70912
+N-Acetylalanine	7345
+N-Acetylamphetamine	26660
+N-Acetylaspartylglutamic acid	188803
+N-Acetylaspartylglutamic acid	5255
+N-Acetylaspartylglutamic acid	6992083
+N-Acetylcytidine	107461
+N-Acetylglucosamine	439174
+N-Acetylhistidine	75619
+N-Acetylmannosamine	439281
+N-Acetylneuraminic acid	14017587
+N-Acetylneuraminic acid	439197
+N-Acetylornithine	439232
+N-Acetylserine	65249
+N-Arachidonoyl glycine	5283389
+N-Benzylglycine methyl ester	422659
+N-Cyclohexylformamide	13017
+N-Desmethylmirtazapine	10467350
+N-Docosanoyl-4-sphingenyl-1-O-phosphorylcholine	44260125
+N-Ethylaniline	7670
+N-Lauroylsarcosine	7348
+N-Methyl-gamma-oxo-3-pyridinebutanamide	436
+N-Methylanthranilic acid	67069
+N-Methylbutane-1,4-diamine	439791
+N-Methylglutamic acid	268779
+N-Methylglutamic acid	439377
+N-Methylisoleucine	560437
+N-Methyllysine	541646
+N-Methylproline	557
+N-Methylproline	643474
+N-Methylpropionamide	14470
+N-N-N-Trimethyllysine	440121
+N-N-dimethylarginine	123831
+N-Nervonoyl-D-erythro-sphingosylphosphorylcholine	44260126
+N-Oleoyl-D-erythro sphingosylphosphorylcholine	6443882
+N-Oleoyl-D-erythro-sphingosylphosphorylcholine	6443882
+N-Oleoylethanolamine	5283454
+N-Phthalyl-L-tryptophan	344265
+N-Ribosylhistidine	126923
+N-Tris(hydroxymethyl)methyl-4-aminobutanesulfonic acid	4064326
+N-Trishydroxymethylmethyl-4-aminobutanesulfonic acid	4064326
+N-a-Acetyl-L-arginine	67427
+N-acetyl putrescine	122356
+N-acetyl-L-Methionine	448580
+N-acetylaspartate 	65065
+N-acetylgalactosamine	440552
+N-acetylglutamate	70914
+N-acetylhexosamine 	24139
+N-acetylmannosamine	439281
+N-acetylornithine	439232
+N-acetylputrescine 	122356
+N-alpha-(tert-Butoxycarbonyl)-L-histidine	87308
+N-alpha-Acetyl-L-ornithine	91746269
+N-alpha-Methyl-L-lysine	11948932
+N-alpha-methylhistamine	912
+N-cyclohexylformamide	13017
+N-epsilon Methyl-L-lysine	164795
+N-epsilon-Acetyllysine	6991978
+N-epsilon-Acetyllysine	92832
+N-methylalanine	5288725
+N-omega-Acetylhistamine	69602
+N.epsilon.-Methyl-L-lysine	541646
+N1-Acetylspermidine	496
+N2,N2-Dimethylguanosine	92919
+N5-Formyl-THF	143
+N6-Isopentenyladenosine	24405
+N8-Acetylspermidine	123689
+NAD	15938971
+NADH	21604869
+NADPH	5884
+NORETHINDRONE ACETATE	5832
+Nandrolone	9904
+Naproxen	156391
+Naringenin	439246
+Ne,Ne,Ne-Trimethyllysine	440120
+Neopterin	448839
+Nervonic acid	5281120
+Neuraminic acid	513472
+Niacinamide	936
+Nickel	934
+Nicotinamide	936
+Nicotinamide N-oxide	72661
+Nicotinamide adenine dinucleotide	127255362
+Nicotinamide adenine dinucleotide	131856770
+Nicotinamide adenine dinucleotide	15938971
+Nicotinamide adenine dinucleotide	5892
+Nicotinamide adenine dinucleotide	5893
+Nicotinamide riboside cation	439924
+Nicotine	89594
+Nicotinic acid	938
+Nicotinuric acid	68499
+Nitrate	944
+Nitric oxide	145068
+Nitrite	946
+Nonadeca-10(Z)-enoic acid	5312513
+Nonanoylcarnitine	53481660
+Norcotinine	92223
+Norepinephrine	439260
+Norepinephrine sulfate	123747
+Norleucine	517543
+Normetanephrine	1237
+Norvaline	65098
+Norvaline, 5-phosphono-	1216
+Nudifloramide	69698
+O-Desmethylangolensin	89472
+O-Desmethylvenlafaxine	125017
+O-Phosphoethanolamine	1015
+O-Succinylhomoserine	439406
+O-acetylserine	99478
+OCDD	18636
+Octanoylcarnitine	123701
+Octenoylcarnitine	71464472
+Oleanolic acid	10494
+Oleic acid	445639
+Oleoyl L-carnitine	46907933
+Oleoyl glycine	6436908
+Oleoyl-L-carnitine	46907933
+Omeprazole	4594
+Omeprazole sulfide	155794
+Omeprazole sulfone	145900
+Ondansetron	4595
+Ornithine	134490
+Ornithine	6262
+Orotic acid	967
+Orotidine	92751
+Ortho-Hydroxyphenylacetic acid	11970
+Oxalic acid	971
+Oxidized glutathione	65359
+Oxoglutaric acid	51
+Oxychlordane	46174053
+Oxypurinol	4644
+PA(16:0/16:0)	46891879
+PA(16:0/18:1(11Z))	9547158
+PA(16:0/18:2(9Z,12Z))	46891859
+PA(18:0/18:2(9Z,12Z))	46891863
+PA(18:1(11Z)/18:1(11Z))	53478602
+PBB153	42948
+PC (16:0/9:0(CHO))	46907874
+PC (16:0/9:0(CHO)) 	46907874
+PC (28:0)	5459377
+PC (28:0) 	5459377
+PC (30:0)	129657
+PC (30:0) 	129657
+PC (30:0); PC(14:0/16:0); 	129657
+PC (30:1)	52922250
+PC (30:1) 	52922250
+PC (31:0)	24778680
+PC (31:0) 	24778680
+PC (31:1)	24778657
+PC (31:1) 	24778657
+PC (32:0)	452110
+PC (32:0) 	452110
+PC (32:0); PC(16:0/16:0); 	452110
+PC (32:0); PC(16:0/16:0); 	53478671
+PC (32:1)	6443788
+PC (32:1) 	6443788
+PC (32:2)	24778764
+PC (32:2) 	24778764
+PC (32:3)	52922763
+PC (32:3) 	52922763
+PC (33:0)	52922645
+PC (33:0) 	52922645
+PC (33:1)	24778662
+PC (33:1)	52922442
+PC (33:1) 	24778662
+PC (33:1) 	52922442
+PC (33:2)	52922715
+PC (33:2) 	52922715
+PC (34:0)	24778686
+PC (34:0) 	24778686
+PC (34:0); PC(16:0/18:0); 	24778686
+PC (34:1)	5497103
+PC (34:1) 	5497103
+PC (34:2)	5287971
+PC (34:2) 	5287971
+PC (34:3)	24778699
+PC (34:3)	52923213
+PC (34:3) 	24778699
+PC (34:3) 	52923213
+PC (34:3); PC(16:1/18:2); 	24778699
+PC (34:4)	52922891
+PC (34:4) 	52922891
+PC (35:1)	52922679
+PC (35:1) 	52922679
+PC (35:2)	52922491
+PC (35:2)	52922721
+PC (35:2) 	52922491
+PC (35:2) 	52922721
+PC (35:2); PC(17:0/18:2); 	52922491
+PC (35:3)	52924614
+PC (35:3) 	52924614
+PC (35:3); PC(17:1/18:2); 	52924614
+PC (35:4)	52922204
+PC (35:4)	52922895
+PC (35:4) 	52922204
+PC (35:4) 	52922895
+PC (36:0); PC(18:0/18:0); 	94190
+PC (36:1)	24778825
+PC (36:1) 	24778825
+PC (36:1); PC(18:0/18:1); 	24778825
+PC (36:2)	10350317
+PC (36:2) 	10350317
+PC (36:2) 	53480652
+PC (36:2); PC(18:0/18:2); 	10350317
+PC (36:3) A	24778937
+PC (36:3) A	53478785
+PC (36:3) A 	24778937
+PC (36:3) A 	53478785
+PC (36:3) B	52922657
+PC (36:3) B	53478785
+PC (36:3) B 	52922657
+PC (36:3) B 	53478785
+PC (36:4) A	10747814
+PC (36:4) A	52922783
+PC (36:4) A 	10747814
+PC (36:4) A 	52922783
+PC (36:4) B	10747814
+PC (36:4) B 	10747814
+PC (36:4) C 	10747814
+PC (36:4); PC(16:0/20:4); 	10747814
+PC (36:5)	24778771
+PC (36:5) A	24778771
+PC (36:5) A	52923341
+PC (36:5) A 	24778771
+PC (36:5) A 	52923341
+PC (36:5) B	24778771
+PC (36:5) B	52923341
+PC (36:5) B 	24778771
+PC (36:5) B 	52923341
+PC (36:6)	52922847
+PC (36:6) 	52922847
+PC (37:2)	52922735
+PC (37:2) 	52922735
+PC (37:2); PC(19:0/18:2); 	52922735
+PC (37:3)	52922851
+PC (37:3) 	52922851
+PC (37:3)  	52922851
+PC (37:4)	52922853
+PC (37:4) 	52922853
+PC (37:4); PC(17:1/20:3); 	52922853
+PC (37:6)	52922342
+PC (37:6) 	52922342
+PC (38:2)	24779263
+PC (38:2) 	24779263
+PC (38:2); PC(18:0/20:2); 	24779263
+PC (38:3)	52922741
+PC (38:3)	53478919
+PC (38:3) 	52922741
+PC (38:3) 	53478919
+PC (38:3); PC(18:0/20:3); 	52922741
+PC (38:3); PC(20:1/18:2); 	52922741
+PC (38:4) A	16219824
+PC (38:4) A 	16219824
+PC (38:4) B	52923291
+PC (38:4) B 	52923291
+PC (38:4); PC(18:1/20:3); 	24778947
+PC (38:5) A	52923235
+PC (38:5) A	53479033
+PC (38:5) A 	52923235
+PC (38:5) A 	53479033
+PC (38:5) B	53479033
+PC (38:5) B 	53479033
+PC (38:6)	52923295
+PC (38:6) 	52923295
+PC (38:6) A	52923295
+PC (38:6) A 	52923295
+PC (38:6) C 	52923295
+PC (38:6); PC(18:2/20:4); 	52923295
+PC (38:7)	53479075
+PC (38:7) 	53479075
+PC (39:6)	52922637
+PC (39:6) 	52922637
+PC (40:4)	52923573
+PC (40:4)	53479183
+PC (40:4) 	52923573
+PC (40:4) 	53479183
+PC (40:5) A	52923133
+PC (40:5) A	53479083
+PC (40:5) A 	52923133
+PC (40:5) A 	53479083
+PC (40:5) B	52923133
+PC (40:5) B	52923365
+PC (40:5) B 	52923133
+PC (40:5) B 	52923365
+PC (40:6) A	52923579
+PC (40:6) A 	52923579
+PC (40:6) B	24778900
+PC (40:6) B	52923195
+PC (40:6) B 	24778900
+PC (40:6) B 	52923195
+PC (40:7)	24778982
+PC (40:7) 	24778982
+PC (40:7); PC(18:1/22:6); 	24778982
+PC (40:8)	53479093
+PC (40:8)	53479127
+PC (40:8) 	53479093
+PC (40:8) 	53479127
+PC (42:5)	52923591
+PC (42:5) 	52923591
+PC (42:6)	52923651
+PC (42:6) 	52923651
+PC (42:6); PC(20:0/22:6); 	52923651
+PC (o-32:0)	173570
+PC (o-32:0) 	173570
+PC (o-34:0)	24779361
+PC (o-34:0) 	24779361
+PC (p-32:0) or PC (o-32:1)	53478671
+PC (p-32:0) or PC (o-32:1)	70698795
+PC (p-32:0) or PC (o-32:1) 	53478671
+PC (p-32:0) or PC (o-32:1) 	70698795
+PC (p-32:0) or PC (o-32:1)  	70698795
+PC (p-32:1) or PC (o-32:2)	52923882
+PC (p-32:1) or PC (o-32:2) 	52923882
+PC (p-34:0) or PC (o-34:1)	53481719
+PC (p-34:0) or PC (o-34:1) 	53481719
+PC (p-34:1) or PC (o-34:2) A	53480735
+PC (p-34:1) or PC (o-34:2) A	70698781
+PC (p-34:1) or PC (o-34:2) A 	53480735
+PC (p-34:1) or PC (o-34:2) A 	70698781
+PC (p-34:1) or PC (o-34:2) B	52923934
+PC (p-34:1) or PC (o-34:2) B	53480735
+PC (p-34:1) or PC (o-34:2) B 	52923934
+PC (p-34:1) or PC (o-34:2) B 	53480735
+PC (p-34:2) or PC (o-34:3)	24779293
+PC (p-34:2) or PC (o-34:3)	24779386
+PC (p-34:2) or PC (o-34:3) 	24779293
+PC (p-34:2) or PC (o-34:3) 	24779386
+PC (p-36:1) or PC (o-36:2)	52923754
+PC (p-36:1) or PC (o-36:2)	53480797
+PC (p-36:1) or PC (o-36:2) 	52923754
+PC (p-36:1) or PC (o-36:2) 	53480797
+PC (p-36:2) or PC (o-36:3)	53480801
+PC (p-36:2) or PC (o-36:3) 	53480801
+PC (p-36:3) or PC (o-36:4)	53480709
+PC (p-36:3) or PC (o-36:4)	53481701
+PC (p-36:3) or PC (o-36:4) 	53480709
+PC (p-36:3) or PC (o-36:4) 	53481701
+PC (p-36:3) or PC (o-36:4)  	53480709
+PC (p-36:4) or PC (o-36:5)	24779388
+PC (p-36:4) or PC (o-36:5)	53480747
+PC (p-36:4) or PC (o-36:5) 	24779388
+PC (p-36:4) or PC (o-36:5) 	53480747
+PC (p-38:2) or PC (o-38:3)	53480813
+PC (p-38:2) or PC (o-38:3) 	53480813
+PC (p-38:2) or PC (o-38:3)  	53480813
+PC (p-38:3) or PC (o-38:4)	53480815
+PC (p-38:3) or PC (o-38:4) 	53480815
+PC (p-38:4) or PC (o-38:5) A	53480715
+PC (p-38:4) or PC (o-38:5) A	53480761
+PC (p-38:4) or PC (o-38:5) A 	53480715
+PC (p-38:4) or PC (o-38:5) A 	53480761
+PC (p-38:4) or PC (o-38:5) B	53480759
+PC (p-38:4) or PC (o-38:5) B	53480761
+PC (p-38:4) or PC (o-38:5) B 	53480759
+PC (p-38:4) or PC (o-38:5) B 	53480761
+PC (p-38:5) or PC (o-38:6)	53479121
+PC (p-38:5) or PC (o-38:6)	53480695
+PC (p-38:5) or PC (o-38:6) 	53479121
+PC (p-38:5) or PC (o-38:6) 	53480695
+PC (p-40:1) or PC (o-40:2)	52923970
+PC (p-40:1) or PC (o-40:2) 	52923970
+PC (p-40:3) or PC (o-40:4)	52923852
+PC (p-40:3) or PC (o-40:4) 	52923852
+PC (p-40:4) or PC (o-40:5)	52923854
+PC (p-40:4) or PC (o-40:5)	52924022
+PC (p-40:4) or PC (o-40:5) 	52923854
+PC (p-40:4) or PC (o-40:5) 	52924022
+PC (p-40:5) or PC (o-40:6)	53480775
+PC (p-40:5) or PC (o-40:6) 	53480775
+PC (p-40:6) or PC (o-40:7) A	53479405
+PC (p-40:6) or PC (o-40:7) A 	53479405
+PC (p-40:6) or PC (o-40:7) B	53479425
+PC (p-40:6) or PC (o-40:7) B 	53479425
+PC (p-40:7) or PC (o-40:8)	53480839
+PC (p-40:7) or PC (o-40:8) 	53480839
+PC (p-42:3) or PC (o-42:4)	52923862
+PC (p-42:3) or PC (o-42:4) 	52923862
+PC (p-42:4) or PC (o-42:5)	52924034
+PC (p-42:4) or PC (o-42:5) 	52924034
+PC (p-42:5) or PC (o-42:6)	52923864
+PC (p-42:5) or PC (o-42:6)	53481769
+PC (p-42:5) or PC (o-42:6) 	52923864
+PC (p-42:5) or PC (o-42:6) 	53481769
+PC (p-44:4) or PC (o-44:5)	53481767
+PC (p-44:4) or PC (o-44:5) 	53481767
+PC (p-44:5) or PC (o-44:6)	53481769
+PC (p-44:5) or PC (o-44:6) 	53481769
+PC (p-44:5) or PC (o-44:6)   	53481753
+PC 16:0/9:0CHO	46907874
+PC 16:0/9:0CHO 	46907874
+PC 16:0:9:0 CHO 	46907874
+PC 28:0	5459377
+PC 28:0 	5459377
+PC 30:0	129657
+PC 30:0 	129657
+PC 30:1	52922250
+PC 30:1 	52922250
+PC 31:0	24778680
+PC 31:1	24778657
+PC 32:0	452110
+PC 32:0 	452110
+PC 32:0; 	452110
+PC 32:1	6443788
+PC 32:1 	6443788
+PC 32:2	24778764
+PC 32:2 	24778764
+PC 32:3	52922763
+PC 33:0	52922645
+PC 33:0 	52922645
+PC 33:1	24778662
+PC 33:1	52922442
+PC 33:1 	52922442
+PC 33:1; PC(15:1(9Z)/18:0); [M+H]+	52922366
+PC 33:2	52922715
+PC 33:2 	52922715
+PC 34:0	24778686
+PC 34:0 	24778686
+PC 34:1	5497103
+PC 34:1 	5497103
+PC 34:1; PC(16:0/18:1(11E)); [M+FA-H]-	24778687
+PC 34:1; PC(16:0/18:1(11E)); [M+H]+	24778687
+PC 34:1; PC(16:0/18:1(11Z)); [M+H]+	24778688
+PC 34:2	5287971
+PC 34:2 	5287971
+PC 34:2; PC(16:0/18:2(2E,4E)); [M+FA-H]-	24778695
+PC 34:2; PC(16:0/18:2(6Z,9Z)); [M+H]+	6439299
+PC 34:3	24778699
+PC 34:3	52923213
+PC 34:3 	52923213
+PC 34:3; PC(16:3/18:0); [M+H]+	24778699
+PC 34:4	52922891
+PC 34:4 	52922891
+PC 34:4; PC(16:4/18:0); [M+H]+	24778703
+PC 35:1	52922679
+PC 35:1 	52922679
+PC 35:2	52922491
+PC 35:2	52922721
+PC 35:2 	52922721
+PC 35:2; PC(15:1(9Z)/20:1(11E)); [M+H]+	9546825
+PC 35:3	52924614
+PC 35:3 	52924614
+PC 35:3; PC(15:0/20:3); [M+H]+	53478947
+PC 35:4	52922204
+PC 35:4	52922895
+PC 35:4 	52922204
+PC 36:1	24778825
+PC 36:1 	24778825
+PC 36:2	10350317
+PC 36:2 	10350317
+PC 36:2; PC(18:0/18:2(2E,4E)); [M+FA-H]-	24778827
+PC 36:2; PC(18:0/18:2(6Z,9Z)); [M+H]+	24778828
+PC 36:3 A	24778937
+PC 36:3 A	53478785
+PC 36:3 A 	24778937
+PC 36:3 B	52922657
+PC 36:3 B	53478785
+PC 36:3 B 	52922657
+PC 36:3; PC(18:1(11E)/18:2(2E,4E)); [M+FA-H]-	52922657
+PC 36:3; PC(18:1(11E)/18:2(6Z,9Z)); [M+H]+	52922657
+PC 36:4 A	10747814
+PC 36:4 A	52922783
+PC 36:4 A 	52922783
+PC 36:4 B	10747814
+PC 36:4 B 	10747814
+PC 36:4; PC(18:2(2E,4E)/18:2(2E,4E)); [M+FA-H]-	18647589
+PC 36:4; PC(18:2(2E,4E)/18:2(2E,4E)); [M+H]+	18647589
+PC 36:5 A	24778771
+PC 36:5 A	52923341
+PC 36:5 A 	52923341
+PC 36:5 B	24778771
+PC 36:5 B	52923341
+PC 36:5 B 	52923341
+PC 36:5; PC(16:5/20:0); [M+H]+	24778771
+PC 36:5; PC(18:2(2E,4E)/18:3(6Z,9Z,12Z)); [M+FA-H]-	24778771
+PC 36:6	52922847
+PC 36:6 	52922847
+PC 37:2	52922735
+PC 37:2 	52922735
+PC 37:3	52922851
+PC 37:3 	52922851
+PC 37:4	52922853
+PC 37:4 	52922853
+PC 37:6	52922342
+PC 37:6 	52922342
+PC 38:2	24779263
+PC 38:2 	24779263
+PC 38:3	52922741
+PC 38:3	53478919
+PC 38:3 	53478919
+PC 38:4 A	16219824
+PC 38:4 A 	16219824
+PC 38:4 B	52923291
+PC 38:4; PC(16:4/22:0); [M+H]+	16219824
+PC 38:5 A	52923235
+PC 38:5 A	53479033
+PC 38:5 A 	52923235
+PC 38:5 B	53479033
+PC 38:5 B 	53479033
+PC 38:6	52923295
+PC 38:6 A	52923295
+PC 38:6 A 	52923295
+PC 38:7	53479075
+PC 39:6	52922637
+PC 39:6 	52922637
+PC 40:4	52923573
+PC 40:4	53479183
+PC 40:4 	53479183
+PC 40:5 A	52923133
+PC 40:5 A	53479083
+PC 40:5 A 	53479083
+PC 40:5 B	52923133
+PC 40:5 B	52923365
+PC 40:5 B 	52923365
+PC 40:6 A	52923579
+PC 40:6 A 	52923579
+PC 40:6 B	24778900
+PC 40:6 B	52923195
+PC 40:6 B 	52923195
+PC 40:7	24778982
+PC 40:7 	24778982
+PC 40:8	53479093
+PC 40:8	53479127
+PC 40:8 	53479127
+PC 42:5	52923591
+PC 42:6	52923651
+PC o-32:0	173570
+PC o-32:0 	173570
+PC o-34:0	24779361
+PC o-34:0 	24779361
+PC o32:0	173570
+PC o34:0	24779361
+PC p-32:0 or PC o-32:1	53478671
+PC p-32:0 or PC o-32:1	70698795
+PC p-32:0 or PC o-32:1 	70698795
+PC p-32:1 or PC o-32:2	52923882
+PC p-34:0 or PC o-34:1	53481719
+PC p-34:0 or PC o-34:1 	53481719
+PC p-34:1 or PC o-34:2 A	53480735
+PC p-34:1 or PC o-34:2 A	70698781
+PC p-34:1 or PC o-34:2 A 	70698781
+PC p-34:1 or PC o-34:2 B	52923934
+PC p-34:1 or PC o-34:2 B	53480735
+PC p-34:2 or PC o-34:3	24779293
+PC p-34:2 or PC o-34:3	24779386
+PC p-34:2 or PC o-34:3 	24779293
+PC p-36:1 or PC o-36:2	52923754
+PC p-36:1 or PC o-36:2	53480797
+PC p-36:1 or PC o-36:2 	52923754
+PC p-36:2 or PC o-36:3	53480801
+PC p-36:2 or PC o-36:3 	53480801
+PC p-36:3 or PC o-36:4	53480709
+PC p-36:3 or PC o-36:4	53481701
+PC p-36:3 or PC o-36:4 	53480709
+PC p-36:4 or PC o-36:5	24779388
+PC p-36:4 or PC o-36:5	53480747
+PC p-36:4 or PC o-36:5 	53480747
+PC p-38:2 or PC o-38:3	53480813
+PC p-38:2 or PC o-38:3 	53480813
+PC p-38:3 or PC o-38:4	53480815
+PC p-38:3 or PC o-38:4 	53480815
+PC p-38:4 or PC o-38:5 A	53480715
+PC p-38:4 or PC o-38:5 A	53480761
+PC p-38:4 or PC o-38:5 A 	53480715
+PC p-38:4 or PC o-38:5 B	53480759
+PC p-38:4 or PC o-38:5 B	53480761
+PC p-38:4 or PC o-38:5 B 	53480759
+PC p-38:5 or PC o-38:6	53479121
+PC p-38:5 or PC o-38:6	53480695
+PC p-38:5 or PC o-38:6 	53480695
+PC p-40:1 or PC o-40:2	52923970
+PC p-40:3 or PC o-40:4	52923852
+PC p-40:3 or PC o-40:4 	52923852
+PC p-40:4 or PC o-40:5	52923854
+PC p-40:4 or PC o-40:5	52924022
+PC p-40:4 or PC o-40:5 	52924022
+PC p-40:5 or PC o-40:6	53480775
+PC p-40:5 or PC o-40:6 	53480775
+PC p-40:6 or PC o-40:7 A	53479405
+PC p-40:6 or PC o-40:7 A 	53479405
+PC p-40:6 or PC o-40:7 B	53479425
+PC p-40:6 or PC o-40:7 B 	53479425
+PC p-40:7 or PC o-40:8	53480839
+PC p-42:3 or PC o-42:4	52923862
+PC p-42:3 or PC o-42:4 	52923862
+PC p-42:4 or PC o-42:5	52924034
+PC p-42:4 or PC o-42:5 	52924034
+PC p-42:5 or PC o-42:6	52923864
+PC p-42:5 or PC o-42:6	53481769
+PC p-42:5 or PC o-42:6 	53481769
+PC p-44:4 or PC o-44:5	53481767
+PC p-44:4 or PC o-44:5 	53481767
+PC p-44:5 or PC o-44:6	53481769
+PC p32:0 or PC o32:1	53478671
+PC p32:0 or PC o32:1	70698795
+PC p34:0 or PC o34:1	53481719
+PC p34:1 or PC o34:2 A	53480735
+PC p34:1 or PC o34:2 A	70698781
+PC p34:1 or PC o34:2 B	53480735
+PC p34:2 or PC o34:3	24779293
+PC p34:2 or PC o34:3	24779386
+PC p36:1 or PC o36:2	52923754
+PC p36:2 or PC o36:3	53480801
+PC p36:3 or PC o36:4	53480709
+PC p36:3 or PC o36:4	53481701
+PC p36:4 or PC o36:5	24779388
+PC p36:4 or PC o36:5	53480747
+PC p38:2 or PC o38:3	53480813
+PC p38:3 or PC o38:4	53480815
+PC p38:4 or PC o38:5 A	53480715
+PC p38:4 or PC o38:5 A	53480761
+PC p38:4 or PC o38:5 B	53480759
+PC p38:4 or PC o38:5 B	53480761
+PC p38:5 or PC o38:6	53480695
+PC p40:3 or PC o40:4	52923852
+PC p40:4 or PC o40:5	52924022
+PC p40:5 or PC o40:6	53480775
+PC p40:6 or PC o40:7 A	53479405
+PC p40:6 or PC o40:7 B	53479425
+PC p42:3 or PC o42:4	52923862
+PC p42:4 or PC o42:5	52924034
+PC p42:5 or PC o42:6	53481769
+PC p44:4 or PC o44:5	53481767
+PC(16:0/16:0)	53478671
+PC(16:0/20:4)	10747814
+PC(18:0/18:0)	94190
+PC(18:1/20:3)	24778947
+PC(28:0)	5459377
+PC(30:0)  	129657
+PC(31:0)  	24778680
+PC(31:1)  	24778657
+PC(32:0)	452110
+PC(32:0)  	452110
+PC(32:1)  	6443788
+PC(32:2)	24778764
+PC(32:2)  	24778764
+PC(33:0)  	52922645
+PC(33:1)  	52922442
+PC(33:2)	24778664
+PC(33:2) 	52922715
+PC(34:0) 	24778686
+PC(34:1) 	5497103
+PC(34:2)	5287971
+PC(34:2) 	5287971
+PC(34:3) A 	52923213
+PC(34:3) B 	52923213
+PC(34:3) C 	52923213
+PC(34:4) 	52922891
+PC(35:1) 	52922679
+PC(35:2) A 	52922721
+PC(35:2) B 	52922721
+PC(35:3) 	52924614
+PC(35:4) 	52922204
+PC(36:1)	24778936
+PC(36:1) 	24778825
+PC(36:2) 	10350317
+PC(36:3) A 	24778937
+PC(36:3) B 	52922657
+PC(36:4) A 	52922783
+PC(36:4) B 	10747814
+PC(36:4) C 	10747814
+PC(36:5) C 	52923341
+PC(36:5) D 	52923341
+PC(36:5)A  	52923341
+PC(36:6) 	52922847
+PC(37:2) 	52922735
+PC(37:4) 	52922853
+PC(37:5) 	53479279
+PC(38:2) 	24779263
+PC(38:3) 	53478919
+PC(38:4) A 	16219824
+PC(38:4) B  	16219824
+PC(38:4) C 	16219824
+PC(38:5) A 	52923235
+PC(38:5) B  	53479033
+PC(38:6) A 	52923295
+PC(38:6) B 	52923295
+PC(38:7) 	53479075
+PC(40:4) 	53479183
+PC(40:5) A 	53479083
+PC(40:5) B 	52923365
+PC(40:6) A 	52923579
+PC(40:6)B 	52923195
+PC(40:7) B 	24778982
+PC(40:8) 	53479127
+PC(42:10) 	24779081
+PC(P-18:0/18:2)	52923944
+PC(o-32:0) 	173570
+PC(o-34:0) 	24779361
+PC(p-32:1)/PC(o-32:2) 	52923882
+PC(p-34:1)/PC(o-34:2) 	70698781
+PC(p-34:2)/PC(o-34:3) 	24779293
+PC(p-36:1)/PC(o-36:2) A 	52923754
+PC(p-36:1)/PC(o-36:2) B 	52923754
+PC(p-36:2)/PC(o-36:3) 	53480801
+PC(p-36:4)/PC(o-36:5) 	53480747
+PC(p-36:5)/PC(o-36:6) 	24779326
+PC(p-38:3)/PC(o-38:4) A 	53480815
+PC(p-38:3)/PC(o-38:4) B 	53480815
+PC(p-38:4)/PC(o-38:5) A 	53480715
+PC(p-38:4)/PC(o-38:5) B 	53480759
+PC(p-38:5)/PC(o-38:6) A 	53480695
+PC(p-38:5)/PC(o-38:6) B 	53480695
+PC(p-38:6)/PC(o-38:7) 	16759366
+PC(p-40:4)/PC(o-40:5) 	52924022
+PC(p-40:5)/PC(o-40:6) 	53480775
+PC(p-40:6)/PC(o-40:7) A 	53479405
+PC(p-40:6)/PC(o-40:7) B 	53479425
+PC(p-42:5)/PC(o-42:6) A 	53481769
+PCB101	37807
+PCB105	36188
+PCB110	38015
+PCB118	35823
+PCB126	63090
+PCB138_158	37035
+PCB146	40234
+PCB149	38016
+PCB153	37034
+PCB156	38019
+PCB157	50891
+PCB167	40479
+PCB169	36231
+PCB170	37037
+PCB172	40481
+PCB177	40477
+PCB178	40474
+PCB180	37036
+PCB183	40476
+PCB187	40475
+PCB194	37251
+PCB195	40485
+PCB196_203	39253
+PCB199	40482
+PCB206	38411
+PCB209	16318
+PCB28	23448
+PCB44	38875
+PCB49	38876
+PCB52	37248
+PCB66	36185
+PCB74	36218
+PCB87	38014
+PCB99	38013
+PE (34:1)	5283496
+PE (34:1) 	5283496
+PE (34:2)	9546747
+PE (34:2) 	46891780
+PE (34:2) 	9546747
+PE (34:2); PE(16:0/18:2); 	9546747
+PE (34:3); PE(16:0/18:3); 	9546746
+PE (36:1)	9546734
+PE (36:1) 	25244969
+PE (36:1) 	9546734
+PE (36:2)	6437392
+PE (36:2) 	6437392
+PE (36:2); PE(18:0/18:2); 	6437392
+PE (36:3)	52922657
+PE (36:3)	52924364
+PE (36:3) 	52924364
+PE (36:3); PE(18:1/18:2); 	52924364
+PE (36:4)	52924875
+PE (36:4)	52924904
+PE (36:4) 	52924875
+PE (36:4) 	52924904
+PE (36:4); PE(18:2/18:2); 	52924875
+PE (38:2)	9546825
+PE (38:2) 	9546825
+PE (38:4)	5289133
+PE (38:4) 	5289133
+PE (38:4) A	5289133
+PE (38:4) A 	5289133
+PE (38:4) B	5289133
+PE (38:4) B 	5289133
+PE (38:5); 	52924902
+PE (38:6)	52924646
+PE (38:6)	52924893
+PE (38:6) 	52924646
+PE (38:6) 	52924893
+PE (38:6); PE(18:2/20:4); 	52924646
+PE (40:5); PE(18:0/22:5); 	53479611
+PE (40:6)	52924379
+PE (40:6) 	52924379
+PE (40:6); PE(18:0/22:6); 	52924379
+PE (40:7); PE(18:1/22:6); 	52922113
+PE (42:6); PE(20:0/22:6); 	52924877
+PE (p-34:1) or PE (o-34:2)	53479657
+PE (p-34:1) or PE (o-34:2)	53480893
+PE (p-34:1) or PE (o-34:2) 	53479657
+PE (p-34:1) or PE (o-34:2) 	53480893
+PE (p-34:2) or PE (o-34:3)	53480894
+PE (p-34:2) or PE (o-34:3) 	53480894
+PE (p-36:1) or PE (o-36:2)	53480895
+PE (p-36:1) or PE (o-36:2) 	53480895
+PE (p-36:2) or PE (o-36:3)	52925079
+PE (p-36:2) or PE (o-36:3)	53480897
+PE (p-36:2) or PE (o-36:3) 	52925079
+PE (p-36:2) or PE (o-36:3) 	53480897
+PE (p-36:4) or PE (o-36:5)	52925126
+PE (p-36:4) or PE (o-36:5)	53480870
+PE (p-36:4) or PE (o-36:5) 	52925126
+PE (p-36:4) or PE (o-36:5) 	53480870
+PE (p-36:4); PE(P-16:0/20:4); 	52925126
+PE (p-36:5) or PE (o-36:6)	52925061
+PE (p-36:5) or PE (o-36:6) 	52925061
+PE (p-38:2) or PE (o-38:3)	52924991
+PE (p-38:2) or PE (o-38:3) 	52924991
+PE (p-38:3) or PE (o-38:4)	52924972
+PE (p-38:3) or PE (o-38:4) 	52924972
+PE (p-38:4) or PE (o-38:5)	53480855
+PE (p-38:4) or PE (o-38:5)	9547058
+PE (p-38:4) or PE (o-38:5) 	53480855
+PE (p-38:4) or PE (o-38:5) 	86289532
+PE (p-38:4) or PE (o-38:5) 	9547058
+PE (p-38:5) or PE (o-38:6)	52925089
+PE (p-38:5) or PE (o-38:6)	53479831
+PE (p-38:5) or PE (o-38:6) 	52925089
+PE (p-38:5) or PE (o-38:6) 	53479831
+PE (p-38:6) or PE (o-38:7)	5283497
+PE (p-38:6) or PE (o-38:7) 	5283497
+PE (p-38:6); PE(P-16:0/22:6); 	5283497
+PE (p-40:4) or PE (o-40:5)	52925118
+PE (p-40:4) or PE (o-40:5) 	52925118
+PE (p-40:5) or PE (o-40:6)	53480857
+PE (p-40:5) or PE (o-40:6)	53480884
+PE (p-40:5) or PE (o-40:6) 	53480857
+PE (p-40:5) or PE (o-40:6) 	53480884
+PE (p-40:6) or PE (o-40:7)	42607458
+PE (p-40:6) or PE (o-40:7) 	42607458
+PE (p-40:6); PE(P-18:0/22:6); 	42607458
+PE (p-40:7) or PE (o-40:8)	52925039
+PE (p-40:7) or PE (o-40:8) 	52925039
+PE 34:1	5283496
+PE 34:1 	5283496
+PE 34:2	9546747
+PE 36:1	9546734
+PE 36:1 	9546734
+PE 36:2	6437392
+PE 36:2; PE(18:0/18:2(2E,4E)); [M-H]-	46891778
+PE 36:2; PE(18:0/18:2(6Z,9Z)); [M+H]+	46891778
+PE 36:2; PE(18:0/18:2(6Z,9Z)); [M-H]-	46891778
+PE 36:3	52924364
+PE 36:3; PE(18:1(11E)/18:2(2E,4E)); [M+H]+	52924920
+PE 36:3; PE(18:1(11E)/18:2(6Z,9Z)); [M-H]-	52924920
+PE 36:4	52924875
+PE 36:4	52924904
+PE 36:4; PE(18:2/18:2); [M+H]+	71306340
+PE 38:2	9546825
+PE 38:4	5289133
+PE 38:4 	5289133
+PE 38:4 A	5289133
+PE 38:4 B	5289133
+PE 38:6	52924646
+PE 38:6	52924893
+PE 38:6 	52924893
+PE 40:6	52924379
+PE p-34:1 or PE o-34:2	53479657
+PE p-34:1 or PE o-34:2	53480893
+PE p-34:2 or PE o-34:3	53480894
+PE p-36:1 or PE o-36:2	53480895
+PE p-36:2 or PE o-36:3	52925079
+PE p-36:2 or PE o-36:3	53480897
+PE p-36:2 or PE o-36:3 	53480897
+PE p-36:4 or PE o-36:5	52925126
+PE p-36:4 or PE o-36:5	53480870
+PE p-36:4 or PE o-36:5 	53480870
+PE p-36:5 or PE o-36:6	52925061
+PE p-38:2 or PE o-38:3	52924991
+PE p-38:3 or PE o-38:4	52924972
+PE p-38:4 or PE o-38:5	53480855
+PE p-38:4 or PE o-38:5	9547058
+PE p-38:4 or PE o-38:5 	53480855
+PE p-38:5 or PE o-38:6	52925089
+PE p-38:5 or PE o-38:6	53479831
+PE p-38:5 or PE o-38:6 	53479831
+PE p-38:6 or PE o-38:7	5283497
+PE p-40:4 or PE o-40:5	52925118
+PE p-40:5 or PE o-40:6	53480857
+PE p-40:5 or PE o-40:6	53480884
+PE p-40:6 or PE o-40:7	42607458
+PE p-40:7 or PE o-40:8	52925039
+PE p34:2 or PE o34:3	53480894
+PE p36:2 or PE o36:3	52925079
+PE p36:4 or PE o36:5	52925126
+PE p38:4 or PE o38:5	9547058
+PE p38:5 or PE o38:6	52925089
+PE(16:0/18:3)	9546746
+PE(18:0/22:5)	53479611
+PE(18:1/22:6)	52922113
+PE(20:0/22:6)	52924877
+PE(36:1)	9546734
+PE(36:1)	9546755
+PE(36:2)	46891778
+PE(36:4)	52924904
+PE(38:4)	46891781
+PE(38:4)	5289133
+PE(38:6)	52924893
+PE(P-16:0/18:2)	52925127
+PE(P-16:0/20:4)	52925126
+PE(P-16:0/22:6)	5283497
+PE(P-18:0/20:4)	9547058
+PE(P-18:0/22:6)	42607458
+PE(p-34:1)/PE(o-34:2) 	53479657
+PE(p-36:1)/PE(o-36:2) 	15061530
+PE(p-36:2)/PE(o-36:3) 	53480897
+PE(p-36:4)/PE(o-36:5) 	53480870
+PE(p-38:4)/PE(o-38:5) 	53480855
+PE(p-38:5)/PE(o-38:6) 	53479831
+PE(p-40:5)/PE(o-40:6) 	53480857
+PG (34:1); PG(16:0/18:1); 	52941750
+PG (34:2); PG(16:0/18:2); 	52927246
+PG 34:0; PG(17:0/17:0); 	46891872
+PG 34:2; PG(16:0/18:2(2E,4E)); [M-H]-	52927246
+PG 34:3; PG(16:0/18:3(6Z,9Z,12Z)); [M-H]-	52927171
+PG(16:0/18:1(11Z))	5289145
+PG(16:0/18:2(9Z,12Z))	52927246
+PG(16:0/18:2)	52927246
+PG(16:0/20:3(5Z,8Z,11Z))	53480603
+PG(16:0/20:4(5Z,8Z,11Z,14Z))	24779550
+PG(16:0/22:4(7Z,10Z,13Z,16Z))	52927231
+PG(16:0/22:5(4Z,7Z,10Z,13Z,16Z))	53480604
+PG(16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	52926307
+PG(16:1(9Z)/18:0)	52926476
+PG(16:1(9Z)/18:1(11Z))	53480606
+PG(16:1(9Z)/20:3(5Z,8Z,11Z))	53480607
+PG(16:1(9Z)/20:4(5Z,8Z,11Z,14Z))	52927164
+PG(16:1(9Z)/22:4(7Z,10Z,13Z,16Z))	52926490
+PG(16:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z))	53480608
+PG(18:0/16:1(9Z))	52927152
+PG(18:0/18:1(11Z))	53480610
+PG(18:0/18:2(9Z,12Z))	52927245
+PG(18:0/18:3(6Z,9Z,12Z))	52926580
+PG(18:0/20:4(5Z,8Z,11Z,14Z))	24779553
+PG(18:0/22:4(7Z,10Z,13Z,16Z))	52927148
+PG(18:0/22:5(4Z,7Z,10Z,13Z,16Z))	53480612
+PG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	24779554
+PG(18:1(11Z)/16:0)	53480614
+PG(18:1(11Z)/16:1(9Z))	53480615
+PG(18:1(11Z)/18:0)	53480616
+PG(18:1(11Z)/18:1(11Z))	53480617
+PG(18:1(11Z)/18:2(9Z,12Z))	53480619
+PG(18:1(11Z)/18:3(6Z,9Z,12Z))	53480620
+PG(18:1(11Z)/20:3(5Z,8Z,11Z))	53480622
+PG(18:1(11Z)/20:4(5Z,8Z,11Z,14Z))	53480624
+PG(18:1(11Z)/22:4(7Z,10Z,13Z,16Z))	53480625
+PG(18:1(11Z)/22:5(4Z,7Z,10Z,13Z,16Z))	53480626
+PG(18:1(11Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	53480628
+PG(18:1(9Z)/16:1(9Z))	52927146
+PG(18:1(9Z)/18:0)	52927224
+PG(18:2(9Z,12Z)/16:0)	52927142
+PG(18:2(9Z,12Z)/18:0)	52927141
+PG(18:2(9Z,12Z)/18:1(11Z))	53480633
+PG(18:2(9Z,12Z)/18:2(9Z,12Z))	52927219
+PG(18:2(9Z,12Z)/18:3(6Z,9Z,12Z))	52926616
+PG(18:2(9Z,12Z)/20:3(5Z,8Z,11Z))	53480634
+PG(18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z))	52927140
+PG(18:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))	52926630
+PG(18:2(9Z,12Z)/22:5(4Z,7Z,10Z,13Z,16Z))	53480635
+PG(18:2(9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	52926310
+PG(18:3(6Z,9Z,12Z)/18:0)	52926642
+PG(18:3(6Z,9Z,12Z)/18:1(11Z))	53480637
+PG(18:3(6Z,9Z,12Z)/18:2(9Z,12Z))	52926644
+PG(18:3(6Z,9Z,12Z)/20:3(5Z,8Z,11Z))	53480638
+PG(18:3(6Z,9Z,12Z)/22:4(7Z,10Z,13Z,16Z))	52926660
+PG(18:3(6Z,9Z,12Z)/22:5(4Z,7Z,10Z,13Z,16Z))	53480639
+PGD2	448457
+PGD2 ethanolamide	71434303
+PGE1	5280723
+PGE2	5280360
+PGE3	5280937
+PGF2a ethanolamide	53481911
+PGF2alpha	5280363
+PGF3alpha	5280940
+PHAU	4137915
+PI (32:1)	52927628
+PI (32:1) 	52927628
+PI (32:1); PI(16:0/16:1); 	52927628
+PI (34:1)	17754123
+PI (34:1) 	17754123
+PI (34:1); PI(16:0/18:1); 	17754123
+PI (34:2)	52928300
+PI (34:2) 	5287971
+PI (34:2) 	52928300
+PI (34:2); PI(16:0/18:2); 	52928300
+PI (36:1)	52928410
+PI (36:1) 	52928410
+PI (36:1); PI(18:0/18:1); 	52928410
+PI (36:2)	86289142
+PI (36:2) 	86289142
+PI (36:2); PI(18:0/18:2); 	86289142
+PI (36:3)	52928016
+PI (36:3) 	52928016
+PI (36:3); PI(16:0/20:3); 	52928016
+PI (36:3); PI(18:1/18:2); 	52928016
+PI (36:4)	102515489
+PI (36:4) 	102515489
+PI (36:4); PI(16:0/20:4); 	102515489
+PI (36:4); PI(18:2/18:2); 	102515489
+PI (37:4); PI(17:0/20:4); 	9547141
+PI (38:3)	52927778
+PI (38:3) 	52927778
+PI (38:3); PI(18:0/20:3); 	52927778
+PI (38:4)	42607491
+PI (38:4) 	42607491
+PI (38:4); PI(18:0/20:4); 	42607491
+PI (38:4); PI(18:0/20:4); 	71581204
+PI (38:4); PI(18:1/20:3); 	42607491
+PI (38:5)	52928052
+PI (38:5) 	52928052
+PI (38:5); PI(18:1/20:4); 	52928052
+PI (38:6); PI(16:0/22:6); 	52927464
+PI (40:4); PI(20:0/20:4); 	52928284
+PI (40:6)	52928249
+PI (40:6) 	52928249
+PI (40:6); PI(18:0/22:6); 	52928249
+PI 32:1	52927628
+PI 34:1	17754123
+PI 34:2	52928300
+PI 36:1	52928410
+PI 36:2	86289142
+PI 36:2; PI(18:1(11E)/18:1(11E)); [M-H]-	86289142
+PI 36:3	52928016
+PI 36:4	102515489
+PI 38:3	52927778
+PI 38:4	42607491
+PI 38:5	52928052
+PI 40:6	52928249
+PI(16:0/16:1(9Z))	52928334
+PI(16:0/18:0)	71296229
+PI(16:0/18:1(11Z))	53480051
+PI(16:0/18:2(9Z,12Z))	46891796
+PI(16:0/20:0)	52928395
+PI(16:0/20:2(11Z,14Z))	52927618
+PI(16:0/20:3(5Z,8Z,11Z))	53480052
+PI(16:0/20:4(5Z,8Z,11Z,14Z))	52928411
+PI(16:0/22:2(13Z,16Z))	52927621
+PI(16:0/22:3(10Z,13Z,16Z))	53480054
+PI(16:0/22:4(10Z,13Z,16Z,19Z))	53480055
+PI(16:0/22:5(4Z,7Z,10Z,13Z,16Z))	53480056
+PI(16:0/22:6)	52927464
+PI(16:1(9Z)/16:0)	52927628
+PI(16:1(9Z)/18:0)	52927632
+PI(16:1(9Z)/18:1(11Z))	53480058
+PI(16:2(9Z,12Z)/18:0)	53480060
+PI(16:2(9Z,12Z)/22:3(10Z,13Z,16Z))	53480061
+PI(17:0/20:4)	9547141
+PI(18:0/16:0)	52928311
+PI(18:0/16:1(9Z))	52928310
+PI(18:0/16:2(9Z,12Z))	53480062
+PI(18:0/18:0)	42607490
+PI(18:0/18:2(9Z,12Z))	52928409
+PI(18:0/18:3(6Z,9Z,12Z))	52927736
+PI(18:0/20:2(11Z,14Z))	52928387
+PI(18:0/20:3(5Z,8Z,11Z))	53480063
+PI(18:0/20:4(5Z,8Z,11Z,14Z))	42607491
+PI(18:0/22:4(10Z,13Z,16Z,19Z))	53480065
+PI(18:0/22:5(4Z,7Z,10Z,13Z,16Z))	53480066
+PI(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	52927465
+PI(18:1(11Z)/16:0)	53480068
+PI(18:1(11Z)/16:1(9Z))	53480069
+PI(18:1(11Z)/18:1(11Z))	53480070
+PI(18:1(11Z)/18:2(9Z,12Z))	53480072
+PI(18:1(11Z)/18:3(6Z,9Z,12Z))	53480073
+PI(18:1(11Z)/20:1(11Z))	53480075
+PI(18:1(11Z)/20:3(5Z,8Z,11Z))	53480076
+PI(18:1(11Z)/20:4(5Z,8Z,11Z,14Z))	53480078
+PI(18:2(9Z,12Z)/16:0)	52928300
+PI(18:2(9Z,12Z)/18:0)	52928299
+PI(18:2(9Z,12Z)/18:1(11Z))	53480083
+PI(18:2(9Z,12Z)/18:2(9Z,12Z))	52928380
+PI(18:2(9Z,12Z)/20:0)	52927777
+PI(18:2(9Z,12Z)/20:1(11Z))	52927778
+PI(18:2(9Z,12Z)/20:2(11Z,14Z))	52927779
+PI(18:2(9Z,12Z)/20:3(5Z,8Z,11Z))	53480084
+PI(18:2(9Z,12Z)/22:2(13Z,16Z))	52927785
+PI(18:2(9Z,12Z)/22:3(10Z,13Z,16Z))	53480085
+PI(18:3(6Z,9Z,12Z)/18:0)	52927798
+PI(18:3(6Z,9Z,12Z)/18:1(11Z))	53480086
+PI(18:3(6Z,9Z,12Z)/22:3(10Z,13Z,16Z))	53480087
+PI(20:0/16:0)	52928286
+PI(20:0/18:2(9Z,12Z))	52928375
+PI(20:0/20:3(8Z,11Z,14Z))	52927943
+PI(20:0/20:4(5Z,8Z,11Z,14Z))	52928284
+PI(20:0/20:4)	52928284
+PI(20:1(11Z)/18:1(11Z))	53480091
+PI(20:1(11Z)/18:2(9Z,12Z))	52927962
+PI(20:1(11Z)/20:4(5Z,8Z,11Z,14Z))	52927971
+PI(20:2(11Z,14Z)/16:0)	52927985
+PI(20:2(11Z,14Z)/18:0)	52927990
+PI(20:2(11Z,14Z)/18:2(9Z,12Z))	52927992
+PI(20:2(11Z,14Z)/20:2(11Z,14Z))	52928000
+PI(20:3(5Z,8Z,11Z)/16:0)	53480093
+PI(20:3(5Z,8Z,11Z)/18:0)	53480094
+PI(20:3(5Z,8Z,11Z)/18:1(11Z))	53480095
+PI(20:3(5Z,8Z,11Z)/18:2(9Z,12Z))	53480097
+PI(20:3(5Z,8Z,11Z)/20:3(5Z,8Z,11Z))	53480098
+PI(20:4(5Z,8Z,11Z,14Z)/16:0)	52928281
+PI(20:4(5Z,8Z,11Z,14Z)/18:0)	52928051
+PI(20:4(5Z,8Z,11Z,14Z)/18:1(11Z))	53480102
+PI(20:4(5Z,8Z,11Z,14Z)/20:0)	52928059
+PI(20:4(5Z,8Z,11Z,14Z)/20:1(11Z))	52928060
+PI(22:2(13Z,16Z)/16:0)	52928184
+PI(22:2(13Z,16Z)/18:2(9Z,12Z))	52928191
+PI(22:3(10Z,13Z,16Z)/16:0)	53480109
+PI(22:3(10Z,13Z,16Z)/16:2(9Z,12Z))	53480110
+PI(22:3(10Z,13Z,16Z)/18:2(9Z,12Z))	53480111
+PI(22:3(10Z,13Z,16Z)/18:3(6Z,9Z,12Z))	53480112
+PI(22:4(10Z,13Z,16Z,19Z)/16:0)	53480114
+PI(22:4(10Z,13Z,16Z,19Z)/18:0)	53480115
+PI(22:5(4Z,7Z,10Z,13Z,16Z)/16:0)	53480116
+PI(22:5(4Z,7Z,10Z,13Z,16Z)/18:0)	53480117
+PI(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:0)	52928249
+PINOCEMBRIN	68071
+PS 38:2; PS(18:2(2E,4E)/20:0); [M-H]-	52926069
+PS(14:0/18:1(9Z))	52926083
+PS(14:1(9Z)/18:0)	52925229
+PS(16:0/16:1(9Z))	52926017
+PS(16:0/18:0)	52926014
+PS(16:0/18:1(9Z))	5283499
+PS(16:0/18:2(9Z,12Z))	46891801
+PS(16:0/20:3(8Z,11Z,14Z))	52926011
+PS(16:0/20:4(5Z,8Z,11Z,14Z))	24779544
+PS(16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	46891804
+PS(16:1(9Z)/16:0)	52925317
+PS(16:1(9Z)/18:0)	52925321
+PS(16:1(9Z)/18:1(9Z))	52926009
+PS(16:1(9Z)/20:3(8Z,11Z,14Z))	52925329
+PS(18:0/14:1(9Z))	52925419
+PS(18:0/16:0)	52925997
+PS(18:0/16:1(9Z))	52925996
+PS(18:0/18:0)	46891784
+PS(18:0/18:1(9Z))	59720717
+PS(18:0/18:2(9Z,12Z))	9547091
+PS(18:0/18:3(9Z,12Z,15Z))	52925426
+PS(18:0/20:3(8Z,11Z,14Z))	52925994
+PS(18:0/20:4(5Z,8Z,11Z,14Z))	46891807
+PS(18:0/22:5(7Z,10Z,13Z,16Z,19Z))	53480355
+PS(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	46891808
+PS(18:1(9Z)/14:0)	52925991
+PS(18:1(9Z)/16:0)	52926066
+PS(18:1(9Z)/16:1(9Z))	52925990
+PS(18:1(9Z)/18:0)	9547094
+PS(18:1(9Z)/18:1(9Z))	23692652
+PS(18:1(9Z)/18:2(9Z,12Z))	52926065
+PS(18:1(9Z)/18:3(9Z,12Z,15Z))	52925989
+PS(18:1(9Z)/20:3(8Z,11Z,14Z))	52925445
+PS(18:1(9Z)/20:4(5Z,8Z,11Z,14Z))	52925988
+PS(18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	52925155
+PS(18:2(9Z,12Z)/16:0)	52925986
+PS(18:2(9Z,12Z)/18:0)	52925985
+PS(18:2(9Z,12Z)/18:1(9Z))	52925460
+PS(18:2(9Z,12Z)/18:2(9Z,12Z))	46891793
+PS(18:2(9Z,12Z)/20:3(8Z,11Z,14Z))	52925469
+PS(18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z))	52925984
+PS(18:3(9Z,12Z,15Z)/18:0)	52925517
+PS(18:3(9Z,12Z,15Z)/18:1(9Z))	52925983
+PS(18:3(9Z,12Z,15Z)/20:3(8Z,11Z,14Z))	52925526
+PS(20:3(8Z,11Z,14Z)/16:0)	52925705
+PS(20:3(8Z,11Z,14Z)/16:1(9Z))	52925706
+PS(20:3(8Z,11Z,14Z)/18:0)	52925710
+PS(20:3(8Z,11Z,14Z)/18:1(9Z))	52925711
+PS(20:3(8Z,11Z,14Z)/18:2(9Z,12Z))	52925712
+PS(20:3(8Z,11Z,14Z)/18:3(9Z,12Z,15Z))	52925714
+PS(20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))	52925721
+PS(20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))	52925722
+PS(20:4(5Z,8Z,11Z,14Z)/16:0)	52925968
+PS(20:4(5Z,8Z,11Z,14Z)/18:0)	52925740
+PS(20:4(5Z,8Z,11Z,14Z)/18:1(9Z))	52925741
+PS(20:4(5Z,8Z,11Z,14Z)/18:2(9Z,12Z))	52925742
+PS(20:4(5Z,8Z,11Z,14Z)/20:3(8Z,11Z,14Z))	52925751
+PS(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/16:0)	52925956
+PS(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:0)	52925937
+PS(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:1(9Z))	52925938
+Palmitamide	69421
+Palmitelaidic acid	5282745
+Palmitic acid	985
+Palmitoleic acid	445638
+Palmitoyl ethanolamide	4671
+Palmitoyl sphingomyelin	53394029
+Palmitoyl sphingomyelin	9939941
+Palmitoyl-L-carnitine	11953816
+Palmitoylcarnitine	461
+Palmitoylethanolamide	4671
+Palmityl-L-carnitine	11953816
+Pantoprazole	4679
+Pantothenic Acid	6613
+Pantothenic acid	6613
+Pantothenic acid	988
+Paraxanthine	4687
+Penicillin G	5904
+Pentadecanoic acid	13849
+Pentaethylene glycol	62551
+Perfluorodecanoic acid	9555
+Perfluorohexane sulfonic acid	67734
+Perfluorononanoic acid	67821
+Perfluorooctane sulfonic acid	74483
+Perfluorooctanoic acid	9554
+Phe-Arg	150903
+Phe-Phe	6993089
+Phenol	996
+Phenylacetaldehyde B	998
+Phenylacetic acid	999
+Phenylacetyl-L-glutamine	92258
+Phenylacetylglycine	68144
+Phenylalanine	6140
+Phenylephrine	6041
+Phenylglyoxylic acid	11915
+Phenylpropanolamine	10297
+Phenylpyruvic acid	997
+Phosphate	1061
+Phosphocholine	1014
+Phosphocholine	135437
+Phosphocreatine	9548602
+Phosphoenolpyruvic acid	1005
+Phosphoribosyl pyrophosphate	7339
+Phosphoric acid	1004
+Phosphorus	24404
+Phosphorylcholine	1014
+Phosphoserine	68841
+Phosphotyrosine	30819
+Phosphotyrosine	4589477
+Phthalic acid	1017
+Phytanic acid	26840
+Phytoene	9963391
+Phytofluene	6436722
+Pi-Methylimidazoleacetic acid	6451814
+Picolinic acid	1018
+Pinene oxide	91508
+Pipecolic acid	439227
+Pipecolic acid	849
+Pipecolinic acid	736316
+Piperine	638024
+Plasmenyl-PC (36:2); PC(P-18:0/18:2); 	52923944
+Plasmenyl-PE (34:2); PE(P-16:0/18:2); 	52925127
+Plasmenyl-PE (38:4); PE(P-18:0/20:4); 	9547058
+Plasmenyl-PE (38:6); PE(P-16:0/22:6); 	5283497
+Plasmenyl-PE (40:6); PE(P-18:0/22:6); 	42607458
+Porphobilinogen	1021
+Potassium	813
+Pregabalin	5486971
+Pregnenolone	8955
+Pregnenolone sulfate	105074
+Pro-Ala	6347578
+Pro-Gly	6426709
+Pro-Leu	3527720
+Pro-Leu	444109
+Pro-Leu-Lys	18223611
+Progesterone	5994
+Proline	145742
+Proline  	145742
+Proline betaine	115244
+Propionic acid	1032
+Propionylcarnitine	107738
+Propyl alcohol	1031
+Propylene glycol	1030
+Prostaglandin A1	5281912
+Prostaglandin A2	5280880
+Prostaglandin B2	5280881
+Prostaglandin D1	5280936
+Prostaglandin D2	448457
+Prostaglandin D2-d4 	5283030
+Prostaglandin D3	5282260
+Prostaglandin E1	5280723
+Prostaglandin E2	5280360
+Prostaglandin E3	5280937
+Prostaglandin F1a	5280939
+Prostaglandin F2a	5280363
+Prostaglandin F2α-d4	5283029
+Prostaglandin J2	5280884
+Protocatechuic acid	72
+Protoporphyrin IX	4971
+Pseudoephedrine	7028
+Pseudouridine	15047
+Purine	1044
+Putrescine	1045
+Putrescine	1049
+Pyridoxal	1050
+Pyridoxal 5'-phosphate	1051
+Pyridoxal hydrochrolide	6171
+Pyridoxal phosphate	1051
+Pyridoxamine	1052
+Pyridoxamine 5'-phosphate	1053
+Pyridoxine	1054
+Pyrocatechol	32819
+Pyroglutamic acid	7405
+Pyrophosphate	1023
+Pyruvaldehyde	880
+Pyruvic acid	1060
+Quercetin	5280343
+Quinaldic acid	7124
+Quinolinic acid	1066
+R-(-)-O-Desmethylvenlafaxine	12018336
+Rabenzazole	38441
+Raffinose	439242
+Ranitidine	3001055
+Resolvin D1	44251266
+Resolvin E1	10473088
+Retinal	638015
+Retinoic acid	444795
+Retinoyl b-glucuronide	5281877
+Retinyl beta-glucuronide	6440956
+Retinyl ester	5460164
+Retinyl palmitate	5280531
+Ribitol	827
+Riboflavin	493570
+Ribose	5779
+Ribose-5-phosphate	77982
+Ribothymidine	445408
+Rosmarinic acid	5281792
+S-(5'-Adenosyl)-L-homocysteine	25246222
+S-Adenosyl-L-homocysteine	439155
+S-Adenosyl-L-methionine	34755
+S-Lactoylglutathione	119450
+SM (d30:1)	44260123
+SM (d30:1) 	44260123
+SM (d32:0)	44260138
+SM (d32:0) 	44260138
+SM (d32:1)	11433862
+SM (d32:1) 	11433862
+SM (d32:2)	52931131
+SM (d32:2) 	52931131
+SM (d33:1)	52931139
+SM (d33:1) 	52931139
+SM (d33:1); SM(d14:0/19:1); 	52931139
+SM (d34:0)	9939965
+SM (d34:0) 	9939965
+SM (d34:1)	9939941
+SM (d34:1) 	9939941
+SM (d34:2)	52931235
+SM (d34:2) 	52931235
+SM (d36:0)	44260130
+SM (d36:0) 	44260130
+SM (d36:1)	6453725
+SM (d36:1) 	6453725
+SM (d36:2)	6443882
+SM (d36:2) 	6443882
+SM (d36:3)	52931155
+SM (d36:3) 	52931155
+SM (d37:1)	52931171
+SM (d37:1) 	52931171
+SM (d38:0)	44260131
+SM (d38:0) 	44260131
+SM (d38:1)	44260124
+SM (d38:1) 	44260124
+SM (d38:1); SM(d14:0/24:1); 	44260124
+SM (d38:2)	52931179
+SM (d38:2) 	52931179
+SM (d39:1)	52931193
+SM (d39:1) 	52931193
+SM (d39:1); SM(d14:0/25:1); 	52931193
+SM (d39:2)	52931187
+SM (d39:2) 	52931187
+SM (d40:0)	44260132
+SM (d40:0) 	44260132
+SM (d40:1)	44260125
+SM (d40:1) 	118987310
+SM (d40:1) 	44260125
+SM (d40:2)	52931201
+SM (d40:2)	52931203
+SM (d40:2) 	52931201
+SM (d40:2) 	52931203
+SM (d40:2) A	52931201
+SM (d40:2) A 	52931201
+SM (d40:2) B	52931203
+SM (d40:2) B 	52931203
+SM (d40:3)	52931199
+SM (d40:3) 	52931199
+SM (d41:1)	46891684
+SM (d41:1) 	46891684
+SM (d41:2)	52931209
+SM (d41:2) 	52931209
+SM (d42:0)	44260134
+SM (d42:0) 	44260134
+SM (d42:1)	44260127
+SM (d42:1) 	44260127
+SM (d42:2)	52931217
+SM (d42:2) 	52931217
+SM (d42:2) A	52931217
+SM (d42:2) A 	52931217
+SM (d42:2) B	52931217
+SM (d42:2) B 	52931217
+SM (d42:3)	52931215
+SM (d42:3) 	52931215
+SM (d43:1)	52931225
+SM (d43:1) 	52931225
+SM (d43:2)	52931221
+SM (d43:2)	52931223
+SM (d43:2) 	52931221
+SM (d43:2) 	52931223
+SM (d43:2) A	52931221
+SM (d44:2)	44260128
+SM (d44:2) 	44260128
+SM d30:1	44260123
+SM d30:1 	44260123
+SM d32:0	44260138
+SM d32:1	11433862
+SM d32:1 	11433862
+SM d32:2	52931131
+SM d32:2 	52931131
+SM d33:1	52931139
+SM d33:1 	52931139
+SM d34:0	9939965
+SM d34:0 	9939965
+SM d34:1	9939941
+SM d34:1 	9939941
+SM d34:2	52931235
+SM d34:2 	52931235
+SM d36:0	44260130
+SM d36:0 	44260130
+SM d36:1	6453725
+SM d36:1 	6453725
+SM d36:2	6443882
+SM d36:2 	6443882
+SM d36:3	52931155
+SM d36:3 	52931155
+SM d37:1	52931171
+SM d38:0	44260131
+SM d38:0 	44260131
+SM d38:1	44260124
+SM d38:1 	44260124
+SM d38:2	52931179
+SM d38:2 	52931179
+SM d39:1	52931193
+SM d39:1 	52931193
+SM d39:2	52931187
+SM d40:0	44260132
+SM d40:0 	44260132
+SM d40:1	44260125
+SM d40:1 	44260125
+SM d40:2	52931201
+SM d40:2	52931203
+SM d40:2 A	52931201
+SM d40:2 B	52931203
+SM d40:3	52931199
+SM d41:1	46891684
+SM d41:1 	46891684
+SM d41:2	52931209
+SM d41:2 	52931209
+SM d42:0	44260134
+SM d42:1	44260127
+SM d42:1 	44260127
+SM d42:2	52931217
+SM d42:2 A	52931217
+SM d42:2 B	52931217
+SM d42:3	52931215
+SM d42:3 	52931215
+SM d43:1	52931225
+SM d43:1 	52931225
+SM d43:2	52931221
+SM d43:2	52931223
+SM d43:2 A	52931221
+SM d44:2	44260128
+SM(d18:1/18:0)	6453725
+SM(d32:1) 	11433862
+SM(d33:1) 	52931139
+SM(d34:0) 	9939965
+SM(d34:1) 	9939941
+SM(d34:2) 	52931235
+SM(d36:0) 	44260130
+SM(d36:1) 	6453725
+SM(d36:2) 	6443882
+SM(d38:1) 	44260124
+SM(d38:2) 	52931179
+SM(d40:2) A 	52931201
+SM(d40:2) B 	52931203
+SM(d41:1) 	46891684
+SM(d41:2) A 	52931209
+SM(d41:2)B 	52931209
+SM(d42:1) 	44260127
+SM(d42:2) 	52931217
+SM:41:2 SM:d17:1:8E 24:1:15Z	52931207
+Salicyluric acid	10253
+Sapropterin	44257
+Sarcosine	1088
+Sclareolide	929262
+Scopolamine	153311
+Securinine	3038003
+Selenite	1090
+Selenium	6326970
+Selenocystine	15104
+Selenomethionine	105024
+Serine	5951
+Serine methyl ester	2723731
+Serotonin	5202
+Sertraline	68617
+Shikimic acid	8742
+Silicon	5461123
+Silver	104755
+Simvastatin	54454
+Sodium	923
+Solanidine	65727
+Sorbitol	5780
+Spermidine	1102
+Spermidine A	1102
+Spermine	1103
+Sphinganine	3126
+Sphinganine 1-phosphate	644260
+Sphingosine	5280335
+Sphingosine 1-phosphate	5283560
+Squalene	638072
+Stachydrine	115244
+Stachydrine	448301
+Stachydrine	554
+Stearic acid	5281
+Stearidonic acid	5312508
+Stearoyl ethanolamide	27902
+Stearoyl-L-carnitine	52922056
+Stearoylcarnitine	6426855
+Stearoylethanolamide	27902
+Stigmastanol	15559396
+Strontium	104798
+Suberic acid	10457
+Substance P	36511
+Succinic acid	1110
+Succinic acid	160419
+Succinylacetone	5312
+Sucrose	5988
+Sulfate	1117
+Sulfolithocholic acid	451489
+Sulfolithocholylglycine	443113
+Sulforaphane	5350
+Symmetric dimethylarginine	169148
+TES	81831
+TG (14:0/14:0/14:0)	11148
+TG (14:0/14:0/14:0) 	11148
+TG (40:0)	91865738
+TG (40:0) 	91865738
+TG (40:1)	56936435
+TG (40:1) 	56936435
+TG (42:0)	11148
+TG (42:0) 	11148
+TG (42:1)	56937002
+TG (42:1) 	56937002
+TG (42:2)	56937031
+TG (42:2) 	56937031
+TG (42:3)	14122758
+TG (42:3) 	14122758
+TG (44:0)	14169768
+TG (44:0) 	14169768
+TG (44:1)	56937112
+TG (44:1) 	56937112
+TG (44:2)	56936464
+TG (44:2) 	56936464
+TG (46:0)	4099879
+TG (46:0) 	4099879
+TG (46:1)	11764207
+TG (46:1) 	11764207
+TG (46:1); TG(12:0/16:0/18:1); 	11764207
+TG (46:2)	56936582
+TG (46:2) 	56936582
+TG (46:2); TG(12:0/16:0/18:2); 	56936582
+TG (46:3)	56937142
+TG (46:3) 	56937142
+TG (47:0); TG(14:0/16:0/17:0); 	56938012
+TG (48:0)	11147
+TG (48:0) 	11147
+TG (48:0); TG(14:0/16:0/18:0); 	11147
+TG (48:1)	9543986
+TG (48:1) 	9543986
+TG (48:1); TG(14:0/16:0/18:1); 	9543986
+TG (48:2)	9543987
+TG (48:2) 	9543987
+TG (48:2); TG(14:0/16:0/18:2); 	9543987
+TG (48:3)	9543989
+TG (48:3) 	9543989
+TG (48:3); TG(14:0/16:1/18:2); 	9543989
+TG (48:4)	56937945
+TG (48:4) 	56937945
+TG (48:4); TG(12:0/18:2/18:2); 	56937945
+TG (49:0)	9543988
+TG (49:0) 	9543988
+TG (49:0); TG(15:0/16:0/18:0); 	9543988
+TG (49:1)	9543991
+TG (49:1) 	9543991
+TG (49:1); TG(15:0/16:0/18:1); 	9543991
+TG (49:2)	9543993
+TG (49:2) 	9543993
+TG (49:2); TG(15:0/16:0/18:2); 	9543993
+TG (49:3)	56938088
+TG (49:3) 	56938088
+TG (50:0)	545588
+TG (50:0) 	545588
+TG (50:1)	25240460
+TG (50:1) 	25240460
+TG (50:1); TG(16:0/16:0/18:1); 	25240460
+TG (50:2)	9544010
+TG (50:2) 	9544010
+TG (50:2); TG(16:0/16:1/18:1); 	9544010
+TG (50:3)	25240357
+TG (50:3) 	25240357
+TG (50:3); TG(16:0/16:1/18:2); 	25240357
+TG (50:4)	25240359
+TG (50:4) 	25240359
+TG (50:4); TG(14:0/16:0/20:4); 	25240359
+TG (50:4); TG(16:1/16:1/18:2); 	25240359
+TG (50:5)	9544045
+TG (50:5) 	9544045
+TG (50:5); TG(14:0/18:2/18:3); 	9544045
+TG (50:6)	9544006
+TG (50:6) 	9544006
+TG (51:0); TG(16:0/17:0/18:0); 	9544009
+TG (51:1)	9544006
+TG (51:1) 	9544006
+TG (51:1); TG(16:0/17:0/18:1); 	9544006
+TG (51:2)	9544013
+TG (51:2) 	9544013
+TG (51:2); TG(16:0/17:1/18:1); 	9544013
+TG (51:3)	9544023
+TG (51:3) 	9544023
+TG (51:3); TG(15:0/18:1/18:2); 	9544023
+TG (51:4)	9544052
+TG (51:4) 	9544052
+TG (51:4); TG(15:0/18:2/18:2); 	9544052
+TG (51:5)	9544052
+TG (51:5) 	9544052
+TG (51:5); TG(15:0/18:2/18:3); 	9544052
+TG (52:0)	545690
+TG (52:0) 	545690
+TG (52:1)	5365005
+TG (52:1) 	5365005
+TG (52:1); TG(16:0/18:0/18:1); 	5365005
+TG (52:2)	56938176
+TG (52:2) 	56938176
+TG (52:2); TG(16:0/18:1/18:1); 	56938176
+TG (52:3)	56938177
+TG (52:3) 	56938177
+TG (52:3); TG(16:0/18:1/18:2); 	56938177
+TG (52:4)	25240364
+TG (52:4) 	25240364
+TG (52:4); TG(16:0/18:2/18:2); 	25240364
+TG (52:5)	25240366
+TG (52:5) 	25240366
+TG (52:5); TG(16:0/18:2/18:3); 	25240366
+TG (52:6)	56938180
+TG (52:6) 	56938180
+TG (52:6); TG(16:1/18:2/18:3); 	56938180
+TG (52:6); TG(16:1/18:2/18:3); 	9544158
+TG (53:1)	9544081
+TG (53:1) 	9544081
+TG (53:1); TG(17:0/18:0/18:1); 	9544081
+TG (53:2)	9544102
+TG (53:2) 	9544102
+TG (53:3)	9544126
+TG (53:3) 	9544126
+TG (53:3); TG(17:0/18:1/18:2); 	9544126
+TG (53:4)	9544152
+TG (53:4) 	9544152
+TG (53:4); TG(17:1/18:1/18:2); 	9544152
+TG (53:5)	9544183
+TG (53:5) 	9544183
+TG (53:5); TG(17:1/18:2/18:2); 	9544183
+TG (54:0)	16058371
+TG (54:0) 	16058371
+TG (54:1)	16058371
+TG (54:1) 	16058371
+TG (54:1); TG(16:0/18:1/20:0); 	16058371
+TG (54:2)	56938183
+TG (54:2) 	56938183
+TG (54:2); TG(16:0/18:1/20:1); 	56938183
+TG (54:3)	5497163
+TG (54:3) 	5497163
+TG (54:3); TG(16:0/18:1/20:2); 	5497163
+TG (54:3); TG(16:1/18:1/20:1); 	5497163
+TG (54:3); TG(18:0/18:1/18:2); 	5497163
+TG (54:4)	9544255
+TG (54:4) 	9544255
+TG (54:4); TG(16:0/18:0/20:4); 	9544255
+TG (54:4); TG(18:1/18:1/18:2); 	9544255
+TG (54:5)	25240373
+TG (54:5)	9544294
+TG (54:5) 	25240373
+TG (54:5) 	9544294
+TG (54:5) A	9544294
+TG (54:5) A 	9544294
+TG (54:5) B	9544294
+TG (54:5) B 	9544294
+TG (54:5); TG(18:1/18:2/18:2); 	25240373
+TG (54:6)	5322095
+TG (54:6)	9544363
+TG (54:6) 	5322095
+TG (54:6) 	9544363
+TG (54:6) A	9544363
+TG (54:6) A 	9544363
+TG (54:6) B	5322095
+TG (54:6) B 	5322095
+TG (54:6); TG(16:0/18:2/20:4); 	5322095
+TG (54:6); TG(18:2/18:2/18:2); 	5322095
+TG (54:7); TG(16:1/18:2/20:4); 	9544410
+TG (54:7); TG(18:2/18:2/18:3); 	9544383
+TG (54:8)	9544413
+TG (54:8) 	9544413
+TG (54:8); TG(14:0/18:2/22:6); 	9544413
+TG (54:8); TG(16:1/18:2/20:5); 	131759574
+TG (54:8); TG(18:2/18:3/18:3); 	9544413
+TG (56:0); TG(16:0/18:0/22:0); 	9544422
+TG (56:1)	9544345
+TG (56:1) 	9544345
+TG (56:1); TG(16:0/18:1/22:0); 	9544345
+TG (56:1); TG(16:0/18:1/22:0); 	9544474
+TG (56:2)	9544390
+TG (56:2) 	9544390
+TG (56:2); TG(18:0/18:1/20:1); 	9544390
+TG (56:3)	9544447
+TG (56:3) 	9544447
+TG (56:3); TG(18:1/18:1/20:1); 	9544447
+TG (56:4)	25240379
+TG (56:4) 	25240379
+TG (56:4); TG(18:1/18:2/20:1); 	25240379
+TG (56:4); TG(18:2/18:2/20:0); 	25240379
+TG (56:5)	25240380
+TG (56:5) 	25240380
+TG (56:5); TG(16:0/18:1/22:4); 	25240380
+TG (56:5); TG(18:0/18:1/20:4); 	25240380
+TG (56:5); TG(18:2/18:2/20:1); 	25240380
+TG (56:6)	9544625
+TG (56:6) 	9544625
+TG (56:6); TG(18:1/18:1/20:4); 	9544625
+TG (56:6); TG(18:1/18:2/20:3); 	9544625
+TG (56:6); TG(18:1/18:2/20:3); 	9544632
+TG (56:7)	9544695
+TG (56:7) 	9544695
+TG (56:7); TG(16:0/18:1/22:6); 	9544886
+TG (56:7); TG(18:1/18:2/20:4); 	9544695
+TG (56:7); TG(18:2/18:3/20:2); 	9544695
+TG (56:8)	9544762
+TG (56:8) 	9544762
+TG (56:8); TG(16:0/18:2/22:6); 	9544762
+TG (56:8); TG(18:2/18:2/20:4); 	9544762
+TG (56:8); TG(18:2/18:3/20:3); 	9544762
+TG (56:9)	9545277
+TG (56:9) 	9545277
+TG (56:9); TG(16:0/18:3/22:6); 	9545277
+TG (56:9); TG(16:1/18:2/22:6); 	9545277
+TG (56:9); TG(18:2/18:2/20:5); 	9544845
+TG (56:9); TG(18:2/18:3/20:4); 	9545277
+TG (57:1)	9544345
+TG (57:1) 	9544345
+TG (57:2)	56938341
+TG (57:2) 	56938341
+TG (58:1)	25240381
+TG (58:1) 	25240381
+TG (58:10)	9545277
+TG (58:10) 	9545277
+TG (58:10); TG(18:2/18:2/22:6); 	9545277
+TG (58:11); 	9545359
+TG (58:12); TG(18:2/20:5/20:5); 	131763448
+TG (58:2)	56938341
+TG (58:2)	9545266
+TG (58:2) 	56938341
+TG (58:3)	9544748
+TG (58:3) 	9544748
+TG (58:3); TG(18:1/18:2/22:0); 	25240384
+TG (58:3); TG(18:1/18:2/22:0); 	9544748
+TG (58:4)	9544835
+TG (58:4) 	9544835
+TG (58:4) A	9544835
+TG (58:4) A 	9544835
+TG (58:6)	9544977
+TG (58:6) 	9544977
+TG (58:7); TG(18:1/18:1/22:5); 	9545266
+TG (58:8)	9545124
+TG (58:8) 	9545124
+TG (58:8); TG(18:1/18:1/22:6); 	9545124
+TG (58:9)	9545200
+TG (58:9) 	9545200
+TG (58:9); TG(18:1/18:2/22:6); 	9545200
+TG (59:2)	9545040
+TG (59:2) 	9545040
+TG (60:12); TG(18:1/20:5/22:6); 	9545994
+TG (60:13); TG(18:2/20:5/22:6); 	9546054
+TG (60:2)	9545040
+TG (60:2) 	9545040
+TG (60:3) 	9545117
+TG (60:6)	9544977
+TG (60:6) 	9544977
+TG (62:14); TG(18:2/22:6/22:6); 	131763480
+TG 14:0/14:0/14:0	11148
+TG 14:0/14:0/14:0 	11148
+TG 14:0:14:0:14:0	11148
+TG 40:0	91865738
+TG 40:1	56936435
+TG 40:1 	56936435
+TG 42:0	11148
+TG 42:1	56937002
+TG 42:2	56937031
+TG 42:2 	56937031
+TG 42:3	14122758
+TG 44:0	14169768
+TG 44:1	56937112
+TG 44:1 	56937112
+TG 44:2	56936464
+TG 46:0	4099879
+TG 46:0 	4099879
+TG 46:1	11764207
+TG 46:1 	11764207
+TG 46:2	56936582
+TG 46:2 	56936582
+TG 46:3	56937142
+TG 46:3 	56937142
+TG 48:0	11147
+TG 48:1	9543986
+TG 48:1 	9543986
+TG 48:2	9543987
+TG 48:2 	9543987
+TG 48:3	9543989
+TG 48:3 	9543989
+TG 48:4	56937945
+TG 48:4 	56937945
+TG 49:0	9543988
+TG 49:0 	9543988
+TG 49:1	9543991
+TG 49:1 	9543991
+TG 49:2	9543993
+TG 49:2 	9543993
+TG 49:3	56938088
+TG 49:3 	56938088
+TG 50:0	545588
+TG 50:0 	545588
+TG 50:1	25240460
+TG 50:2	9544010
+TG 50:2 	9544010
+TG 50:3	25240357
+TG 50:3 	25240357
+TG 50:4	25240359
+TG 50:4 	25240359
+TG 50:4 A	25240359
+TG 50:4 B	25240359
+TG 50:5	9544045
+TG 50:5 	9544045
+TG 50:6	53480546
+TG 50:6	9544006
+TG 51:1	9544006
+TG 51:1 	9544006
+TG 51:2	9544013
+TG 51:2 	9544013
+TG 51:3	9544023
+TG 51:3 	9544023
+TG 51:4	9544052
+TG 51:4 	9544052
+TG 51:5	9544052
+TG 52:0	545690
+TG 52:0 	545690
+TG 52:1	5365005
+TG 52:1 	5365005
+TG 52:1 A	5365005
+TG 52:1 B	5365005
+TG 52:2	56938176
+TG 52:2	6005445
+TG 52:3	56938177
+TG 52:3 	56938177
+TG 52:4	25240364
+TG 52:4 	25240364
+TG 52:4 A	25240364
+TG 52:4 B	25240364
+TG 52:5	25240366
+TG 52:5 	25240366
+TG 52:6	56938180
+TG 52:6 	56938180
+TG 53:1	9544081
+TG 53:1 	9544081
+TG 53:2	9544102
+TG 53:2 	9544102
+TG 53:3	9544126
+TG 53:3 	9544126
+TG 53:4	9544152
+TG 53:4 	9544152
+TG 53:5	9544183
+TG 53:5 	9544183
+TG 54:0	16058371
+TG 54:0; TG(18:0/18:0/18:0); 	16058371
+TG 54:1	16058371
+TG 54:1 	16058371
+TG 54:1 A	16058371
+TG 54:1 B	16058371
+TG 54:2	56938183
+TG 54:2 	56938183
+TG 54:2 A	6182417
+TG 54:2 B	6182417
+TG 54:2 C	6182417
+TG 54:3	5497163
+TG 54:3 	5497163
+TG 54:3 A	5497163
+TG 54:3 B	5497163
+TG 54:3 C	5497163
+TG 54:3 D	5497163
+TG 54:4	9544255
+TG 54:4 	9544255
+TG 54:4 A	9544255
+TG 54:4 B	9544255
+TG 54:5	25240373
+TG 54:5	9544294
+TG 54:5 A	9544294
+TG 54:5 A 	9544294
+TG 54:5 B	9544294
+TG 54:5 B 	9544294
+TG 54:6	5322095
+TG 54:6	9544363
+TG 54:6 A	9544363
+TG 54:6 A 	9544363
+TG 54:6 B	5322095
+TG 54:6 B 	5322095
+TG 54:7	9544410
+TG 54:7 A	9544410
+TG 54:7 B	9544410
+TG 54:8	9544413
+TG 54:8 	9544413
+TG 55:2	9544264
+TG 55:3	53481033
+TG 55:4	9544360
+TG 55:6	9544468
+TG 55:8	9544569
+TG 56:1	9544345
+TG 56:1 	9544345
+TG 56:2	9544390
+TG 56:2 	9544390
+TG 56:3	9544447
+TG 56:3 	9544447
+TG 56:3 A	9544447
+TG 56:3 B	9544447
+TG 56:4	25240379
+TG 56:4 	25240379
+TG 56:4 A	25240379
+TG 56:4 B	25240379
+TG 56:5	25240380
+TG 56:5 	25240380
+TG 56:5 1	71728460
+TG 56:6	9544625
+TG 56:6 	9544625
+TG 56:7	9544695
+TG 56:7 	9544695
+TG 56:8	9544762
+TG 56:9	9545277
+TG 57:1	9544345
+TG 57:1	9544592
+TG 57:10	9545270
+TG 57:2	56938341
+TG 57:2	9544492
+TG 57:3	9544718
+TG 57:4	9544875
+TG 57:9	56939712
+TG 58:1	25240381
+TG 58:10	9545277
+TG 58:10 	9545277
+TG 58:2	56938341
+TG 58:3	9544748
+TG 58:3 	9544748
+TG 58:3 A	9544748
+TG 58:3 B	9544748
+TG 58:4	9544835
+TG 58:4 A	9544835
+TG 58:6	9544977
+TG 58:6 	9544977
+TG 58:8	9545124
+TG 58:8 	9545124
+TG 58:9	9545200
+TG 58:9 	9545200
+TG 59:2	9545040
+TG 59:2	9545250
+TG 59:3	9545047
+TG 59:4	9545290
+TG 60:2	9545040
+TG 60:3	9545388
+TG 60:4	9545204
+TG 60:5	9545280
+TG 60:6	9544977
+TG 61:5	9545790
+TG 62:4	9545780
+TG(14:0/16:0/17:0)	56938012
+TG(16:0/14:0/18:1(9Z))[iso6]	53480481
+TG(16:0/14:0/18:2(9Z,12Z))[iso6]	53480482
+TG(16:0/16:0/16:1(9Z))[iso3]	9543986
+TG(16:0/16:0/18:0)[iso3]	3246953
+TG(16:0/16:0/18:1(11Z))[iso3]	53480483
+TG(16:0/16:0/18:2(9Z,12Z))[iso3]	25240356
+TG(16:0/16:0/18:3(9Z,12Z,15Z))[iso3]	25240358
+TG(16:0/16:0/20:1(11Z))[iso3]	9544062
+TG(16:0/16:0/20:4(5Z,8Z,11Z,14Z))[iso3]	9544125
+TG(16:0/16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))[iso3]	9544489
+TG(16:0/16:1(9Z)/16:1(9Z))[iso3]	9543987
+TG(16:0/16:1(9Z)/18:0)[iso6]	9544004
+TG(16:0/16:1(9Z)/18:1(9Z))[iso6]	9544011
+TG(16:0/16:1(9Z)/18:2(9Z,12Z))[iso6]	9544021
+TG(16:0/16:1(9Z)/20:0)[iso6]	9544061
+TG(16:0/16:1(9Z)/20:1(11Z))[iso6]	9544079
+TG(16:0/16:1(9Z)/20:4(5Z,8Z,11Z,14Z))[iso6]	9544150
+TG(16:0/17:0/18:0)	9544009
+TG(16:0/18:0/18:1(9Z))[iso6]	25240360
+TG(16:0/18:0/18:2(9Z,12Z))[iso6]	9544069
+TG(16:0/18:0/20:4(5Z,8Z,11Z,14Z))[iso6]	9544279
+TG(16:0/18:0/22:0)	9544422
+TG(16:0/18:1(9Z)/18:1(9Z))[iso3]	25240174
+TG(16:0/18:1(9Z)/18:2(9Z,12Z))[iso6]	25240361
+TG(16:0/18:1(9Z)/20:1(11Z))[iso6]	9544199
+TG(16:0/18:1(9Z)/20:4(5Z,8Z,11Z,14Z))[iso6]	9544319
+TG(16:0/18:2(9Z,12Z)/18:2(9Z,12Z))[iso3]	25240363
+TG(16:0/18:2(9Z,12Z)/20:0)[iso6]	9544195
+TG(16:0/18:2(9Z,12Z)/20:1(11Z))[iso6]	9544231
+TG(16:0/18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z))[iso6]	9544362
+TG(16:1(9Z)/14:0/18:1(11Z))[iso6]	53480485
+TG(16:1(9Z)/16:0/18:1(11Z))[iso6]	53480488
+TG(16:1(9Z)/16:0/18:3(9Z,12Z,15Z))[iso6]	53480489
+TG(16:1(9Z)/16:1(9Z)/18:0)[iso3]	9544010
+TG(16:1(9Z)/16:1(9Z)/18:1(9Z))[iso3]	25240357
+TG(16:1(9Z)/16:1(9Z)/18:2(9Z,12Z))[iso3]	25240359
+TG(16:1(9Z)/16:1(9Z)/20:0)[iso3]	9544078
+TG(16:1(9Z)/16:1(9Z)/20:1(11Z))[iso3]	9544099
+TG(16:1(9Z)/18:0/18:0)[iso3]	9544049
+TG(16:1(9Z)/18:0/18:1(11Z))[iso6]	53480490
+TG(16:1(9Z)/18:0/18:2(9Z,12Z))[iso6]	9544087
+TG(16:1(9Z)/18:0/20:1(11Z))[iso6]	9544200
+TG(16:1(9Z)/18:0/20:4(5Z,8Z,11Z,14Z))[iso6]	9544320
+TG(16:1(9Z)/18:1(9Z)/18:1(9Z))[iso3]	9544083
+TG(16:1(9Z)/18:1(9Z)/18:2(9Z,12Z))[iso6]	25240364
+TG(16:1(9Z)/18:1(9Z)/20:0)[iso6]	9544196
+TG(16:1(9Z)/18:1(9Z)/20:1(11Z))[iso6]	9544232
+TG(16:1(9Z)/18:1(9Z)/20:4(5Z,8Z,11Z,14Z))[iso6]	9544363
+TG(16:1(9Z)/18:2(9Z,12Z)/18:2(9Z,12Z))[iso3]	25240366
+TG(16:1(9Z)/18:2(9Z,12Z)/20:0)[iso6]	9544227
+TG(16:1(9Z)/18:2(9Z,12Z)/20:1(11Z))[iso6]	25240372
+TG(16:1(9Z)/20:1(11Z)/20:4(5Z,8Z,11Z,14Z))[iso6]	9544634
+TG(16:1/18:2/20:4)	9544410
+TG(18:0/14:0/16:1(9Z))[iso6]	53480491
+TG(18:0/14:0/18:0)[iso3]	545588
+TG(18:0/14:0/18:1(11Z))[iso6]	53480492
+TG(18:0/14:0/18:2(9Z,12Z))[iso6]	53480494
+TG(18:0/16:0/18:1(11Z))[iso6]	53480495
+TG(18:0/16:0/18:3(9Z,12Z,15Z))[iso6]	53480496
+TG(18:0/18:0/18:2(9Z,12Z))[iso3]	25240368
+TG(18:0/18:1(9Z)/18:2(9Z,12Z))[iso6]	9544216
+TG(18:0/18:2(9Z,12Z)/18:2(9Z,12Z))[iso3]	25240370
+TG(18:0/18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z))[iso6]	9544638
+TG(18:1(11Z)/14:0/18:1(11Z))[iso3]	53480498
+TG(18:1(11Z)/14:0/18:2(9Z,12Z))[iso3]	53480500
+TG(18:1(11Z)/16:0/18:1(11Z))[iso3]	53480501
+TG(18:1(11Z)/16:0/18:2(9Z,12Z))[iso3]	53480503
+TG(18:1(11Z)/16:0/18:3(9Z,12Z,15Z))[iso6]	53480504
+TG(18:1(11Z)/16:0/20:4(5Z,8Z,11Z,14Z))[iso6]	53480505
+TG(18:1(11Z)/16:1(9Z)/18:1(11Z))[iso3]	53480506
+TG(18:1(11Z)/16:1(9Z)/18:2(9Z,12Z))[iso6]	53480508
+TG(18:1(11Z)/18:0/18:1(11Z))[iso3]	53480509
+TG(18:1(11Z)/18:0/18:2(9Z,12Z))[iso6]	53480511
+TG(18:1(9Z)/14:0/18:1(9Z))[iso3]	53480512
+TG(18:1(9Z)/14:0/20:4(5Z,8Z,11Z,14Z))[iso6]	53480514
+TG(18:1(9Z)/16:0/18:3(9Z,12Z,15Z))[iso6]	53480515
+TG(18:1(9Z)/16:0/20:2(11Z,14Z))[iso6]	53480516
+TG(18:1(9Z)/16:0/20:5(5Z,8Z,11Z,14Z,17Z))[iso6]	53480517
+TG(18:1(9Z)/16:0/22:5(7Z,10Z,13Z,16Z,19Z))[iso6]	53480518
+TG(18:1(9Z)/18:0/18:3(9Z,12Z,15Z))[iso6]	53480520
+TG(18:1(9Z)/18:1(11Z)/18:1(9Z))[iso3]	53480521
+TG(18:1(9Z)/18:1(11Z)/18:2(9Z,12Z))[iso6]	53480522
+TG(18:1(9Z)/18:1(9Z)/18:3(6Z,9Z,12Z))[iso6]	53480523
+TG(18:1(9Z)/18:1(9Z)/20:4(5Z,8Z,11Z,14Z))[iso3]	9544639
+TG(18:1(9Z)/18:2(9Z,12Z)/18:2(9Z,12Z))[iso3]	25240373
+TG(18:2(9Z,12Z)/14:0/18:2(9Z,12Z))[iso3]	53480526
+TG(18:2(9Z,12Z)/16:0/18:3(9Z,12Z,15Z))[iso6]	53480529
+TG(18:2(9Z,12Z)/16:0/20:2(11Z,14Z))[iso6]	53480530
+TG(18:2(9Z,12Z)/18:0/18:3(9Z,12Z,15Z))[iso6]	53480533
+TG(18:2(9Z,12Z)/18:1(9Z)/18:3(6Z,9Z,12Z))[iso6]	53480537
+TG(18:2(9Z,12Z)/18:1(9Z)/20:3(8Z,11Z,14Z))[iso6]	53480541
+TG(18:2(9Z,12Z)/18:2(9Z,12Z)/18:2(9Z,12Z))	5322095
+TG(18:2(9Z,12Z)/18:2(9Z,12Z)/20:2(11Z,14Z))[iso3]	9544625
+TG(18:3(9Z,12Z,15Z)/18:0/18:3(9Z,12Z,15Z))[iso3]	53480549
+TG(20:0/20:1(11Z)/20:4(5Z,8Z,11Z,14Z))[iso6]	9545280
+TG(40:0) 	91865738
+TG(40:0) 	91865740
+TG(40:1) 	56936435
+TG(42:0) 	11148
+TG(42:1) 	56937002
+TG(42:2) 	56937031
+TG(42:3)	14122758
+TG(42:3) 	14122758
+TG(44:0) 	14169768
+TG(44:0) 	97045147
+TG(44:1) 	56937112
+TG(44:2) 	56936464
+TG(46:0) 	4099879
+TG(46:1) 	11764207
+TG(46:2) 	56936582
+TG(46:3) A 	56937142
+TG(46:4) A 	56937018
+TG(46:4) B 	56937143
+TG(48:0) 	11147
+TG(48:1) 	9543986
+TG(48:2) 	9543987
+TG(48:3) 	9543989
+TG(48:4) A 	56938042
+TG(48:4) B 	56938424
+TG(49:0) 	9543988
+TG(49:1) 	9543991
+TG(49:2) 	9543993
+TG(49:3) 	56938088
+TG(50:0) 	545588
+TG(50:1) 	25240460
+TG(50:2) 	9544010
+TG(50:3) A 	25240357
+TG(50:4) 	25240359
+TG(50:5) 	9544045
+TG(50:6) 	56938190
+TG(51:1) 	9544006
+TG(51:2) 	9544013
+TG(51:3) 	9544023
+TG(51:4) 	9544052
+TG(51:5) 	9544073
+TG(52:0)	545567
+TG(52:0) 	545690
+TG(52:1) 	5365005
+TG(52:2) 	56938176
+TG(52:3) 	56938177
+TG(52:4) 	25240364
+TG(52:5) 	25240366
+TG(52:6) 	56938180
+TG(53:1) 	9544081
+TG(53:2) 	9544102
+TG(53:3) 	9544126
+TG(53:4) 	9544152
+TG(54:0) 	131756478
+TG(54:1) 	16058371
+TG(54:2) 	56938183
+TG(54:3) 	5497163
+TG(54:4) 	9544255
+TG(54:5) A 	9544294
+TG(54:5) B 	9544294
+TG(54:6) A 	5322095
+TG(54:6) B  	5322095
+TG(54:6) C 	5322095
+TG(54:7) A 	9544410
+TG(56:1) 	9544345
+TG(56:2) 	9544390
+TG(56:3)	9544447
+TG(56:3) 	9544447
+TG(56:4) 	25240379
+TG(56:5) A 	25240380
+TG(56:5) B 	25240380
+TG(56:5) C 	25240380
+TG(56:6) 	9544625
+TG(56:7) A 	9544695
+TG(56:7) B 	9544695
+TG(56:8) A 	9544762
+TG(56:8) B 	9544762
+TG(58:1) 	25240381
+TG(58:10) 	9545277
+TG(58:2) 	56938341
+TG(58:3) 	9544748
+TG(58:4) 	9544835
+TG(58:6) 	9544977
+TG(58:8) 	9545124
+TG(58:9) 	9545200
+TG(60:2) 	9545040
+TG(60:6) 	131764341
+TG(62:2) 	9545738
+TMAO	1145
+TXB2	5283137
+Taurine	1123
+Taurochenodesoxycholic acid	387316
+Taurocholic acid	6675
+Taurocyamine	68340
+Taurodeoxycholic acid	2733768
+Tauroursodeoxycholic acid	439763
+Tauroursodeoxycholic acid	91746279
+Temazepam glucuronide	76973794
+Testosterone	6013
+Tetracosanoic acid	11197
+Tetradecanoylcarnitine	53477791
+Tetradecylamine	16217
+Tetraethylene glycol	8200
+Tetraethylene glycol monomethyl ether	90263
+Tetrahexosylceramide (d18:1/12:0)	20057343
+Tetrahydrobiopterin	1125
+Tetrahydrocurcumin	124072
+Tetrahydrodeoxycorticosterone	101771
+Tetrahydrofolic acid	5460413
+Tetrapentylammonium cation	17249
+Theanine	439378
+Theobromine	5429
+Theophylline	2153
+Thiamine	1130
+Thiamine cation	1130
+Thiamine monophosphate	1131
+Thiocyanate	9322
+Thiosulfate	1084
+Thr-Arg	7016110
+Thr-Glu-Arg	18224270
+Thr-Pro	14647614
+Threonic acid	5460407
+Threonine	6288
+Threonine	99289
+Threonine methyl ester	2734894
+Thromboxane A2	5280497
+Thromboxane B2	5283137
+Thromboxane B2-d4	16061116
+Thromboxane B3	5283140
+Thromboxane B3	6438711
+Thymidine	5789
+Thymine	1135
+Thymol	6989
+Thyroxine	5819
+Thyroxine sulfate	44237187
+Tiglylcarnitine	22833596
+Tin	5352426
+Titanium	114942
+Tolmetin	5509
+Toluene	1140
+Topiramate	5284627
+Tramadol	33741
+Trazodone	5533
+Trehalose	7427
+Tri-2-ethylhexyl trimellitate	18725
+Tribromomethane	5558
+Tributyl phosphate	31357
+Tributylamine	7622
+Trichloromethane	6212
+Tricosanoic acid	17085
+Tridodecylmethylammonium cation	81601
+Tridodecylmethylammonium cation	81602
+Triethanolamine	6058
+Triethanolamine	7618
+Triethyl citrate	6506
+Triethylene glycol	8172
+Triethylene glycol monobutyl ether	8923
+Triethylhexyammonium cation	193021
+Trigonelline	5570
+Trihexosylceramide (d18:1/12:0)	53477785
+Trihexosylceramide (d18:1/9Z-18:1)	20057314
+Trimethylamine	1146
+Trimethylamine N-oxide	1145
+Trimethylamine-N-oxide	1145
+Trimethyllysine	440121
+Tripropylene glycol	32611
+Tris(2-butoxyethyl) phosphate	6540
+Tryptamine	1150
+Tryptophan	6305
+Tungsten	23964
+Tyr-Arg-Gly-Asp-Ser	617
+Tyr-Met-Lys	18232080
+Tyramine	5610
+Tyrosine	6057
+UDP-D-Glucuronic acid	25202620
+UDP-D-glucose	8629
+UDP-N-acetylglucosamine	445675
+UMP	6030
+Ubiquinone-1	4462
+Uracil	1174
+Urea	1176
+Uric acid	1175
+Uridine	6029
+Uridine 5'-diphosphate	6031
+Uridine 5'-monophosphate	6030
+Uridine diphosphate glucose	8629
+Uridine-5-diphospho-N-acetylglucosamine	643981
+Uridine-monophsophate	6030
+Urobilin	6433298
+Urocanic acid	736715
+Uroporphyrin I	72424
+Ursodeoxycholic acid	31401
+Ursodeoxycholic acid 3-sulfate	21252318
+Valeric acid	7991
+Valerylcarnitine	53481619
+Valine	1182
+Valine	6287
+Valproic acid	3121
+Vanadium	23990
+Vanillic acid	8468
+Vanillin	1183
+Vanillylmandelic acid	1245
+Vanylglycol	10805
+Vasopressin	8230
+Venlafaxine	5656
+Vitamin A	445354
+Vitamin C	54670067
+Vitamin D3	5280795
+Vitamin K1	5280483
+Vitamin K1 2,3-epoxide	91577
+Xanthine	1188
+Xanthosine	1189
+Xanthurenic acid	5699
+Zeaxanthin	5280899
+Zinc (II) ion	32051
+Zirconium	115139
+Zolpidem phenyl-4-carboxylic acid	11966044
+a-Pinene oxide	439800
 abscisate	7251168
 acesulfame	36573
 acetoacetate	96
+acetophenone 	7410
 acetyl coa	444493
 acetylcarnitine	18230
 acetylcarnitine (c2)	18230
 acetylphosphate	186
 acisoga	129397
 aconitate [cis or trans]	643757
+aconitic acid	643757
+acylcarnitine (16:0) 	11953816
+acylcarnitine(10:0) 	10245190
+acylcarnitine(10:1) 	53481651
+acylcarnitine(12:0) 	168381
+acylcarnitine(12:1) 	91825571
+acylcarnitine(14:1) 	90659872
+acylcarnitine(14:2) 	53481681
+acylcarnitine(18:0) 	6426855
+acylcarnitine(18:1) 	53477830
+acylcarnitine(18:2) 	6450015
+acylcarnitine(18:3) 	53477821
+acylcarnitine(8:0) 	11953814
 adenine	190
 adenosine	60961
 adenosine 2'-monophosphate (2'-amp)	94136
@@ -539,14 +5109,17 @@ adenosine 5'diphosphoribose	192
 adenosine 5-monophosphate (amp)	6083
 adenosine-5'-diphosphoglucose	131864834
 adenosine-5-diphosphoribose	192
+adenosine-5-monophosphate	6083
 adenylosuccinate	440122
 adipate	196
+adipic acid	196
 adipoylcarnitine (c6-dc)	71296139
 adrenate (22:4n6)	5282844
 adrenoylcarnitine (c22:4)	142470752
 agmatine	199
 aica ribonucleotide	65110
 alanine	5950
+alanine-alanine	5484352
 alanylalanine	601
 alanylglutamate	128841
 alanylglycine	79094
@@ -559,12 +5132,26 @@ alanylthreonine	426318
 alanyltryptophan	263474
 alanyltyrosine	92946
 alanylvaline	352807
+allantoic acid 	203
+allantoic acid dehydrated	203
 allantoin	204
 alliin	87310
 allo-isoleucine	99288
 allo-threonine	99289
 allopurinol	2094
 allopurinol riboside	456569
+alpha N-phenylacetyl-L-glutamine	92258
+alpha ketoglutarate	51
+alpha,beta-Trehalose	10871590
+alpha-12(13)-EpODE	16061061
+alpha-1213-EpODE	16061061
+alpha-Amino-gamma-butyrolactone	73509
+alpha-Guanidinoglutaric acid	135313
+alpha-L-Glu-Gly	6427052
+alpha-Methyl-DL-histidine	44134823
+alpha-N-phenylacetyl-L-glutamine	92258
+alpha-Tocopherol	14985
+alpha-aminoadipic acid	92136
 alpha-amyrin	73170
 alpha-cehc	9943542
 alpha-cehc sulfate	118437350
@@ -583,6 +5170,8 @@ alpha-ketoglutarate	51
 alpha-muricholate	3083761
 alpha-tocopherol	14985
 alpha-tocopherol acetate	86472
+altrose 	94780
+aminomalonate	100714
 amitriptyline	2160
 anacardic acid	167551
 andro steroid monosulfate	129670631
@@ -606,11 +5195,15 @@ arabinose	439195
 arabitol	94154
 arabonate	10264
 arachidate (20:0)	10467
+arachidic acid	10467
 arachidonate (20:4n6)	6442778
+arachidonic acid	444899
+arachidonic acid 	444899
 arachidonoyl ethanolamide	5281969
 arachidonoylcarnitine (c20:4)	53477832
 arachidonoylcholine	122198216
 arachidoylcarnitine (c20)	53477833
+arbutin 	440936
 arginine	6322
 argininosuccinate	439998
 arginylisoleucine	7009553
@@ -623,11 +5216,14 @@ arginylvaline	335257
 ascorbate (vitamin c)	54670067
 asmol	2083
 asparagine	6267
+asparagine dehydrated	6267
 asparagylisoleucine	17805101
 asparagylleucine	18218182
 asparagylvaline	18218188
 aspartate	5960
+aspartate 	5960
 aspartate-glutamate	151403
+aspartic acid	5960
 aspartylaspartate	332965
 aspartylleucine	3549397
 aspartylphenylalanine	93078
@@ -636,19 +5232,33 @@ assymetric dimethylarginine (adma)	123831
 atenolol	2249
 azelate (nonanedioate)	2266
 behenate (22:0)	8215
+behenic acid	8215
 behenoyl sphingomyelin (d18:1/22:0)	44260125
 behenoylcarnitine (c22)	71464577
 benzamide	2331
 benzoate	243
+benzoic acid	243
+benzoic acid 	243
 benzoylcarnitine	129022
 benzoylecgonine	448223
 benzyl alcohol	244
+beta alanine	239
+beta-Alanine	239
+beta-D-Glucose	64689
+beta-Gentiobiose	441422
+beta-Homophenylalanine	2761537
+beta-Homoproline	123784
+beta-Nicotinamide adenine dinucleotide	5893
+beta-Nicotinamide mononucleotide	14180
 beta-alanine	239
 beta-citrylglutamate	72715786
 beta-cryptoxanthin	5281235
+beta-gentiobiose	441422
+beta-glycerolphosphate	2526
 beta-hydroxyisovalerate	69362
 beta-hydroxypyruvate	964
 beta-muricholate	5283853
+beta-sitosterol	222284
 beta-sitosterol	6744
 beta-tocopherol	8989
 betaine	247
@@ -667,6 +5277,9 @@ bradykinin	439201
 bradykinin, des-arg(9)	105044
 bradykinin, hydroxy-pro(3)	169947
 bufotenine	10257
+butyraldehyde	261
+butyrolactam 	12025
+butyrolactam NIST	12025
 butyrylcarnitine	439829
 butyrylglycine	88412
 c-glycosyltryptophan	92181
@@ -676,8 +5289,10 @@ caffeic acid sulfate	122198225
 caffeine	2519
 campesterol	312822
 caprate (10:0)	2969
+capric acid	2969
 caproate (6:0)	8892
 caprylate (8:0)	379
+caprylic acid	379
 carbamazepine	2554
 carbamazepine 10,11-epoxide	2555
 carbamazepine glucuronide	83870
@@ -693,11 +5308,23 @@ catechol sulfate	289
 catechol sulfate	3083879
 catechol-sulfate	9001
 celecoxib	2662
+cellobiose	6255
+cellobiose 	6255
 cerotoylcarnitine (c26)	53477828
 chenodeoxycholate	10133
 chiro-inositol	892
+chlorogenic acid	1794427
 cholate	221493
 cholesterol	5997
+cholesteryl ester(16:0) 	6432299
+cholesteryl ester(16:1) 	22833543
+cholesteryl ester(18:1) 	5283632
+cholesteryl ester(18:2) 	5287939
+cholesteryl ester(18:3) 	6436907
+cholesteryl ester(20:3) 	53477892
+cholesteryl ester(20:4) 	6479222
+cholesteryl ester(20:5) 	53477889
+cholesteryl ester(22:6) 	14274978
 choline	305
 choline phosphate	1014
 chrysoeriol	5280666
@@ -708,17 +5335,29 @@ cinnamate	5957728
 cinnamoylglycine	709625
 cis-4-decenoyl carnitine	57357170
 cis-4-decenoylcarnitine (c10:1)	71464497
+cis-5-Tetradecenoylcarnitine	22833575
+cis-7,10,13,16,19-Docosapentaenoic acid	5497182
+cis-7,7',8,8',11,12-Hexahydro-Carotene	6857557
+cis-Vaccenic acid (18:1n-7)	5282761
 cis-aconitate	309
+cis-caffeic acid	1549111
 cis-urocanate	5461073
 cis-vaccenate (18:1n7)	5282761
 citalopram	2771
 citraconate	643798
+citraconic acid	643798
+citraconic acid 	643798
 citramalate	441696
+citramalic acid	1081
 citrate	311
+citric acid	311
 citrulline	9750
 clindamycin	446598
 codeine	5284371
 coenzyme a	6816
+conduritol beta epoxide	9989541
+conduritol-beta-epoxide	9989541
+conduritol-beta-epoxide 	9989541
 corticosterone	5753
 cortisol	5754
 cortisone	222786
@@ -728,6 +5367,7 @@ creatine	586
 creatine phosphate	9548602
 creatinine	588
 cryptochlorogenic acid	9798666
+cyano-alanine	439742
 cyanurate	7956
 cyclo(gly-phe)	7076549
 cyclo(gly-pro)	193540
@@ -737,6 +5377,7 @@ cyclo(leu-phe)	7076347
 cyclo(leu-pro)	7074739
 cyclo(leu-trp)	3082081
 cyclo(phe-phe)	76116
+cyclohexylamine 	7965
 cys-gly, oxidized	333293
 cystathionine	439258
 cysteine	5862
@@ -744,6 +5385,7 @@ cysteine s-sulfate	115015
 cysteine sulfinic acid	109
 cysteine-glutathione disulfide	3080690
 cysteinylglycine	439498
+cystine	595
 cystine	67678
 cytidine	6175
 cytidine 2',3'-cyclic monophosphate	91746159
@@ -752,18 +5394,33 @@ cytidine 5'-monophosphate (5'-cmp)	6131
 cytidine 5-monophosphate (5-cmp)	6131
 cytidine-3'-monophosphate (3'-cmp)	66535
 cytidine-5'-diphosphoethanolamine	122707
+cytidine-5-monophosphate	6131
+cytosin	597
 cytosine	597
 d-urobilin	6276321
+d4 6-keto PGF1a	5283044
+d4 6-keto PGF1a 	5283044
+d4-LTB4	16061113
+d4-PGD2	5283030
+d4-PGF2a	5283029
+d4-TXB2	16061116
+dCTP	65091
+dGMP	65059
+dTMP	9700
+dUDP	145729
 daidzein	5281708
 daidzein sulfate	129661094
 daidzein sulfate (2)	129661094
 decanoylcarnitine	150921
+dehydroabietic acid	94391
 dehydroascorbate	10280
+dehydroascorbic acid	440667
 dehydroisoandrosterone sulfate (dhea-s)	12594
 delta-cehc	11536125
 delta-tocopherol	92094
 deoxycarnitine	134
 deoxycholate	440355
+deoxypentitol	270738
 desmethylnaproxen	162920
 desmethylnaproxen sulfate	184679
 desvenlafaxine	125017
@@ -784,14 +5441,18 @@ dimethyl sulfone	6213
 dimethylarginine	123831
 dimethylarginine (sdma + adma)	123831
 dimethylglycine	673
+dioctyl phthalate	8346
 diphenhydramine	3100
 docosadienoate (22:2n6)	16061340
 docosadioate	244872
 docosahexaenoate (dha; 22:6n3)	6433873
+docosahexaenoic acid	445580
 docosapentaenoate (n3 dpa; 22:5n3)	6438348
 docosapentaenoate (n6 dpa; 22:5n6)	5497182
 docosatrienoate (22:3n3)	5312556
 dodecanedioate	12736
+dodecanoic acid, isopropanol ester 	25068
+dodecanol	8193
 dodecenedioate (c12:1-dc)	5354373
 dopamine 3-o-sulfate	122136
 dopamine sulfate	68517194
@@ -804,9 +5465,12 @@ eicosanodioate	75502
 eicosapentaenoate (epa; 20:5n3)	446284
 eicosenoate (20:1)	5282768
 eicosenoate (20:1n9 or 11)	6438157
+enolpyruvate	1005
 enterolactone	114739
 epiandrosterone sulfate	159663
 epicatechin	72276
+epsilon Caprolactam	7768
+epsilon-Caprolactam	7768
 equol	91469
 equol glucuronide	71316395
 equol sulfate	29979373
@@ -815,11 +5479,13 @@ ergothioneine	3032311
 eriodictyol	440735
 erucamide	5365371
 erucate (22:1n9)	5281116
+erythritol	222285
 erythritol	8998
 erythro-sphingosine-1-phosphate	5283560
 erythro-sphingosylphosphorylcholine	9847290
 erythromycin	12560
 erythronate	439535
+erythronic acid lactone	5325915
 erythrose	94176
 erythrulose	162406
 escitalopram	146570
@@ -834,6 +5500,7 @@ etiocholanolone glucuronide	443078
 eugenol sulfate	180632
 famotidine	5702160
 ferulate	445858
+ferulic acid	445858
 ferulic acid 4-sulfate	6305574
 fexofenadine	3348
 ffa(12:0)	3893
@@ -857,28 +5524,46 @@ fluoxetine	3386
 folate	6037
 formononetin	5280378
 fructose	439709
+fructose	5984
 fructose 1,6-bisphosphate	445557
 fructose 1-phosphate	439394
 fructose-6-phosphate	69507
+fructose-6-phosphate 	440641
 fucitol	445724
 fucose	17106
+fucose	439650
 fucosterol	5281328
 fumarate	723
+fumaric acid	444972
 furaneol	19309
 furosemide	3440
 gabapentin	3446
 galactarate (mucic acid)	3037582
+galactinol	11727586
 galactinol	439451
+galactitol	5460044
 galactitol (dulcitol)	11850
 galactonate	128869
+galactonic acid	128869
 galactose	439357
 galactose 1-phosphate	123912
 galacturonate	445929
+galacturonic acid	445929
 gallate	370
+gamma Butyrobetaine	725
+gamma-Aminobutryic acid	119
+gamma-Aminobutyric acid	119
+gamma-Butyrobetaine	725
+gamma-Glu-Cys	123938
+gamma-Glutamyl-cysteine	124202113
+gamma-Glutamyl-glutamine	150914
+gamma-Glutamylleucine	151023
 gamma-aminobutyrate (gaba)	119
+gamma-aminobutyric acid	119
 gamma-cehc	133098
 gamma-cehc glucuronide	121596235
 gamma-glutamyl-2-aminobutyrate	78437958
+gamma-glutamyl-glutamine	150914
 gamma-glutamylalanine	440103
 gamma-glutamylcysteine	123938
 gamma-glutamylfelinylglycine	87632550
@@ -909,21 +5594,32 @@ ginsenoside rb1	9898279
 ginsenoside rb2	6917976
 glucarate (saccharate)	33037
 glucoheptose	219662
+glucoheptulose	5459879
 gluconate	10690
+gluconic acid	6857417
+gluconic acid lactone	7027
 glucosamine	439213
 glucosamine-6-phosphate	439217
+glucosaminic acid	73563
 glucose	5793
+glucose	64689
 glucose 1-phosphate	65533
 glucose 6-phosphate	5958
+glucose-1-phosphate	65533
+glucose-6-phosphate 	5958
 glucose-6-phosphate (g6p)	208
 glucuronate	444791
 glutamate	23327
+glutamate 	33032
 glutamate gamma-methyl ester	73913
 glutamate, gamma-methyl ester	68662
+glutamic acid	33032
 glutamine	5961
+glutamine dehydrated	5961
 glutamylglutamate	92865
 glutamylvaline	433630
 glutarate (pentanedioate)	743
+glutaric acid	743
 glutaroyl carnitine	3036008
 glutarylcarnitine	3036008
 glutarylcarnitine (c5)	71464488
@@ -931,10 +5627,14 @@ glutathione oxidized (gssg)	65359
 glutathione, oxidized (gssg)	975
 glutathione, reduced (gsh)	124886
 glycerate	439194
+glyceric acid	439194
+glyceric acid	752
 glycerol	753
 glycerol 2-phosphate	3611397
 glycerol 3-phosphate	754
 glycerol 3-phosphate (g3p)	439162
+glycerol-3-galactoside	16048618
+glycerol-alpha-phosphate	754
 glycerophosphoethanolamine	123874
 glycerophosphoglycerol	439964
 glycerophosphoinositol	167572
@@ -947,12 +5647,14 @@ glycochenodeoxycholate sulfate	25245393
 glycocholate	439604
 glycocholenate sulfate	10140
 glycocholenate sulfate	145453482
+glycocyamine	763
 glycodeoxycholate	440688
 glycodeoxycholate sulfate	101602538
 glycohyocholate	121596236
 glycohyocholate	156963118
 glycohyodeoxycholic acid	114611
 glycolate (hydroxyacetate)	757
+glycolic acid	757
 glycolithocholate	115245
 glycolithocholate sulfate	72222
 glycoursodeoxycholate	12310288
@@ -985,17 +5687,25 @@ gulono-1,4-lactone	439373
 gulono-14-lactone	439373
 heme	26945
 hepes	6439678
+heptadecanoic acid	10465
 heptaethylene glycol	79718
 heptanoate (7:0)	8094
 heptenedioate (c7:1-dc)	385
 hesperetin	72281
+hexadecane	11006
 hexadecanedioate	10459
 hexadecenedioate (c16:1-dc)	12099230
+hexadecylglycerol 	72733
 hexaethylene glycol	17472
 hexanoylcarnitine	6426853
 hexanoylglutamine	28880746
 hexanoylglycine	99463
+hexitol	453
+hexose	206
+hexuronic acid	152867
+hexuronic acid	439215
 hippurate	464
+hippuric acid	464
 his-gly	101179
 histamine	774
 histidine	6274
@@ -1024,14 +5734,19 @@ hydroquinone	785
 hydroquinone beta-d-glucopyranoside	440936
 hydroquinone sulfate	161220
 hydroxybupropion	446
+hydroxycarbamate 	16639161
+hydroxycarbamate NIST	16639161
 hydroxycotinine	107963
 hydroxyisovaleroyl carnitine	53481626
+hydroxylamine	787
 hydroxypioglitazone	4147757
 hyocholate	92805
 hyodeoxycholate	227033
 hypotaurine	107812
 hypoxanthine	790
 i-urobilinogen	26818
+iSTD iSTD FA (16:0)-d3 	12358530
+iSTD iSTD PG (17:0/17:0) 	52927160
 ibuprofen	3672
 ibuprofen acyl glucuronide	163959
 imidazole lactate	459122
@@ -1041,7 +5756,10 @@ imidazole propionate	6984337
 iminodiacetate	3344189
 iminodiacetate (ida)	3344189
 imipramine	3696
+indole 3 acetate	802
+indole-3-acetate	802
 indole-3-carboxylic acid	69867
+indole-3-lactate	92904
 indoleacetate	802
 indoleacetylglutamine	25200879
 indoleacetylglutamine	69382574
@@ -1055,15 +5773,21 @@ inosine	6021
 inosine 5'-monophosphate (imp)	8582
 inositol 1-phosphate (i1p)	107737
 inositol hexakisphosphate	890
+inositol-4-monophosphate	440043
 isobar: betaine aldehyde, n-methyldiethanolamine	7767
 isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate	718
 isobar: fructose 16-diphosphate glucose 16-diphosphate	445557
+isobutene glycol NIST	68410
 isobutyrylcarnitine	168379
 isobutyrylglycine	10855600
 isocaproate	12587
+isochlorogenic acid	5280633
 isocitrate	1198
+isocitric acid	5318532
 isocitric lactone	98259
 isoeugenol sulfate	122198202
+isohexonic acid	604
+isoleucine	6306
 isoleucine	791
 isoleucinylproline	342734
 isoleucylalanine	417358
@@ -1084,25 +5808,35 @@ isoleucylvaline	449407
 isomaltose	439193
 isopalmitic acid	36247
 isorhamnetin	5281654
+isoribose	10975657
 isosorbide	12597
+isothreonic acid	151152
 isoursodeoxycholate	127601
 isovalerate	10430
 isovalerylcarnitine	169235
 isovalerylglycine	546304
 isovitexin	162350
 itaconate (methylenesuccinate)	811
+itaconic acid	811
 kaempferol	5280863
 ketopioglitazone	5201446
 kynurenate	3845
 kynurenine	846
+l-glutamic acid	33032
 l-methyldopa	38853
 l-urobilin	5280818
 lactate	107689
+lactic acid	612
+lactitol	157355
+lactobionic acid 	7314
 lactose	84571
+lactulose 	11333
 lanosterol	246983
 lansoprazole	3883
 lathosterol	65728
 laurate (12:0)	3893
+lauric acid	3893
+lauric acid 	3893
 laurylcarnitine	168381
 leu-leu-leu	82546
 leucine	6106
@@ -1126,23 +5860,35 @@ leucyltyrosine	273262
 leucylvaline	352038
 leukotriene b4	5280492
 leukotriene b5	5283125
+levoglucosan	2724705
 levulinate (4-oxovalerate)	11579
 lidocaine	3676
 lignocerate (24:0)	11197
+lignoceric acid	11197
 lignoceroylcarnitine (c24)	142470749
 linamarin	11128
 linoleamide (18:2n6)	6435901
 linoleamide-18-2n6	6435901
 linoleate (18:2n6)	3931
+linoleic acid	5280450
+linoleic acid 	5280450
 linolenate [alpha or gamma; (18:3n3 or 6)]	860
+linolenic acid	5280934
 linolenoylcarnitine (c18:3)	134812245
 linoleoyl ethanolamide	5283446
 linoleoylcarnitine	6450015
 lipitor	60822
 lithocholate	9903
+lithocholic acid	9903
 loperamide	3955
 luteolin	5280445
 lysine	5962
+lysoPC 16:0; PC(16:0/0:0); [M+FA-H]-	460602
+lysoPC 18:0; PC(18:0/0:0); [M+H]+	497299
+lysoPC 18:1; PC(18:1(11E)/0:0); [M+H]+	16081932
+lysoPE 16:0; PE(16:0/0:0); [M+H]+	9547069
+lysoPE 16:0; PE(16:0/0:0); [M-H]-	9547069
+lysoPE 18:2; PE(18:2(2E,4E)/0:0); [M+H]+	53480926
 lysylisoleucine	18218225
 lysylleucine	4682588
 lysylmethionine	7016114
@@ -1150,15 +5896,27 @@ lysylphenylalanine	151410
 lysylproline	171204
 lysyltyrosine	14693924
 lysylvaline	6992341
+lyxitol	439255
+lyxose minor	439240
+m-Coumaric acid	637541
+m-Tyramine	11492
+m/p-Xylene	7809
 malate	525
 maleamate	5280451
 maleate	444266
+maleic acid	444266
+maleimide	10935
+malic acid	525
+malic acid 	525
 malonate	867
+malonic acid	867
 malonylcarnitine	22833583
+maltitol	493591
 maltohexaose	439606
 maltol	8369
 maltopentaose	124005
 maltose	439186
+maltose 	439186
 maltotetraose	439639
 maltotriose	439586
 mandelate	439616
@@ -1171,17 +5929,22 @@ margarate (17:0)	10465
 margaroylcarnitine (c17)	53477803
 mead acid (20:3n9)	5312531
 melamine	7955
+melibiose 	440658
 meprobamate	4064
 mesaconate (methylfumarate)	874
 metformin	4091
+methanolphosphate	13130
 methionine	6137
 methionine sulfone	69961
+methionine sulfoxide	158980
 methionine sulfoxide	847
 methionylalanine	14878381
 methionylleucine	444206
 methionylphenylalanine	100048
 methionylthreonine	18218230
 methotrexate	126941
+methyl O-galactopyranoside	94214
+methyl ester-Arginine	92932
 methyl indole-3-acetate	74706
 methyl linoleate	5284421
 methyl palmitate	8181
@@ -1192,6 +5955,8 @@ methyl-4-hydroxybenzoate sulfate	122164837
 methyl-alpha-glucopyranoside	64947
 methyl-beta-glucopyranoside	2108
 methylglutaroylcarnitine	128145
+methylhexose nist	560150
+methylmalonic acid	487
 methylphosphate	12691389
 methylsuccinate	10349
 metoprolol	4171
@@ -1199,9 +5964,12 @@ metoprolol acid metabolite	62936
 mevalonate	439230
 mianserine	4184
 milnacipran	65833
+mucic acid	3037582
 muco-inositol	892
+myo-Inositol	892
 myo-inositol	892
 myristate (14:0)	11005
+myristic acid	11005
 myristoleate (14:1n5)	5281119
 myristoleoylcarnitine	129691961
 myristoleoylcarnitine (c14:1)	90659872
@@ -1211,6 +5979,7 @@ myristoylglycerol (monomyristin)	79050
 n(4)-acetylspermidine	128317
 n-(2-furoyl)glycine	21863
 n-6-trimethyllysine	6992003
+n-Octadecylamine	15793
 n-acetyl-1-methylhistidine	53859791
 n-acetyl-3-methylhistidine	193270
 n-acetyl-aspartyl-glutamate (naag)	5255
@@ -1231,6 +6000,7 @@ n-acetylglucosamine 6-phosphate	150941
 n-acetylglucosamine 6-sulfate	160936
 n-acetylglucosaminylasparagine	123826
 n-acetylglutamate	185
+n-acetylglutamate	70914
 n-acetylglutamine	25561
 n-acetylglycine	10972
 n-acetylhistamine	69602
@@ -1324,6 +6094,7 @@ nicotinate	938
 nicotinate adenine dinucleotide (naad+)	165490
 nicotinate ribonucleoside	121991
 nicotine	89594
+nicotinic acid	938
 nicotinic acid mononucleotide (namn)	121991
 nicotinurate	68499
 nifedipine	4485
@@ -1331,6 +6102,7 @@ nimesulide	4495
 nonadecanoate (19:0)	12591
 norfluoxetine	4541
 nornicotine	412
+o-Xylene	7237
 o-acetylhomoserine	439389
 o-acetylserine	189
 o-cresol sulfate	11615528
@@ -1341,13 +6113,17 @@ o-sulfo-l-tyrosine	514186
 ochratoxin a	442530
 octadecadienedioate (c18:2-dc)	25156710
 octadecanedioate	70095
+octadecanol	8221
 octadecenedioate (c18:1-dc)	20444354
+octadecylglycerol	3681
 octaethylene glycol	78798
+octanol 	957
 octanoylcarnitine	439824
 ofloxacin	149096
 oleamide	5283387
 oleanolate	11865404
 oleate (18:1n9)	965
+oleic acid	445639
 oleic ethanolamide	5283454
 oleoyl ethanolamide	5283454
 oleoyl sphingomyelin	6443882
@@ -1357,20 +6133,34 @@ oleoyltaurine	6437033
 omeprazole	4594
 ophthalmate	193304
 ornithine	6262
+ornithine	88747248
+ornithine 	6262
 orotate	967
 orotidine	92751
 oxalate (ethanedioate)	71081
+oxalic acid	971
 oxaloacetate	970
 oxamate	974
 oxamide	10113
+oxoproline	7405
 oxypurinol	4644
+p-Acetamidophenol	1983
+p-Acetamidophenyl beta-D-glucuronide	83944
+p-Aminobenzoic acid	978
+p-Hydroxyphenylacetic acid	127
+p-Octopamine	440266
+p-Synephrine	7172
+p-Toluenesulfonic acid	6101
 p-acetamidophenylglucuronide	83944
+p-coumaric acid	637542
 p-cresol sulfate	2879
 p-hydroxybenzaldehyde	126
 p-toluic acid	7470
 palmitate (16:0)	985
+palmitic acid	985
 palmitic amide	69421
 palmitoleate (16:1n7)	5282745
+palmitoleic acid	445638
 palmitoleoylcarnitine (c16:1)	71464547
 palmitoyl dihydrosphingomyelin (d18:0/16:0)	9939965
 palmitoyl ethanolamide	4671
@@ -1381,14 +6171,21 @@ palmitoylcholine	151731
 panose	94448
 pantoprazole	4679
 pantothenate	6613
+pantothenic acid	6613
+parabanic acid 	67126
 paraxanthine	4687
 paroxetine	43815
 pelargonate (9:0)	8158
+pelargonic acid	8158
 penicillin g	5904
 pentadecanoate (15:0)	13849
+pentadecanoic acid	13849
 pentaethylene glycol	62551
+pentitol	827
 pentobarbital	4737
+pentonic acid	10264
 phenobarbital	4763
+phenol	996
 phenol red	4766
 phenol sulfate	74426
 phenolphthalein beta-d-glucuronide	23708193
@@ -1417,9 +6214,11 @@ phenylpropanolamine	26934
 phenylpropionylglycine	1608347
 phenylpyruvate	997
 pheophorbide a	5323510
+phosphate	1004
 phosphate	1061
 phosphoenolpyruvate (pep)	1005
 phosphoethanolamine	1015
+phosphogluconic acid	91493
 phosphoglycerate (2 or 3)	18944928
 phosphopantetheine	987
 phthalic acid	1017
@@ -1428,10 +6227,13 @@ phytol	5280435
 phytosphingosine	122121
 picolinate	1018
 pimelate (heptanedioate)	5242388
+pimelic acid	385
+pinitol	164619
 pinitol	439255
 pinoresinol	73399
 pioglitazone	4829
 pipecolate	849
+pipecolinic acid	736316
 piperidine	8082
 piperine	638024
 pivaloylcarnitine	126894
@@ -1449,20 +6251,26 @@ prolylglutamate	131750781
 prolylleucine	173815
 prolylphenylalanine	6351946
 prolyltryptophan	7408124
+propane-1,3-diol 	10442
+propane-1,3-diol NIST	10442
 propionylcarnitine	107738
 propionylglycine	98681
 propyl 4-hydroxybenzoate sulfate	121225983
 prostaglandin e2	5280360
 prostaglandin i2	114805
+pseudo uridine	15047
+pseudo-uridine	15047
 pseudoephedrine	7028
 pseudouridine	15047
 pterin	73000
 putrescine	1045
+putrescine	1049
 pyridoxal	1050
 pyridoxal phosphate	1051
 pyridoxamine	1052
 pyridoxamine phosphate	1053
 pyridoxate	6723
+pyrogallol	1057
 pyroglutamine	11984188
 pyroglutamine	134508
 pyroglutamine	499
@@ -1470,16 +6278,23 @@ pyroglutamylglutamine	11010621
 pyroglutamylglycine	152981
 pyroglutamylvaline	152416
 pyropheophorbide a	5489042
+pyrophosphate 	1023
 pyrophosphate (ppi)	1023
 pyrraline	122228
+pyrrole-2-carboxylic acid	12473
 pyruvate	1060
+pyruvic acid	1060
 quebrachitol	151108
 quercetin	5280343
 quinate	6508
+quinic acid	6508
 quinidine	441074
 quinine	3034034
 quinolinate	1066
+rac-Didemethylcitalopram	162976
+rac-Glycerol 3-phosphoate	754
 raffinose	10542
+raffinose	439242
 ranitidine	3001055
 retinol (vitamin a)	445354
 rhamnose	25310
@@ -1487,11 +6302,14 @@ ribitol	827
 riboflavin (vitamin b2)	6759
 ribonate	5460050
 ribonate	5460677
+ribonic acid	5460677
+ribose	5311110
 ribose	5779
 ribose 1-phosphate	439236
 ribose 5-phosphate	77982
 ribulose	619
 ribulose 5-phosphate	439167
+ricinoleic acid 	643684
 rocuronium	441290
 s-1-pyrroline-5-carboxylate	1196
 s-adenosylhomocysteine (sah)	439155
@@ -1503,10 +6321,13 @@ s-methylcysteine	24417
 s-methylcysteine sulfoxide	99483
 s-methylglutathione	25200497
 s-methylmethionine	458
+saccharic acid	33037
 saccharin	5143
 saccharopine	160556
+salicylaldehyde	6998
 salicylamide	5147
 salicylate	338
+salicylic acid	338
 salicyluric glucuronide	121596205
 sarcosine	1088
 sarcosine (n-methylglycine)	1088
@@ -1524,10 +6345,12 @@ serylleucine	13919048
 serylproline	14647613
 seryltyrosine	7021866
 serylvaline	7020159
+shikimic acid	8742
 sinapate	637775
 sitostanol	241572
 skatol	6736
 solanidine	65727
+sophorose	441432
 sophorose	92797
 sorbate	1549237
 sorbitol	5780
@@ -1543,11 +6366,13 @@ sphingosine	31270
 sphingosine 1-phosphate	5283560
 sphingosyl-phosphocholine	5280613
 squalene	1105
+squalene	638072
 stachydrine	554
 stachyose	439531
 stearamide	31292
 stearate (18:0)	5281
 stearate, methyl ester	8201
+stearic acid	5281
 stearidonate (18:4n3)	25245840
 stearoyl ethanolamide	27902
 stearoyl sphingomyelin	5260
@@ -1571,12 +6396,15 @@ suberate (octanedioate)	10457
 suberoylcarnitine (c8-dc)	71464531
 suberylglycine	6453952
 succinate	1110
+succinate semialdehyde	1112
+succinic acid	1110
 succinimide	11439
 succinyl coa	439161
 succinylcarnitine	439829
 succinylcarnitine (c4-dc)	71464481
 sucralose	71485
 sucrose	5988
+sucrose-6-phosphate	644101
 sulfate	1117
 sulforaphane	5350
 sulforaphane-cysteine	10402443
@@ -1584,8 +6412,10 @@ sulforaphane-n-acetyl-cysteine	71752290
 symmetric dimethylarginine (sdma)	169148
 syringaldehyde	8655
 syringic acid	10742
+tagatose	439312
 tagatose	92092
 tartarate	444305
+tartaric acid	444305
 tartronate (hydroxymalonate)	45
 taurine	1123
 tauro-beta-muricholate	168408
@@ -1613,6 +6443,8 @@ thiamin diphosphate	1132
 thiamin monophosphate	1131
 threitol	169019
 threonate	151152
+threonic acid	5460407
+threonic acid 	5460407
 threonine	6288
 threonylalanine	18218243
 threonylarginine	9900215
@@ -1634,11 +6466,24 @@ tigloylglycine	6441567
 tiglyl carnitine	22833596
 tiglylcarnitine	22833596
 tiglylcarnitine (c5:1-dc)	22833596
+tocopherol alpha	14985
+tocopherol alpha-	638015
+tocopherol beta 	8989
 tramadol	33741
+tranexamic acid	5526
+trans Crotonobetaine	5462194
+trans-12,13-epoxy-11-oxo-trans-9-octadecenoic acid	5283007
+trans-4-Aminocyclohexanol	81293
 trans-4-hydroxyproline	5810
+trans-Crotonobetaine	5462194
+trans-Ferulic acid	445858
+trans-Nicotine-1'-oxide	71751018
+trans-Nonachlor	12313421
+trans-Zeatin	449093
 trans-aconitate	444212
 trans-urocanate	5460052
 traumatic acid	5283028
+trehalose	7427
 triamterene	5546
 tricarballylate	14925
 tricosanoate (23:0)	17085
@@ -1651,6 +6496,7 @@ trimethylamine n-oxide	1145
 trizma acetate	16218782
 tryptamine	1150
 tryptophan	6305
+tryptophan 	6305
 tryptophan betaine	160488
 tryptophan betaine	442106
 tryptophylalanine	263475
@@ -1693,13 +6539,16 @@ undecanoate (11:0)	8180
 uracil	1174
 urate	1175
 urea	1176
+uric acid	1175
 uridine	6029
 uridine 5'-diphosphate (udp)	6031
 uridine 5'-monophosphate (ump)	1172
 uridine 5'-triphosphate (utp)	6133
 uridine monophosphate (5' or 3')	6030
+uridine-5'-monophosphate	6030
 urobilinogen	26818
 urocanate	1178
+urocanic acid	736715
 ursodeoxycholate	31401
 ursolic acid	64945
 val-val-val	7020215
@@ -1708,6 +6557,7 @@ valerate	7991
 valerylcarnitine	6426903
 valerylglycine	4737557
 valine	1182
+valine	6287
 valylalanine	334517
 valylarginine	4266827
 valylaspartate	9964657
@@ -1728,6 +6578,7 @@ valyltyrosine	4065033
 valylvaline	409682
 vanillactate	21677752
 vanillate	8468
+vanillic acid	8468
 vanillin	1183
 vanillylmandelate (vma)	736172
 vanilpyruvate	36688420
@@ -1741,5 +6592,10 @@ xanthosine 5'-monophosphate (xmp)	73323
 xanthurenate	5699
 xylitol	6912
 xylonate	6971042
+xylonic acid 	10264
+xylonolactone	439692
 xylose	135191
 xylulose	22253
+xylulose 	439205
+xylulose NIST	439205
+zymosterol	92746
