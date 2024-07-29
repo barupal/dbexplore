@@ -35,4 +35,5 @@ Sample MSP file /home/username/msdata/rawdata/ST002016/RPESIPOS/CSA/DDA/DDA_MSP/
 Output TSV file /home/username/MSData/results/ST002016/RPESIPOS/CSA/DDA/DDA_MSP/DDA_MSP_Pooled_QC_ID_01.mzML.tsv
 NIST library locatioin /home/username/NIST23/MSSEARCH/hr_msms_nist 
 ```
-### Wine can be called from python/R script to run the spectra similarity on multiple cores and for multiple MSP files. 
+### Wine can be called from python/R script to run the spectra similarity on multiple cores and for multiple MSP files, and it is normally available in HPC servers. 
+
