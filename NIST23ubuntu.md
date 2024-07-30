@@ -1,10 +1,10 @@
 ## Running NIST PepSearch in Ubuntu using NIST PepSearch utility
 
-The NIST MS/MS 2023 database, containing 51,501 compounds and 2.4 million spectra, is an invaluable resource for metabolomics research. This extensive database represents a significant advancement over the NIST 2020 version, providing researchers with an expanded repertoire of spectral data for metabolite identification and annotation.
+The NIST MS/MS 2023 database ( https://www.nist.gov/programs-projects/nist23-updates-nist-tandem-and-electron-ionization-spectral-libraries ), containing 51,501 compounds and 2.4 million spectra, is an invaluable resource for metabolomics research. This extensive database represents a significant advancement over the NIST 2020 version, providing researchers with an expanded repertoire of spectral data for metabolite identification and annotation.
 
 In metabolomics, the identification of unknown metabolites in complex biological samples is a critical challenge. Tandem mass spectrometry (MS/MS) plays a crucial role in this process, generating fragmentation spectra that serve as fingerprints for individual metabolites. By comparing experimental MS/MS spectra against reference libraries like NIST, researchers can confidently identify known metabolites and potentially discover novel ones.
 
-The NIST PepSearch utility is a powerful tool for conducting similarity searches between experimental MS/MS spectra and the reference spectra in the NIST database. However, this tool is primarily designed for Windows operating systems. Researchers using Linux distributions like Ubuntu can leverage the Wine compatibility layer to seamlessly run NIST PepSearch within their Linux environment.
+The NIST PepSearch utility https://chemdata.nist.gov/dokuwiki/doku.php?id=peptidew:mspepsearch is a powerful tool for conducting similarity searches between experimental MS/MS spectra and the reference spectra in the NIST database. However, this tool is primarily designed for Windows operating systems. Researchers using Linux distributions like Ubuntu can leverage the Wine compatibility layer to seamlessly run NIST PepSearch within their Linux environment.
 
 By following the instructions outlined in this guide, researchers can easily install Wine on Ubuntu and execute NIST PepSearch to perform comprehensive similarity searches against the NIST MS/MS 2023 database. The provided command-line example demonstrates how to initiate a search using a sample MSP file, specifying the output TSV file, and designating the location of the NIST library.
 
