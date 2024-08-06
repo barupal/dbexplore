@@ -25,7 +25,7 @@ wine --version
 ## Run Spectra Similarity Search Against NIST 23 Database
 
 ```
-wine /home/username/NIST23/PEPSEARCH/MSPepSearch64.exe /INP /home/username/msdata/rawdata/ST002016/RPESIPOS/CSA/DDA/DDA_MSP/DDA_MSP_Pooled_QC_ID_01.mzML.msp  /OUTTAB /home/username/MSData/results/ST002016/RPESIPOS/CSA/DDA/DDA_MSP/DDA_MSP_Pooled_QC_ID_01.mzML.tsv /LIB /home/username/NIST23/MSSEARCH/hr_msms_nist r d v i z /Z 0.008 /M 0.01 /MinMF 100 /HITS 5 /MzLimits 0 2000 /OnlyFound /OutPrecursorMZ /OutDeltaPrecursorMZ /OutPrecursorType /OutChemForm /OutNISTrn /OutSpecNum /OutCE /OutNumMP  /OutNumMP /OutIK /OutRevMF /OutRRevMF /HiPri /LibInMem
+wine /home/username/NIST23/PEPSEARCH/MSPepSearch64.exe /INP /home/username/msdata/rawdata/ST002016/RPESIPOS/CSA/DDA/DDA_MSP/DDA_MSP_Pooled_QC_ID_01.mzML.msp  /OUTTAB /home/username/MSData/results/ST002016/RPESIPOS/CSA/DDA/DDA_MSP/DDA_MSP_Pooled_QC_ID_01.mzML.tsv /LIB /home/username/NIST23/MSSEARCH/hr_msms_nist /LIB /home/username/NIST23/MSSEARCH/hr_msms_nist#2 r d i z /Z 0.008 /M 0.01 /MinMF 100 /HITS 20 /MzLimits 0 2000 /OnlyFound /OutPrecursorMZ /OutDeltaPrecursorMZ /OutPrecursorType /OutChemForm /OutNISTrn /OutSpecNum /OutCE /OutNumMP  /OutNumMP /OutIK /OutRevMF /OutRRevMF /HiPri /LibInMem
 ```
 Remember to change these paths:
 
